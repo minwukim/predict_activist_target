@@ -1,0 +1,2712 @@
+,ID,company_name,KNN_BorderlineSmote_LR_0.782,mean_rank
+1,AXSM UQ Equity,Axsome Therapeutics Inc,1.0,1.0
+2,INGN UW Equity,Inogen Inc,2.0,2.0
+3,NUS UN Equity,Nu Skin Enterprises Inc,3.0,3.0
+4,BCOV UW Equity,Brightcove Inc,4.0,4.0
+5,SILK UW Equity,Silk Road Medical Inc,5.0,5.0
+6,KVHI UW Equity,KVH Industries Inc,6.0,6.0
+7,OM UW Equity,Outset Medical Inc,7.0,7.0
+8,FOSL UW Equity,Fossil Group Inc,8.0,8.0
+9,BHR UN Equity,Braemar Hotels & Resorts Inc,9.0,9.0
+10,UGI UN Equity,UGI Corp,10.0,10.0
+11,UCTT UW Equity,Ultra Clean Holdings Inc,11.0,11.0
+12,LXFR UN Equity,Luxfer Holdings PLC,12.0,12.0
+13,KZR UW Equity,Kezar Life Sciences Inc,13.0,13.0
+14,FLGT UQ Equity,Fulgent Genetics Inc,14.0,14.0
+15,NTGR UW Equity,NETGEAR Inc,15.0,15.0
+16,OFIX UW Equity,Orthofix Medical Inc,16.0,16.0
+17,SRI UN Equity,Stoneridge Inc,17.0,17.0
+18,CNDT UW Equity,Conduent Inc,18.0,18.0
+19,WWW UN Equity,Wolverine World Wide Inc,19.0,19.0
+20,EAF UN Equity,GrafTech International Ltd,20.0,20.0
+21,AVD UN Equity,American Vanguard Corp,21.0,21.0
+22,HCAT UW Equity,Health Catalyst Inc,22.0,22.0
+23,CNTY UR Equity,Century Casinos Inc,23.0,23.0
+24,GRWG UR Equity,GrowGeneration Corp,24.0,24.0
+25,TG UN Equity,Tredegar Corp,25.0,25.0
+26,AMC UN Equity,AMC Entertainment Holdings Inc,26.0,26.0
+27,RRGB UW Equity,Red Robin Gourmet Burgers Inc,27.0,27.0
+28,CATO UN Equity,Cato Corp/The,28.0,28.0
+29,EBS UN Equity,Emergent BioSolutions Inc,29.0,29.0
+30,ENTA UW Equity,Enanta Pharmaceuticals Inc,30.0,30.0
+31,NVRI UN Equity,Enviri Corp,31.0,31.0
+32,NVCR UW Equity,Novocure Ltd,32.0,32.0
+33,APPS UR Equity,Digital Turbine Inc,33.0,33.0
+34,TSE UN Equity,Trinseo PLC,34.0,34.0
+35,FET UN Equity,Forum Energy Technologies Inc,35.0,35.0
+36,AMWL UN Equity,American Well Corp,36.0,36.0
+37,HAIN UW Equity,Hain Celestial Group Inc/The,37.0,37.0
+38,CPSI UW Equity,Computer Programs and Systems,38.0,38.0
+39,RDUS UW Equity,Schnitzer Steel Industries Inc,39.0,39.0
+40,SGH UW Equity,SMART Global Holdings Inc,40.0,40.0
+41,ASTE UW Equity,Astec Industries Inc,41.0,41.0
+42,SAVA UR Equity,Cassava Sciences Inc,42.0,42.0
+43,ORGN UR Equity,Origin Materials Inc,43.0,43.0
+44,AOSL UW Equity,Alpha & Omega Semiconductor Lt,44.0,44.0
+45,UFCS UW Equity,United Fire Group Inc,45.0,45.0
+46,OPI UW Equity,Office Properties Income Trust,46.0,46.0
+47,ANGO UW Equity,AngioDynamics Inc,47.0,47.0
+48,EHTH UW Equity,eHealth Inc,48.0,48.0
+49,DXC UN Equity,DXC Technology Co,49.0,49.0
+50,SHCR UW Equity,Sharecare Inc,50.0,50.0
+51,FARO UW Equity,FARO Technologies Inc,51.0,51.0
+52,PRA UN Equity,ProAssurance Corp,52.0,52.0
+53,XPER UN Equity,Xperi Inc,53.0,53.0
+54,ICUI UW Equity,ICU Medical Inc,54.0,54.0
+55,PEB UN Equity,Pebblebrook Hotel Trust,55.0,55.0
+56,CVGI UW Equity,Commercial Vehicle Group Inc,56.0,56.0
+57,MCS UN Equity,Marcus Corp/The,57.0,57.0
+58,ME UW Equity,23andMe Holding Co,58.0,58.0
+59,TWOU UW Equity,2U Inc,59.0,59.0
+60,TBI UN Equity,TrueBlue Inc,60.0,60.0
+61,ST UN Equity,Sensata Technologies Holding P,61.0,61.0
+62,HLIO UN Equity,Helios Technologies Inc,62.0,62.0
+63,KD UN Equity,Kyndryl Holdings Inc,63.0,63.0
+64,CNNE UN Equity,Cannae Holdings Inc,64.0,64.0
+65,POR UN Equity,Portland General Electric Co,65.0,65.0
+66,SVC UW Equity,Service Properties Trust,66.0,66.0
+67,GDOT UN Equity,Green Dot Corp,67.0,67.0
+68,JBLU UW Equity,JetBlue Airways Corp,68.0,68.0
+69,ASRT UR Equity,Assertio Holdings Inc,69.0,69.0
+70,MDU UN Equity,MDU Resources Group Inc,70.0,70.0
+71,PETS UW Equity,PetMed Express Inc,71.0,71.0
+72,NBR UN Equity,Nabors Industries Ltd,72.0,72.0
+73,VNDA UQ Equity,Vanda Pharmaceuticals Inc,73.0,73.0
+74,ATSG UW Equity,Air Transport Services Group I,74.0,74.0
+75,SGMO UW Equity,Sangamo Therapeutics Inc,75.0,75.0
+76,C UN Equity,Citigroup Inc,76.0,76.0
+77,GCI UN Equity,Gannett Co Inc,77.0,77.0
+78,BFLY UN Equity,Butterfly Network Inc,78.0,78.0
+79,INN UN Equity,Summit Hotel Properties Inc,79.0,79.0
+80,GLT UN Equity,Glatfelter Corp,80.0,80.0
+81,MTZ UN Equity,MasTec Inc,81.0,81.0
+82,PDM UN Equity,Piedmont Office Realty Trust I,82.0,82.0
+83,HCSG UW Equity,Healthcare Services Group Inc,83.0,83.0
+84,VERI UQ Equity,Veritone Inc,84.0,84.0
+85,ONL UN Equity,Orion Office REIT Inc,85.0,85.0
+86,KPTI UW Equity,Karyopharm Therapeutics Inc,86.0,86.0
+87,XHR UN Equity,Xenia Hotels & Resorts Inc,87.0,87.0
+88,DRQ UN Equity,Dril-Quip Inc,88.0,88.0
+89,CEVA UW Equity,CEVA Inc,89.0,89.0
+90,IPI UN Equity,Intrepid Potash Inc,90.0,90.0
+91,BIGC UQ Equity,BigCommerce Holdings Inc,91.0,91.0
+92,TALO UN Equity,Talos Energy Inc,92.0,92.0
+93,KE UW Equity,Kimball Electronics Inc,93.0,93.0
+94,AAN UN Equity,Aaron's Co Inc/The,94.0,94.0
+95,ARAY UW Equity,Accuray Inc,95.0,95.0
+96,TELA UQ Equity,Tela Bio Inc,96.0,96.0
+97,TSN UN Equity,Tyson Foods Inc,97.0,97.0
+98,ARQT UW Equity,Arcutis Biotherapeutics Inc,98.0,98.0
+99,ANIK UW Equity,Anika Therapeutics Inc,99.0,99.0
+100,GPRO UW Equity,GoPro Inc,100.0,100.0
+101,ICHR UW Equity,Ichor Holdings Ltd,101.0,101.0
+102,MLAB UW Equity,Mesa Laboratories Inc,102.0,102.0
+103,MD UN Equity,Pediatrix Medical Group Inc,103.0,103.0
+104,ADPT UW Equity,Adaptive Biotechnologies Corp,104.0,104.0
+105,B UN Equity,Barnes Group Inc,105.0,105.0
+106,CHK UW Equity,Chesapeake Energy Corp,106.0,106.0
+107,AVNS UN Equity,Avanos Medical Inc,107.0,107.0
+108,EXC UW Equity,Exelon Corp,108.0,108.0
+109,WSBF UW Equity,Waterstone Financial Inc,109.0,109.0
+110,HUN UN Equity,Huntsman Corp,110.0,110.0
+111,WKC UN Equity,World Kinect Corp,111.0,111.0
+112,KMPR UN Equity,Kemper Corp,112.0,112.0
+113,STRO UQ Equity,Sutro Biopharma Inc,113.0,113.0
+114,MYPS UQ Equity,Playstudios Inc,114.0,114.0
+115,CRNC UW Equity,Cerence Inc,115.0,115.0
+116,PRMW UN Equity,Primo Water Corp,116.0,116.0
+117,COHU UW Equity,Cohu Inc,117.0,117.0
+118,DHX UN Equity,DHI Group Inc,118.0,118.0
+119,BDN UN Equity,Brandywine Realty Trust,119.0,119.0
+120,LPTV UA Equity,Loop Media Inc,120.0,120.0
+121,MPW UN Equity,Medical Properties Trust Inc,121.0,121.0
+122,LICY UN Equity,Li-Cycle Holdings Corp,122.0,122.0
+123,HIW UN Equity,Highwoods Properties Inc,123.0,123.0
+124,SATS UW Equity,EchoStar Corp,124.0,124.0
+125,KODK UN Equity,Eastman Kodak Co,125.0,125.0
+126,FDP UN Equity,Fresh Del Monte Produce Inc,126.0,126.0
+127,PNW UN Equity,Pinnacle West Capital Corp,127.0,127.0
+128,KBR UN Equity,KBR Inc,128.0,128.0
+129,CERS UQ Equity,Cerus Corp,129.0,129.0
+130,FGEN UW Equity,FibroGen Inc,130.0,130.0
+131,MTW UN Equity,Manitowoc Co Inc/The,131.0,131.0
+132,CIO UN Equity,City Office REIT Inc,132.0,132.0
+133,CHPT UN Equity,ChargePoint Holdings Inc,133.0,133.0
+134,WHR UN Equity,Whirlpool Corp,134.0,134.0
+135,WKHS UR Equity,Workhorse Group Inc,135.0,135.0
+136,EVBG UQ Equity,Everbridge Inc,136.0,136.0
+137,NWN UN Equity,Northwest Natural Holding Co,137.0,137.0
+138,LASR UW Equity,nLight Inc,138.0,138.0
+139,EPC UN Equity,Edgewell Personal Care Co,139.0,139.0
+140,TNDM UQ Equity,Tandem Diabetes Care Inc,140.0,140.0
+141,BJRI UW Equity,BJ's Restaurants Inc,141.0,141.0
+142,KMX UN Equity,CarMax Inc,142.0,142.0
+143,GXO UN Equity,GXO Logistics Inc,143.0,143.0
+144,VPG UN Equity,Vishay Precision Group Inc,144.0,144.0
+145,ARMK UN Equity,Aramark,145.0,145.0
+146,THS UN Equity,TreeHouse Foods Inc,146.0,146.0
+147,RLGT UA Equity,Radiant Logistics Inc,147.0,147.0
+148,MKSI UW Equity,MKS Instruments Inc,148.0,148.0
+149,CARA UQ Equity,Cara Therapeutics Inc,149.0,149.0
+150,XRAY UW Equity,DENTSPLY SIRONA Inc,150.0,150.0
+151,VTNR UR Equity,Vertex Energy Inc,151.0,151.0
+152,LUMN UN Equity,Lumen Technologies Inc,152.0,152.0
+153,COMP UN Equity,Compass Inc,153.0,153.0
+154,PLCE UW Equity,Children's Place Inc/The,154.0,154.0
+155,ASIX UN Equity,AdvanSix Inc,155.0,155.0
+156,CMAX UW Equity,CareMax Inc,156.0,156.0
+157,KMT UN Equity,Kennametal Inc,157.0,157.0
+158,VREX UW Equity,Varex Imaging Corp,158.0,158.0
+159,AMPY UN Equity,Amplify Energy Corp,159.0,159.0
+160,ECPG UW Equity,Encore Capital Group Inc,160.0,160.0
+161,SPTN UW Equity,SpartanNash Co,161.0,161.0
+162,JELD UN Equity,JELD-WEN Holding Inc,162.0,162.0
+163,ENV UN Equity,Envestnet Inc,163.0,163.0
+164,BDC UN Equity,Belden Inc,164.0,164.0
+165,LC UN Equity,LendingClub Corp,165.0,165.0
+166,DSP UW Equity,Viant Technology Inc,166.0,166.0
+167,HBI UN Equity,Hanesbrands Inc,167.0,167.0
+168,RSI UN Equity,Rush Street Interactive Inc,168.0,168.0
+169,CRGY UN Equity,Crescent Energy Co,169.0,169.0
+170,BIG UN Equity,Big Lots Inc,170.0,170.0
+171,ENOV UN Equity,Enovis Corp,171.0,171.0
+172,CLAR UW Equity,Clarus Corp,172.0,172.0
+173,BHE UN Equity,Benchmark Electronics Inc,173.0,173.0
+174,DK UN Equity,Delek US Holdings Inc,174.0,174.0
+175,LAZ UN Equity,Lazard Inc,175.0,175.0
+176,ADTN UW Equity,ADTRAN Holdings Inc,176.0,176.0
+177,WLDN UQ Equity,Willdan Group Inc,177.0,177.0
+178,JBGS UN Equity,JBG SMITH Properties,178.0,178.0
+179,DOMO UQ Equity,Domo Inc,179.0,179.0
+180,AVA UN Equity,Avista Corp,180.0,180.0
+181,AVT UW Equity,Avnet Inc,181.0,181.0
+182,SCL UN Equity,Stepan Co,182.0,182.0
+183,EGY UN Equity,VAALCO Energy Inc,183.0,183.0
+184,NVST UN Equity,Envista Holdings Corp,184.0,184.0
+185,DGII UW Equity,Digi International Inc,185.0,185.0
+186,ALK UN Equity,Alaska Air Group Inc,186.0,186.0
+187,PMVP UW Equity,PMV Pharmaceuticals Inc,187.0,187.0
+188,DIOD UW Equity,Diodes Inc,188.0,188.0
+189,CDLX UQ Equity,Cardlytics Inc,189.0,189.0
+190,REZI UN Equity,Resideo Technologies Inc,190.0,190.0
+191,SLQT UN Equity,Selectquote Inc,191.0,191.0
+192,COLD UN Equity,Americold Realty Trust Inc,192.0,192.0
+193,SFIX UW Equity,Stitch Fix Inc,193.0,193.0
+194,OI UN Equity,O-I Glass Inc,194.0,194.0
+195,NSTG UQ Equity,NanoString Technologies Inc,195.0,195.0
+196,KIND UN Equity,Nextdoor Holdings Inc,196.0,196.0
+197,ASUR UR Equity,Asure Software Inc,197.0,197.0
+198,EQC UN Equity,Equity Commonwealth,198.0,198.0
+199,PHR UN Equity,Phreesia Inc,199.0,199.0
+200,TSP UW Equity,TuSimple Holdings Inc,200.0,200.0
+201,PKST UN Equity,Peakstone Realty Trust,201.0,201.0
+202,HYLN UN Equity,Hyliion Holdings Corp,202.0,202.0
+203,TPC UN Equity,Tutor Perini Corp,203.0,203.0
+204,DM UN Equity,Desktop Metal Inc,204.0,204.0
+205,VTS UN Equity,Vitesse Energy Inc,205.0,205.0
+206,CNK UN Equity,Cinemark Holdings Inc,206.0,206.0
+207,SSRM UW Equity,SSR Mining Inc,207.0,207.0
+208,STC UN Equity,Stewart Information Services C,208.0,208.0
+209,MDRX UW Equity,Veradigm Inc,209.0,209.0
+210,WU UN Equity,Western Union Co/The,210.0,210.0
+211,MATV UN Equity,Mativ Holdings Inc,211.0,211.0
+212,CDNA UQ Equity,CareDx Inc,212.0,212.0
+213,CODI UN Equity,Compass Diversified Holdings,213.0,213.0
+214,AXGN UR Equity,Axogen Inc,214.0,214.0
+215,DCO UN Equity,Ducommun Inc,215.0,215.0
+216,DLX UN Equity,Deluxe Corp,216.0,216.0
+217,ALGT UW Equity,Allegiant Travel Co,217.0,217.0
+218,BARK UN Equity,BARK Inc,218.0,218.0
+219,SHO UN Equity,Sunstone Hotel Investors Inc,219.0,219.0
+220,TVTX UQ Equity,Travere Therapeutics Inc,220.0,220.0
+221,RLJ UN Equity,RLJ Lodging Trust,221.0,221.0
+222,CUZ UN Equity,Cousins Properties Inc,222.0,222.0
+223,BRBS UA Equity,Blue Ridge Bankshares Inc,223.0,223.0
+224,SPB UN Equity,Spectrum Brands Holdings Inc,224.0,224.0
+225,GLDD UW Equity,Great Lakes Dredge & Dock Corp,225.0,225.0
+226,SCSC UW Equity,ScanSource Inc,226.0,226.0
+227,WTTR UN Equity,Select Water Solutions Inc,227.0,227.0
+228,TRUE UW Equity,TrueCar Inc,228.0,228.0
+229,VTOL UN Equity,Bristow Group Inc,229.0,229.0
+230,BHF UW Equity,Brighthouse Financial Inc,230.0,230.0
+231,GEVO UR Equity,Gevo Inc,231.0,231.0
+232,MG UN Equity,Mistras Group Inc,232.0,232.0
+233,AMWD UW Equity,American Woodmark Corp,233.0,233.0
+234,NWPX UW Equity,Northwest Pipe Co,234.0,234.0
+235,NI UN Equity,NiSource Inc,235.0,235.0
+236,CMP UN Equity,Compass Minerals International,236.0,236.0
+237,PEAK UN Equity,Healthpeak Properties Inc,237.0,237.0
+238,ZUMZ UW Equity,Zumiez Inc,238.0,238.0
+239,KAMN UN Equity,Kaman Corp,239.0,239.0
+240,ELME UN Equity,Elme Communities,240.0,240.0
+241,MMS UN Equity,Maximus Inc,241.0,241.0
+242,KLG UN Equity,WK Kellogg Co,242.0,242.0
+243,AXL UN Equity,American Axle & Manufacturing,243.0,243.0
+244,TITN UW Equity,Titan Machinery Inc,244.0,244.0
+245,ORC UN Equity,Orchid Island Capital Inc,245.0,245.0
+246,BHIL UN Equity,Benson Hill Inc,246.0,246.0
+247,CSR UN Equity,Centerspace,247.0,247.0
+248,SEER UW Equity,Seer Inc,248.0,248.0
+249,SANM UW Equity,Sanmina Corp,249.0,249.0
+250,LUV UN Equity,Southwest Airlines Co,250.0,250.0
+251,TCMD UQ Equity,Tactile Systems Technology Inc,251.0,251.0
+252,CNHI UN Equity,CNH Industrial NV,252.0,252.0
+253,JRVR UW Equity,James River Group Holdings Ltd,253.0,253.0
+254,ETNB UQ Equity,89bio Inc,254.0,254.0
+255,BIO UN Equity,Bio-Rad Laboratories Inc,255.0,255.0
+256,GENC UA Equity,Gencor Industries Inc,256.0,256.0
+257,BGFV UW Equity,Big 5 Sporting Goods Corp,257.0,257.0
+258,TTMI UW Equity,TTM Technologies Inc,258.0,258.0
+259,EVER UQ Equity,EverQuote Inc,259.0,259.0
+260,FNKO UW Equity,Funko Inc,260.0,260.0
+261,SPR UN Equity,Spirit AeroSystems Holdings In,261.0,261.0
+262,CFFN UW Equity,Capitol Federal Financial Inc,262.0,262.0
+263,AYX UN Equity,Alteryx Inc,263.0,263.0
+264,BAND UW Equity,Bandwidth Inc,264.0,264.0
+265,MAN UN Equity,ManpowerGroup Inc,265.0,265.0
+266,HSII UW Equity,Heidrick & Struggles Internati,266.0,266.0
+267,WLY UN Equity,John Wiley & Sons Inc,267.0,267.0
+268,OMCL UW Equity,Omnicell Inc,268.0,268.0
+269,PRIM UN Equity,Primoris Services Corp,269.0,269.0
+270,IAC UW Equity,IAC Inc,270.0,270.0
+271,EVRI UN Equity,Everi Holdings Inc,271.0,271.0
+272,MYGN UW Equity,Myriad Genetics Inc,272.0,272.0
+273,WERN UW Equity,Werner Enterprises Inc,273.0,273.0
+274,SUM UN Equity,Summit Materials Inc,274.0,274.0
+275,PNM UN Equity,PNM Resources Inc,275.0,275.0
+276,RVNC UQ Equity,Revance Therapeutics Inc,276.0,276.0
+277,CMCO UW Equity,Columbus McKinnon Corp/NY,277.0,277.0
+278,AKTS UR Equity,Akoustis Technologies Inc,278.0,278.0
+279,IIIV UW Equity,I3 Verticals Inc,279.0,279.0
+280,BOOM UW Equity,DMC Global Inc,280.0,280.0
+281,KALU UW Equity,Kaiser Aluminum Corp,281.0,281.0
+282,MEI UN Equity,Methode Electronics Inc,282.0,282.0
+283,CRUS UW Equity,Cirrus Logic Inc,283.0,283.0
+284,ADNT UN Equity,Adient PLC,284.0,284.0
+285,TCX UR Equity,Tucows Inc,285.0,285.0
+286,GCO UN Equity,Genesco Inc,286.0,286.0
+287,CDMO UR Equity,Avid Bioservices Inc,287.0,287.0
+288,CRMT UW Equity,America's Car-Mart Inc/TX,288.0,288.0
+289,VAC UN Equity,Marriott Vacations Worldwide C,289.0,289.0
+290,OGS UN Equity,ONE Gas Inc,290.0,290.0
+291,TDOC UN Equity,Teladoc Health Inc,291.0,291.0
+292,CLDT UN Equity,Chatham Lodging Trust,292.0,292.0
+293,DZSI UR Equity,DZS Inc,293.0,293.0
+294,VATE UN Equity,INNOVATE Corp,294.0,294.0
+295,ITOS UQ Equity,iTeos Therapeutics Inc,295.0,295.0
+296,ZD UW Equity,Ziff Davis Inc,296.0,296.0
+297,MAXN UW Equity,Maxeon Solar Technologies Ltd,297.0,297.0
+298,RGP UW Equity,Resources Connection Inc,298.0,298.0
+299,IP UN Equity,International Paper Co,299.0,299.0
+300,VIAV UW Equity,Viavi Solutions Inc,300.0,300.0
+301,HR UN Equity,Healthcare Realty Trust Inc,301.0,301.0
+302,NGM UW Equity,NGM Biopharmaceuticals Inc,302.0,302.0
+303,CTLT UN Equity,Catalent Inc,303.0,303.0
+304,NXRT UN Equity,NexPoint Residential Trust Inc,304.0,304.0
+305,DNMR UN Equity,Danimer Scientific Inc,305.0,305.0
+306,CDP UN Equity,COPT Defense Properties,306.0,306.0
+307,EGRX UQ Equity,Eagle Pharmaceuticals Inc/DE,307.0,307.0
+308,CMTL UW Equity,Comtech Telecommunications Cor,308.0,308.0
+309,SHYF UW Equity,Shyft Group Inc/The,309.0,309.0
+310,QRVO UW Equity,Qorvo Inc,310.0,310.0
+311,COMM UW Equity,CommScope Holding Co Inc,311.0,311.0
+312,VSH UN Equity,Vishay Intertechnology Inc,312.0,312.0
+313,CLW UN Equity,Clearwater Paper Corp,313.0,313.0
+314,JCI UN Equity,Johnson Controls International,314.0,314.0
+315,BRY UW Equity,Berry Corp,315.0,315.0
+316,ALEX UN Equity,Alexander & Baldwin Inc,316.0,316.0
+317,WDC UW Equity,Western Digital Corp,317.0,317.0
+318,UAL UW Equity,United Airlines Holdings Inc,318.0,318.0
+319,ATXS UQ Equity,Astria Therapeutics Inc,319.0,319.0
+320,ATRC UQ Equity,AtriCure Inc,320.0,320.0
+321,LIVN UW Equity,LivaNova PLC,321.0,321.0
+322,DDD UN Equity,3D Systems Corp,322.0,322.0
+323,CHRS UQ Equity,Coherus Biosciences Inc,323.0,323.0
+324,ARW UN Equity,Arrow Electronics Inc,324.0,324.0
+325,HII UN Equity,Huntington Ingalls Industries,325.0,325.0
+326,QIPT UR Equity,Quipt Home Medical Corp,326.0,326.0
+327,CARM UQ Equity,Carisma Therapeutics Inc,327.0,327.0
+328,IMKTA UW Equity,Ingles Markets Inc,328.0,328.0
+329,SWK UN Equity,Stanley Black & Decker Inc,329.0,329.0
+330,BWA UN Equity,BorgWarner Inc,330.0,330.0
+331,STEM UN Equity,Stem Inc,331.0,331.0
+332,BLFS UR Equity,BioLife Solutions Inc,332.0,332.0
+333,NRIX UQ Equity,Nurix Therapeutics Inc,333.0,333.0
+334,ZBH UN Equity,Zimmer Biomet Holdings Inc,334.0,334.0
+335,BGS UN Equity,B&G Foods Inc,335.0,335.0
+336,ARKO UR Equity,Arko Corp,336.0,336.0
+337,LKQ UW Equity,LKQ Corp,337.0,337.0
+338,AGEN UR Equity,Agenus Inc,338.0,338.0
+339,VSTS UN Equity,Vestis Corp,339.0,339.0
+340,KELYA UW Equity,Kelly Services Inc,340.0,340.0
+341,NTCT UW Equity,NetScout Systems Inc,341.0,341.0
+342,NCLH UN Equity,Norwegian Cruise Line Holdings,342.0,342.0
+343,FUBO UN Equity,fuboTV Inc,343.0,343.0
+344,PLOW UN Equity,Douglas Dynamics Inc,344.0,344.0
+345,HLMN UQ Equity,Hillman Solutions Corp,345.0,345.0
+346,CBRL UW Equity,Cracker Barrel Old Country Sto,346.0,346.0
+347,ATNM UA Equity,Actinium Pharmaceuticals Inc,347.0,347.0
+348,SIBN UQ Equity,SI-BONE Inc,348.0,348.0
+349,XNCR UQ Equity,Xencor Inc,349.0,349.0
+350,TXT UN Equity,Textron Inc,350.0,350.0
+351,WOLF UN Equity,Wolfspeed Inc,351.0,351.0
+352,BLNK UR Equity,Blink Charging Co,352.0,352.0
+353,VIR UW Equity,Vir Biotechnology Inc,353.0,353.0
+354,BFH UN Equity,Bread Financial Holdings Inc,354.0,354.0
+355,HPP UN Equity,Hudson Pacific Properties Inc,355.0,355.0
+356,LUNA UR Equity,Luna Innovations Inc,356.0,356.0
+357,CCRD UN Equity,CoreCard Corp,357.0,357.0
+358,IRT UN Equity,Independence Realty Trust Inc,358.0,358.0
+359,RVTY UN Equity,Revvity Inc,359.0,359.0
+360,ZNTL UQ Equity,Zentalis Pharmaceuticals Inc,360.0,360.0
+361,YOU UN Equity,Clear Secure Inc,361.0,361.0
+362,TOST UN Equity,Toast Inc,362.0,362.0
+363,CDXS UW Equity,Codexis Inc,363.0,363.0
+364,PNTG UW Equity,Pennant Group Inc/The,364.0,364.0
+365,PL UN Equity,Planet Labs PBC,365.0,365.0
+366,XPRO UN Equity,Expro Group Holdings NV,366.0,366.0
+367,MXL UW Equity,MaxLinear Inc,367.0,367.0
+368,THG UN Equity,Hanover Insurance Group Inc/Th,368.0,368.0
+369,FLS UN Equity,Flowserve Corp,369.0,369.0
+370,APPN UQ Equity,Appian Corp,370.0,370.0
+371,WBA UW Equity,Walgreens Boots Alliance Inc,371.0,371.0
+372,PRLB UN Equity,Proto Labs Inc,372.0,372.0
+373,KRMD UR Equity,KORU Medical Systems Inc,373.0,373.0
+374,BRSP UN Equity,BrightSpire Capital Inc,374.0,374.0
+375,CTO UN Equity,CTO Realty Growth Inc,375.0,375.0
+376,CHUY UW Equity,Chuy's Holdings Inc,376.0,376.0
+377,SMRT UN Equity,SmartRent Inc,377.0,377.0
+378,KAR UN Equity,OPENLANE Inc,378.0,378.0
+379,OB UW Equity,Outbrain Inc,379.0,379.0
+380,FRST UQ Equity,Primis Financial Corp,380.0,380.0
+381,TRU UN Equity,TransUnion,381.0,381.0
+382,KN UN Equity,Knowles Corp,382.0,382.0
+383,IMMR UW Equity,Immersion Corp,383.0,383.0
+384,GS UN Equity,Goldman Sachs Group Inc/The,384.0,384.0
+385,SRPT UW Equity,Sarepta Therapeutics Inc,385.0,385.0
+386,PGRE UN Equity,Paramount Group Inc,386.0,386.0
+387,PRM UN Equity,Perimeter Solutions SA,387.0,387.0
+388,XRX UW Equity,Xerox Holdings Corp,388.0,388.0
+389,SBRA UW Equity,Sabra Health Care REIT Inc,389.0,389.0
+390,SR UN Equity,Spire Inc,390.0,390.0
+391,INFN UW Equity,Infinera Corp,391.0,391.0
+392,ATRA UW Equity,Atara Biotherapeutics Inc,392.0,392.0
+393,THRY UR Equity,Thryv Holdings Inc,393.0,393.0
+394,LNC UN Equity,Lincoln National Corp,394.0,394.0
+395,DRH UN Equity,DiamondRock Hospitality Co,395.0,395.0
+396,PRG UN Equity,PROG Holdings Inc,396.0,396.0
+397,HMN UN Equity,Horace Mann Educators Corp,397.0,397.0
+398,TMCI UW Equity,Treace Medical Concepts Inc,398.0,398.0
+399,OGN UN Equity,Organon & Co,399.0,399.0
+400,SENEA UW Equity,Seneca Foods Corp,400.0,400.0
+401,CXAI UR Equity,CXApp Inc,401.0,401.0
+402,DNOW UN Equity,DNOW Inc,402.0,402.0
+403,IKNA UQ Equity,Ikena Oncology Inc,403.0,403.0
+404,SJM UN Equity,J M Smucker Co/The,404.0,404.0
+405,ED UN Equity,Consolidated Edison Inc,405.0,405.0
+406,VTRS UW Equity,Viatris Inc,406.0,406.0
+407,AMN UN Equity,AMN Healthcare Services Inc,407.0,407.0
+408,KLTR UW Equity,Kaltura Inc,408.0,408.0
+409,CAKE UW Equity,Cheesecake Factory Inc/The,409.0,409.0
+410,NRG UN Equity,NRG Energy Inc,410.0,410.0
+411,AL UN Equity,Air Lease Corp,411.0,411.0
+412,RPAY UR Equity,Repay Holdings Corp,412.0,412.0
+413,DXPE UW Equity,DXP Enterprises Inc/TX,413.0,413.0
+414,ABG UN Equity,Asbury Automotive Group Inc,414.0,414.0
+415,PDCO UW Equity,Patterson Cos Inc,415.0,415.0
+416,PAHC UQ Equity,Phibro Animal Health Corp,416.0,416.0
+417,RIGL UW Equity,Rigel Pharmaceuticals Inc,417.0,417.0
+418,CSTL UQ Equity,Castle Biosciences Inc,418.0,418.0
+419,XFOR UR Equity,X4 Pharmaceuticals Inc,419.0,419.0
+420,PLUG UR Equity,Plug Power Inc,420.0,420.0
+421,TLYS UN Equity,Tilly's Inc,421.0,421.0
+422,SKIL UN Equity,Skillsoft Corp,422.0,422.0
+423,OSK UN Equity,Oshkosh Corp,423.0,423.0
+424,RAMP UN Equity,LiveRamp Holdings Inc,424.0,424.0
+425,IART UW Equity,Integra LifeSciences Holdings,425.0,425.0
+426,CNC UN Equity,Centene Corp,426.0,426.0
+427,WTI UN Equity,W&T Offshore Inc,427.0,427.0
+428,LILA UW Equity,Liberty Latin America Ltd,428.0,428.0
+429,SAVE UN Equity,Spirit Airlines Inc,429.0,429.0
+430,SAMG UQ Equity,Silvercrest Asset Management G,430.0,430.0
+431,DOOR UN Equity,Masonite International Corp,431.0,431.0
+432,CLF UN Equity,Cleveland-Cliffs Inc,432.0,432.0
+433,SMHI UN Equity,SEACOR Marine Holdings Inc,433.0,433.0
+434,MODN UN Equity,Model N Inc,434.0,434.0
+435,NFBK UW Equity,Northfield Bancorp Inc,435.0,435.0
+436,ARIS UN Equity,Aris Water Solutions Inc,436.0,436.0
+437,VCYT UQ Equity,Veracyte Inc,437.0,437.0
+438,CBAN UQ Equity,Colony Bankcorp Inc,438.0,438.0
+439,RILY UQ Equity,B Riley Financial Inc,439.0,439.0
+440,DOLE UN Equity,Dole PLC,440.0,440.0
+441,ALLK UW Equity,Allakos Inc,441.0,441.0
+442,APOG UW Equity,Apogee Enterprises Inc,442.0,442.0
+443,CSGS UW Equity,CSG Systems International Inc,443.0,443.0
+444,NGVT UN Equity,Ingevity Corp,444.0,444.0
+445,NNOX UQ Equity,Nano-X Imaging Ltd,445.0,445.0
+446,EAT UN Equity,Brinker International Inc,446.0,446.0
+447,PDLB UQ Equity,Ponce Financial Group Inc,447.0,447.0
+448,ACIW UW Equity,ACI Worldwide Inc,448.0,448.0
+449,ETR UN Equity,Entergy Corp,449.0,449.0
+450,FMC UN Equity,FMC Corp,450.0,450.0
+451,IHRT UW Equity,iHeartMedia Inc,451.0,451.0
+452,AEVA UN Equity,Aeva Technologies Inc,452.0,452.0
+453,PWP UW Equity,Perella Weinberg Partners,453.0,453.0
+454,HOUS UN Equity,Anywhere Real Estate Inc,454.0,454.0
+455,TMST UN Equity,TimkenSteel Corp,455.0,455.0
+456,AA UN Equity,Alcoa Corp,456.0,456.0
+457,CUE UR Equity,Cue Biopharma Inc,457.0,457.0
+458,DOUG UN Equity,Douglas Elliman Inc,458.0,458.0
+459,MTX UN Equity,Minerals Technologies Inc,459.0,459.0
+460,MATW UW Equity,Matthews International Corp,460.0,460.0
+461,GDEN UQ Equity,Golden Entertainment Inc,461.0,461.0
+462,GNRC UN Equity,Generac Holdings Inc,462.0,462.0
+463,NWL UW Equity,Newell Brands Inc,463.0,463.0
+464,EYE UW Equity,National Vision Holdings Inc,464.0,464.0
+465,MAC UN Equity,Macerich Co/The,465.0,465.0
+466,PCRX UW Equity,Pacira BioSciences Inc,466.0,466.0
+467,LYTS UW Equity,LSI Industries Inc,467.0,467.0
+468,XERS UW Equity,Xeris Biopharma Holdings Inc,468.0,468.0
+469,OSCR UN Equity,Oscar Health Inc,469.0,469.0
+470,DEA UN Equity,Easterly Government Properties,470.0,470.0
+471,NYMT UW Equity,New York Mortgage Trust Inc,471.0,471.0
+472,GOOD UW Equity,Gladstone Commercial Corp,472.0,472.0
+473,PFS UN Equity,Provident Financial Services I,473.0,473.0
+474,CLFD UQ Equity,Clearfield Inc,474.0,474.0
+475,AMBA UW Equity,Ambarella Inc,475.0,475.0
+476,LAD UN Equity,Lithia Motors Inc,476.0,476.0
+477,AORT UN Equity,Artivion Inc,477.0,477.0
+478,CMC UN Equity,Commercial Metals Co,478.0,478.0
+479,AAT UN Equity,American Assets Trust Inc,479.0,479.0
+480,ACTG UW Equity,Acacia Research Corp,480.0,480.0
+481,HELE UW Equity,Helen of Troy Ltd,481.0,481.0
+482,GT UW Equity,Goodyear Tire & Rubber Co/The,482.0,482.0
+483,RXO UN Equity,RXO Inc,483.0,483.0
+484,EB UN Equity,Eventbrite Inc,484.0,484.0
+485,FLL UR Equity,Full House Resorts Inc,485.0,485.0
+486,KOS UN Equity,Kosmos Energy Ltd,486.0,486.0
+487,FIVN UQ Equity,Five9 Inc,487.0,487.0
+488,OPEN UW Equity,Opendoor Technologies Inc,488.0,488.0
+489,INSE UR Equity,Inspired Entertainment Inc,489.0,489.0
+490,ENR UN Equity,Energizer Holdings Inc,490.0,490.0
+491,ACA UN Equity,Arcosa Inc,491.0,491.0
+492,RAPT UQ Equity,RAPT Therapeutics Inc,492.0,492.0
+493,BKH UN Equity,Black Hills Corp,493.0,493.0
+494,SKYW UW Equity,SkyWest Inc,494.0,494.0
+495,RRX UN Equity,Regal Rexnord Corp,495.0,495.0
+496,MHK UN Equity,Mohawk Industries Inc,496.0,496.0
+497,MTTR UQ Equity,Matterport Inc,497.0,497.0
+498,AIG UN Equity,American International Group I,498.0,498.0
+499,TREE UW Equity,LendingTree Inc,499.0,499.0
+500,CYRX UR Equity,CryoPort Inc,500.0,500.0
+501,SBT UR Equity,Sterling Bancorp Inc/MI,501.0,501.0
+502,WEST UQ Equity,Westrock Coffee Co,502.0,502.0
+503,CYH UN Equity,Community Health Systems Inc,503.0,503.0
+504,GBIO UW Equity,Generation Bio Co,504.0,504.0
+505,LITE UW Equity,Lumentum Holdings Inc,505.0,505.0
+506,G UN Equity,Genpact Ltd,506.0,506.0
+507,FAF UN Equity,First American Financial Corp,507.0,507.0
+508,TTEC UW Equity,TTEC Holdings Inc,508.0,508.0
+509,PINC UW Equity,Premier Inc,509.0,509.0
+510,SEM UN Equity,Select Medical Holdings Corp,510.0,510.0
+511,T UN Equity,AT&T Inc,511.0,511.0
+512,FE UN Equity,FirstEnergy Corp,512.0,512.0
+513,NEWT UQ Equity,NewtekOne Inc,513.0,513.0
+514,PTCT UW Equity,PTC Therapeutics Inc,514.0,514.0
+515,SITC UN Equity,SITE Centers Corp,515.0,515.0
+516,VSEC UW Equity,VSE Corp,516.0,516.0
+517,BRCC UN Equity,BRC Inc,517.0,517.0
+518,VLGEA UW Equity,Village Super Market Inc,518.0,518.0
+519,TROX UN Equity,Tronox Holdings PLC,519.0,519.0
+520,GPMT UN Equity,Granite Point Mortgage Trust I,520.0,520.0
+521,ZVIA UN Equity,Zevia PBC,521.0,521.0
+522,GH UW Equity,Guardant Health Inc,522.0,522.0
+523,RYI UN Equity,Ryerson Holding Corp,523.0,523.0
+524,AKRO UW Equity,Akero Therapeutics Inc,524.0,524.0
+525,SBGI UW Equity,Sinclair Inc,525.0,525.0
+526,TELL UA Equity,Tellurian Inc,526.0,526.0
+527,PLYM UN Equity,Plymouth Industrial REIT Inc,527.0,527.0
+528,SONO UW Equity,Sonos Inc,528.0,528.0
+529,OLO UN Equity,Olo Inc,529.0,529.0
+530,EIX UN Equity,Edison International,530.0,530.0
+531,CSTM UN Equity,Constellium SE,531.0,531.0
+532,EEFT UW Equity,Euronet Worldwide Inc,532.0,532.0
+533,BIIB UW Equity,Biogen Inc,533.0,533.0
+534,BILL UN Equity,BILL Holdings Inc,534.0,534.0
+535,ASGN UN Equity,ASGN Inc,535.0,535.0
+536,TRMK UW Equity,Trustmark Corp,536.0,536.0
+537,JBT UN Equity,John Bean Technologies Corp,537.0,537.0
+538,PWOD UW Equity,Penns Woods Bancorp Inc,538.0,538.0
+539,SFNC UW Equity,Simmons First National Corp,539.0,539.0
+540,TGNA UN Equity,TEGNA Inc,540.0,540.0
+541,MVBF UR Equity,MVB Financial Corp,541.0,541.0
+542,KOP UN Equity,Koppers Holdings Inc,542.0,542.0
+543,CVS UN Equity,CVS Health Corp,543.0,543.0
+544,AGIO UW Equity,Agios Pharmaceuticals Inc,544.0,544.0
+545,FFIC UW Equity,Flushing Financial Corp,545.0,545.0
+546,MUR UN Equity,Murphy Oil Corp,546.0,546.0
+547,DOV UN Equity,Dover Corp,547.0,547.0
+548,PYPL UW Equity,PayPal Holdings Inc,548.0,548.0
+549,HOPE UW Equity,Hope Bancorp Inc,549.0,549.0
+550,RNST UN Equity,Renasant Corp,550.0,550.0
+551,EQH UN Equity,Equitable Holdings Inc,551.0,551.0
+552,KRC UN Equity,Kilroy Realty Corp,552.0,552.0
+553,NOV UN Equity,NOV Inc,553.0,553.0
+554,HLX UN Equity,Helix Energy Solutions Group I,554.0,554.0
+555,MRSN UW Equity,Mersana Therapeutics Inc,555.0,555.0
+556,PK UN Equity,Park Hotels & Resorts Inc,556.0,556.0
+557,QTWO UN Equity,Q2 Holdings Inc,557.0,557.0
+558,CC UN Equity,Chemours Co/The,558.0,558.0
+559,SLAB UW Equity,Silicon Laboratories Inc,559.0,559.0
+560,VOYA UN Equity,Voya Financial Inc,560.0,560.0
+561,DOW UN Equity,Dow Inc,561.0,561.0
+562,SWKS UW Equity,Skyworks Solutions Inc,562.0,562.0
+563,MCRB UW Equity,Seres Therapeutics Inc,563.0,563.0
+564,AIZ UN Equity,Assurant Inc,564.0,564.0
+565,UIS UN Equity,Unisys Corp,565.0,565.0
+566,EVRG UW Equity,Evergy Inc,566.0,566.0
+567,ZIMV UW Equity,Zimvie Inc,567.0,567.0
+568,DFLI UQ Equity,Dragonfly Energy Holdings Corp,568.0,568.0
+569,LYFT UW Equity,Lyft Inc,569.0,569.0
+570,VVI UN Equity,Viad Corp,570.0,570.0
+571,F UN Equity,Ford Motor Co,571.0,571.0
+572,UA UN Equity,Under Armour Inc,572.0,572.0
+573,BIRD UW Equity,Allbirds Inc,573.0,573.0
+574,SAFT UW Equity,Safety Insurance Group Inc,574.0,574.0
+575,THO UN Equity,Thor Industries Inc,575.0,575.0
+576,PRU UN Equity,Prudential Financial Inc,576.0,576.0
+577,EIG UN Equity,Employers Holdings Inc,577.0,577.0
+578,EBF UN Equity,Ennis Inc,578.0,578.0
+579,MGNI UW Equity,Magnite Inc,579.0,579.0
+580,TSQ UN Equity,Townsquare Media Inc,580.0,580.0
+581,RCEL UR Equity,Avita Medical Inc,581.0,581.0
+582,RELL UW Equity,Richardson Electronics Ltd/Uni,582.0,582.0
+583,NWE UW Equity,Northwestern Energy Group Inc,583.0,583.0
+584,NR UN Equity,Newpark Resources Inc,584.0,584.0
+585,SLCA UN Equity,US Silica Holdings Inc,585.0,585.0
+586,QNST UW Equity,QuinStreet Inc,586.0,586.0
+587,ACVA UW Equity,ACV Auctions Inc,587.0,587.0
+588,SYNA UW Equity,Synaptics Inc,588.0,588.0
+589,BALY UN Equity,Bally's Corp,589.0,589.0
+590,PUBM UQ Equity,PubMatic Inc,590.0,590.0
+591,RGNX UW Equity,REGENXBIO Inc,591.0,591.0
+592,ATNI UW Equity,ATN International Inc,592.0,592.0
+593,SBH UN Equity,Sally Beauty Holdings Inc,593.0,593.0
+594,BDX UN Equity,Becton Dickinson & Co,594.0,594.0
+595,WMK UN Equity,Weis Markets Inc,595.0,595.0
+596,ACCD UW Equity,Accolade Inc,596.0,596.0
+597,PCT UR Equity,PureCycle Technologies Inc,597.0,597.0
+598,GM UN Equity,General Motors Co,598.0,598.0
+599,RLAY UQ Equity,Relay Therapeutics Inc,599.0,599.0
+600,ABM UN Equity,ABM Industries Inc,600.0,600.0
+601,TAP UN Equity,Molson Coors Beverage Co,601.0,601.0
+602,EMR UN Equity,Emerson Electric Co,602.0,602.0
+603,CZR UW Equity,Caesars Entertainment Inc,603.0,603.0
+604,TENB UW Equity,Tenable Holdings Inc,604.0,604.0
+605,KR UN Equity,Kroger Co/The,605.0,605.0
+606,RARE UW Equity,Ultragenyx Pharmaceutical Inc,606.0,606.0
+607,HPE UN Equity,Hewlett Packard Enterprise Co,607.0,607.0
+608,LEA UN Equity,Lear Corp,608.0,608.0
+609,PD UN Equity,PagerDuty Inc,609.0,609.0
+610,MBC UN Equity,Masterbrand Inc,610.0,610.0
+611,BZH UN Equity,Beazer Homes USA Inc,611.0,611.0
+612,AIN UN Equity,Albany International Corp,612.0,612.0
+613,HI UN Equity,Hillenbrand Inc,613.0,613.0
+614,NOTE UN Equity,FiscalNote Holdings Inc,614.0,614.0
+615,TPIC UQ Equity,TPI Composites Inc,615.0,615.0
+616,HONE UW Equity,HarborOne Bancorp Inc,616.0,616.0
+617,SXC UN Equity,SunCoke Energy Inc,617.0,617.0
+618,VRNT UW Equity,Verint Systems Inc,618.0,618.0
+619,FOXF UW Equity,Fox Factory Holding Corp,619.0,619.0
+620,ARWR UW Equity,Arrowhead Pharmaceuticals Inc,620.0,620.0
+621,BKSY UN Equity,BlackSky Technology Inc,621.0,621.0
+622,AVTR UN Equity,Avantor Inc,622.0,622.0
+623,AGX UN Equity,Argan Inc,623.0,623.0
+624,PFE UN Equity,Pfizer Inc,624.0,624.0
+625,TMHC UN Equity,Taylor Morrison Home Corp,625.0,625.0
+626,GNL UN Equity,Global Net Lease Inc,626.0,626.0
+627,DEI UN Equity,Douglas Emmett Inc,627.0,627.0
+628,DNB UN Equity,Dun & Bradstreet Holdings Inc,628.0,628.0
+629,OOMA UN Equity,Ooma Inc,629.0,629.0
+630,SJW UN Equity,SJW Group,630.0,630.0
+631,EFC UN Equity,Ellington Financial Inc,631.0,631.0
+632,ARLO UN Equity,Arlo Technologies Inc,632.0,632.0
+633,RNGR UN Equity,Ranger Energy Services Inc,633.0,633.0
+634,TPB UN Equity,Turning Point Brands Inc,634.0,634.0
+635,HCP UW Equity,HashiCorp Inc,635.0,635.0
+636,BYON UN Equity,Beyond Inc,636.0,636.0
+637,BLX UN Equity,Banco Latinoamericano de Comer,637.0,637.0
+638,HRTX UR Equity,Heron Therapeutics Inc,638.0,638.0
+639,LADR UN Equity,Ladder Capital Corp,639.0,639.0
+640,QUAD UN Equity,Quad/Graphics Inc,640.0,640.0
+641,PBH UN Equity,Prestige Consumer Healthcare I,641.0,641.0
+642,FTCI UQ Equity,FTC Solar Inc,642.0,642.0
+643,FATE UQ Equity,Fate Therapeutics Inc,643.0,643.0
+644,LUNG UW Equity,Pulmonx Corp,644.0,644.0
+645,GBX UN Equity,Greenbrier Cos Inc/The,645.0,645.0
+646,KRNY UW Equity,Kearny Financial Corp/MD,646.0,646.0
+647,D UN Equity,Dominion Energy Inc,647.0,647.0
+648,NRDY UN Equity,Nerdy Inc,648.0,648.0
+649,NUVB UN Equity,Nuvation Bio Inc,649.0,649.0
+650,NATL UN Equity,NCR Atleos Corp,650.0,650.0
+651,ATRI UW Equity,Atrion Corp,651.0,651.0
+652,HHH UN Equity,Howard Hughes Holdings Inc,652.0,652.0
+653,HTLD UW Equity,Heartland Express Inc,653.0,653.0
+654,TDC UN Equity,Teradata Corp,654.0,654.0
+655,SWN UN Equity,Southwestern Energy Co,655.0,655.0
+656,ACRS UW Equity,Aclaris Therapeutics Inc,656.0,656.0
+657,KSS UN Equity,Kohl's Corp,657.0,657.0
+658,RM UN Equity,Regional Management Corp,658.0,658.0
+659,HBIO UQ Equity,Harvard Bioscience Inc,659.0,659.0
+660,THC UN Equity,Tenet Healthcare Corp,660.0,660.0
+661,FLYW UW Equity,Flywire Corp,661.0,661.0
+662,DCGO UR Equity,DocGo Inc,662.0,662.0
+663,PLXS UW Equity,Plexus Corp,663.0,663.0
+664,PRPL UW Equity,Purple Innovation Inc,664.0,664.0
+665,IONS UW Equity,Ionis Pharmaceuticals Inc,665.0,665.0
+666,IRBT UW Equity,iRobot Corp,666.0,666.0
+667,ARI UN Equity,Apollo Commercial Real Estate,667.0,667.0
+668,CLPT UR Equity,ClearPoint Neuro Inc,668.0,668.0
+669,VTLE UN Equity,Vital Energy Inc,669.0,669.0
+670,PAGS UN Equity,Pagseguro Digital Ltd,670.0,670.0
+671,EE UN Equity,Excelerate Energy Inc,671.0,671.0
+672,INTC UW Equity,Intel Corp,672.0,672.0
+673,CASS UW Equity,Cass Information Systems Inc,673.0,673.0
+674,XEL UW Equity,Xcel Energy Inc,674.0,674.0
+675,IVZ UN Equity,Invesco Ltd,675.0,675.0
+676,NX UN Equity,Quanex Building Products Corp,676.0,676.0
+677,UHS UN Equity,Universal Health Services Inc,677.0,677.0
+678,ALEC UW Equity,Alector Inc,678.0,678.0
+679,SF UN Equity,Stifel Financial Corp,679.0,679.0
+680,INSP UN Equity,Inspire Medical Systems Inc,680.0,680.0
+681,VNO UN Equity,Vornado Realty Trust,681.0,681.0
+682,AGS UN Equity,PlayAGS Inc,682.0,682.0
+683,FORR UW Equity,Forrester Research Inc,683.0,683.0
+684,OII UN Equity,Oceaneering International Inc,684.0,684.0
+685,VRA UW Equity,Vera Bradley Inc,685.0,685.0
+686,PTEN UW Equity,Patterson-UTI Energy Inc,686.0,686.0
+687,UBSI UW Equity,United Bankshares Inc/WV,687.0,687.0
+688,BATRA UW Equity,Atlanta Braves Holdings Inc,688.0,688.0
+689,PII UN Equity,Polaris Inc,689.0,689.0
+690,BHLB UN Equity,Berkshire Hills Bancorp Inc,690.0,690.0
+691,FORM UW Equity,FormFactor Inc,691.0,691.0
+692,KEY UN Equity,KeyCorp,692.0,692.0
+693,MIDD UW Equity,Middleby Corp/The,693.0,693.0
+694,JAZZ UW Equity,Jazz Pharmaceuticals PLC,694.0,694.0
+695,OC UN Equity,Owens Corning,695.0,695.0
+696,MED UN Equity,Medifast Inc,696.0,696.0
+697,AEIS UW Equity,Advanced Energy Industries Inc,697.0,697.0
+698,ATLO UR Equity,Ames National Corp,698.0,698.0
+699,BGC UW Equity,BGC Group Inc,699.0,699.0
+700,WTRG UN Equity,Essential Utilities Inc,700.0,700.0
+701,EGBN UR Equity,Eagle Bancorp Inc,701.0,701.0
+702,ASB UN Equity,Associated Banc-Corp,702.0,702.0
+703,SOI UN Equity,Solaris Oilfield Infrastructur,703.0,703.0
+704,GEO UN Equity,GEO Group Inc/The,704.0,704.0
+705,URGN UQ Equity,UroGen Pharma Ltd,705.0,705.0
+706,PFG UW Equity,Principal Financial Group Inc,706.0,706.0
+707,RJF UN Equity,Raymond James Financial Inc,707.0,707.0
+708,AGL UN Equity,agilon health Inc,708.0,708.0
+709,GE UN Equity,General Electric Co,709.0,709.0
+710,BRKL UW Equity,Brookline Bancorp Inc,710.0,710.0
+711,STOK UW Equity,Stoke Therapeutics Inc,711.0,711.0
+712,KLIC UW Equity,Kulicke & Soffa Industries Inc,712.0,712.0
+713,JEF UN Equity,Jefferies Financial Group Inc,713.0,713.0
+714,MU UW Equity,Micron Technology Inc,714.0,714.0
+715,ALIT UN Equity,Alight Inc,715.0,715.0
+716,TILE UW Equity,Interface Inc,716.0,716.0
+717,HOLX UW Equity,Hologic Inc,717.0,717.0
+718,FSR UN Equity,Fisker Inc,718.0,718.0
+719,ESE UN Equity,ESCO Technologies Inc,719.0,719.0
+720,AXNX UW Equity,Axonics Inc,720.0,720.0
+721,UMH UN Equity,UMH Properties Inc,721.0,721.0
+722,WFC UN Equity,Wells Fargo & Co,722.0,722.0
+723,ICFI UW Equity,ICF International Inc,723.0,723.0
+724,FIP UW Equity,FTAI Infrastructure Inc,724.0,724.0
+725,OPRX UR Equity,OptimizeRx Corp,725.0,725.0
+726,HROW UQ Equity,Harrow Inc,726.0,726.0
+727,FI UN Equity,Fiserv Inc,727.0,727.0
+728,VYGR UW Equity,Voyager Therapeutics Inc,728.0,728.0
+729,CTVA UN Equity,Corteva Inc,729.0,729.0
+730,GRTS UW Equity,Gritstone bio Inc,730.0,730.0
+731,EXAS UR Equity,Exact Sciences Corp,731.0,731.0
+732,ITCI UW Equity,Intra-Cellular Therapies Inc,732.0,732.0
+733,AIRC UN Equity,Apartment Income REIT Corp,733.0,733.0
+734,PPBI UW Equity,Pacific Premier Bancorp Inc,734.0,734.0
+735,DLTH UW Equity,Duluth Holdings Inc,735.0,735.0
+736,BAX UN Equity,Baxter International Inc,736.0,736.0
+737,PM UN Equity,Philip Morris International In,737.0,737.0
+738,AMTB UN Equity,Amerant Bancorp Inc,738.0,738.0
+739,NXDT UN Equity,NexPoint Diversified Real Esta,739.0,739.0
+740,BK UN Equity,Bank of New York Mellon Corp/T,740.0,740.0
+741,AGNC UW Equity,AGNC Investment Corp,741.0,741.0
+742,PETQ UW Equity,PetIQ Inc,742.0,742.0
+743,ALDX UR Equity,Aldeyra Therapeutics Inc,743.0,743.0
+744,VECO UW Equity,Veeco Instruments Inc,744.0,744.0
+745,PHIN UN Equity,Phinia Inc,745.0,745.0
+746,ECVT UN Equity,Ecovyst Inc,746.0,746.0
+747,CEG UW Equity,Constellation Energy Corp,747.0,747.0
+748,SG UN Equity,Sweetgreen Inc,748.0,748.0
+749,IVR UN Equity,Invesco Mortgage Capital Inc,749.0,749.0
+750,COHR UN Equity,Coherent Corp,750.0,750.0
+751,ANDE UW Equity,Andersons Inc/The,751.0,751.0
+752,HLF UN Equity,Herbalife Ltd,752.0,752.0
+753,DO UN Equity,Diamond Offshore Drilling Inc,753.0,753.0
+754,ENTG UW Equity,Entegris Inc,754.0,754.0
+755,PRDO UW Equity,Perdoceo Education Corp,755.0,755.0
+756,SLG UN Equity,SL Green Realty Corp,756.0,756.0
+757,CLPR UN Equity,Clipper Realty Inc,757.0,757.0
+758,PFGC UN Equity,Performance Food Group Co,758.0,758.0
+759,KNX UN Equity,Knight-Swift Transportation Ho,759.0,759.0
+760,GVA UN Equity,Granite Construction Inc,760.0,760.0
+761,LFUS UW Equity,Littelfuse Inc,761.0,761.0
+762,FNB UN Equity,FNB Corp/PA,762.0,762.0
+763,AIR UN Equity,AAR Corp,763.0,763.0
+764,ES UN Equity,Eversource Energy,764.0,764.0
+765,ANIP UQ Equity,ANI Pharmaceuticals Inc,765.0,765.0
+766,TRVI UQ Equity,Trevi Therapeutics Inc,766.0,766.0
+767,CLB UN Equity,Core Laboratories Inc,767.0,767.0
+768,PCH UW Equity,PotlatchDeltic Corp,768.0,768.0
+769,SCHL UW Equity,Scholastic Corp,769.0,769.0
+770,WGO UN Equity,Winnebago Industries Inc,770.0,770.0
+771,VMI UN Equity,Valmont Industries Inc,771.0,771.0
+772,RTX UN Equity,RTX Corp,772.0,772.0
+773,CLNE UW Equity,Clean Energy Fuels Corp,773.0,773.0
+774,SASR UW Equity,Sandy Spring Bancorp Inc,774.0,774.0
+775,FL UN Equity,Foot Locker Inc,775.0,775.0
+776,ITGR UN Equity,Integer Holdings Corp,776.0,776.0
+777,SSP UW Equity,EW Scripps Co/The,777.0,777.0
+778,HOFT UW Equity,Hooker Furnishings Corp,778.0,778.0
+779,HAS UW Equity,Hasbro Inc,779.0,779.0
+780,PKOH UW Equity,Park-Ohio Holdings Corp,780.0,780.0
+781,ABCB UW Equity,Ameris Bancorp,781.0,781.0
+782,CENT UW Equity,Central Garden & Pet Co,782.0,782.0
+783,BG UN Equity,Bunge Global SA,783.0,783.0
+784,SABR UW Equity,Sabre Corp,784.0,784.0
+785,SFST UQ Equity,Southern First Bancshares Inc,785.0,785.0
+786,CHGG UN Equity,Chegg Inc,786.0,786.0
+787,MOS UN Equity,Mosaic Co/The,787.0,787.0
+788,SAGE UQ Equity,Sage Therapeutics Inc,788.0,788.0
+789,BSIG UN Equity,Brightsphere Investment Group,789.0,789.0
+790,KFY UN Equity,Korn Ferry,790.0,790.0
+791,ROIC UW Equity,Retail Opportunity Investments,791.0,791.0
+792,AMSWA UW Equity,American Software Inc/GA,792.0,792.0
+793,UVSP UW Equity,Univest Financial Corp,793.0,793.0
+794,R UN Equity,Ryder System Inc,794.0,794.0
+795,KRG UN Equity,Kite Realty Group Trust,795.0,795.0
+796,BYND UW Equity,Beyond Meat Inc,796.0,796.0
+797,CABO UN Equity,Cable One Inc,797.0,797.0
+798,CVGW UW Equity,Calavo Growers Inc,798.0,798.0
+799,UNF UN Equity,UniFirst Corp/MA,799.0,799.0
+800,LBAI UW Equity,Lakeland Bancorp Inc,800.0,800.0
+801,CVX UN Equity,Chevron Corp,801.0,801.0
+802,CFG UN Equity,Citizens Financial Group Inc,802.0,802.0
+803,SBCF UW Equity,Seacoast Banking Corp of Flori,803.0,803.0
+804,VLTO UN Equity,Veralto Corp,804.0,804.0
+805,FTV UN Equity,Fortive Corp,805.0,805.0
+806,IRTC UW Equity,iRhythm Technologies Inc,806.0,806.0
+807,VNT UN Equity,Vontier Corp,807.0,807.0
+808,STE UN Equity,STERIS PLC,808.0,808.0
+809,TNC UN Equity,Tennant Co,809.0,809.0
+810,CWT UN Equity,California Water Service Group,810.0,810.0
+811,DOC UN Equity,Physicians Realty Trust,811.0,811.0
+812,WYNN UW Equity,Wynn Resorts Ltd,812.0,812.0
+813,NB UQ Equity,NioCorp Developments Ltd,813.0,813.0
+814,DHIL UW Equity,Diamond Hill Investment Group,814.0,814.0
+815,ALTM UN Equity,Arcadium Lithium PLC,815.0,815.0
+816,GATX UN Equity,GATX Corp,816.0,816.0
+817,VUZI UR Equity,Vuzix Corp,817.0,817.0
+818,BKU UN Equity,BankUnited Inc,818.0,818.0
+819,AXS UN Equity,Axis Capital Holdings Ltd,819.0,819.0
+820,PRGO UN Equity,Perrigo Co PLC,820.0,820.0
+821,IBTX UW Equity,Independent Bank Group Inc,821.0,821.0
+822,QTRX UQ Equity,Quanterix Corp,822.0,822.0
+823,MASI UW Equity,Masimo Corp,823.0,823.0
+824,MDT UN Equity,Medtronic PLC,824.0,824.0
+825,SP UW Equity,SP Plus Corp,825.0,825.0
+826,CAG UN Equity,Conagra Brands Inc,826.0,826.0
+827,ARTNA UW Equity,Artesian Resources Corp,827.0,827.0
+828,ALE UN Equity,ALLETE Inc,828.0,828.0
+829,OCUL UQ Equity,Ocular Therapeutix Inc,829.0,829.0
+830,PLAB UW Equity,Photronics Inc,830.0,830.0
+831,RNA UQ Equity,Avidity Biosciences Inc,831.0,831.0
+832,RGR UN Equity,Sturm Ruger & Co Inc,832.0,832.0
+833,LCNB UR Equity,LCNB Corp,833.0,833.0
+834,CCSI UW Equity,Consensus Cloud Solutions Inc,834.0,834.0
+835,BCAB UQ Equity,BioAtla Inc,835.0,835.0
+836,MGRC UW Equity,McGrath RentCorp,836.0,836.0
+837,FSLY UN Equity,Fastly Inc,837.0,837.0
+838,GRC UN Equity,Gorman-Rupp Co/The,838.0,838.0
+839,PBF UN Equity,PBF Energy Inc,839.0,839.0
+840,BBY UN Equity,Best Buy Co Inc,840.0,840.0
+841,OCFC UW Equity,OceanFirst Financial Corp,841.0,841.0
+842,DAR UN Equity,Darling Ingredients Inc,842.0,842.0
+843,VLO UN Equity,Valero Energy Corp,843.0,843.0
+844,RWT UN Equity,Redwood Trust Inc,844.0,844.0
+845,APTV UN Equity,Aptiv PLC,845.0,845.0
+846,BKD UN Equity,Brookdale Senior Living Inc,846.0,846.0
+847,LDOS UN Equity,Leidos Holdings Inc,847.0,847.0
+848,OMI UN Equity,Owens & Minor Inc,848.0,848.0
+849,MSGE UN Equity,Madison Square Garden Entertai,849.0,849.0
+850,EMBC UW Equity,Embecta Corp,850.0,850.0
+851,AMPL UR Equity,Amplitude Inc,851.0,851.0
+852,TPH UN Equity,Tri Pointe Homes Inc,852.0,852.0
+853,UE UN Equity,Urban Edge Properties,853.0,853.0
+854,MTCH UW Equity,Match Group Inc,854.0,854.0
+855,OGE UN Equity,OGE Energy Corp,855.0,855.0
+856,FCEL UQ Equity,FuelCell Energy Inc,856.0,856.0
+857,CTLP UW Equity,Cantaloupe Inc,857.0,857.0
+858,CTXR UR Equity,Citius Pharmaceuticals Inc,858.0,858.0
+859,VMC UN Equity,Vulcan Materials Co,859.0,859.0
+860,GPK UN Equity,Graphic Packaging Holding Co,860.0,860.0
+861,RMAX UN Equity,RE/MAX Holdings Inc,861.0,861.0
+862,SLND UA Equity,Southland Holdings Inc,862.0,862.0
+863,ACCO UN Equity,ACCO Brands Corp,863.0,863.0
+864,WAFD UW Equity,WaFd Inc,864.0,864.0
+865,RGA UN Equity,Reinsurance Group of America I,865.0,865.0
+866,TNL UN Equity,Travel + Leisure Co,866.0,866.0
+867,AMG UN Equity,Affiliated Managers Group Inc,867.0,867.0
+868,OSIS UW Equity,OSI Systems Inc,868.0,868.0
+869,LNN UN Equity,Lindsay Corp,869.0,869.0
+870,CPS UN Equity,Cooper-Standard Holdings Inc,870.0,870.0
+871,SNEX UW Equity,StoneX Group Inc,871.0,871.0
+872,CZFS UR Equity,Citizens Financial Services In,872.0,872.0
+873,QDEL UW Equity,QuidelOrtho Corp,873.0,873.0
+874,BCO UN Equity,Brink's Co/The,874.0,874.0
+875,MOG/A UN Equity,Moog Inc,875.0,875.0
+876,STHO UQ Equity,Star Holdings,876.0,876.0
+877,INZY UW Equity,Inozyme Pharma Inc,877.0,877.0
+878,WEX UN Equity,WEX Inc,878.0,878.0
+879,WRK UN Equity,Westrock Co,879.0,879.0
+880,LESL UW Equity,Leslie's Inc,880.0,880.0
+881,TGTX UR Equity,TG Therapeutics Inc,881.0,881.0
+882,THRM UW Equity,Gentherm Inc,882.0,882.0
+883,NEOG UW Equity,Neogen Corp,883.0,883.0
+884,KEX UN Equity,Kirby Corp,884.0,884.0
+885,NFG UN Equity,National Fuel Gas Co,885.0,885.0
+886,SSNC UW Equity,SS&C Technologies Holdings Inc,886.0,886.0
+887,ARRY UQ Equity,Array Technologies Inc,887.0,887.0
+888,SYF UN Equity,Synchrony Financial,888.0,888.0
+889,PRGS UW Equity,Progress Software Corp,889.0,889.0
+890,PEP UW Equity,PepsiCo Inc,890.0,890.0
+891,MQ UW Equity,Marqeta Inc,891.0,891.0
+892,ACM UN Equity,AECOM,892.0,892.0
+893,KLXE UW Equity,KLX Energy Services Holdings I,893.0,893.0
+894,SMAR UN Equity,Smartsheet Inc,894.0,894.0
+895,UNM UN Equity,Unum Group,895.0,895.0
+896,BKKT UN Equity,Bakkt Holdings Inc,896.0,896.0
+897,SPCE UN Equity,Virgin Galactic Holdings Inc,897.0,897.0
+898,CDAY UN Equity,Ceridian HCM Holding Inc,898.0,898.0
+899,PKBK UR Equity,Parke Bancorp Inc,899.0,899.0
+900,DOX UW Equity,Amdocs Ltd,900.0,900.0
+901,CIEN UN Equity,Ciena Corp,901.0,901.0
+902,DIN UN Equity,Dine Brands Global Inc,902.0,902.0
+903,DTM UN Equity,DT Midstream Inc,903.0,903.0
+904,DXLG UQ Equity,Destination XL Group Inc,904.0,904.0
+905,RYN UN Equity,Rayonier Inc,905.0,905.0
+906,NEM UN Equity,Newmont Corp,906.0,906.0
+907,MYFW UW Equity,First Western Financial Inc,907.0,907.0
+908,HIG UN Equity,Hartford Financial Services Gr,908.0,908.0
+909,LXP UN Equity,LXP Industrial Trust,909.0,909.0
+910,HRI UN Equity,Herc Holdings Inc,910.0,910.0
+911,CCL UN Equity,Carnival Corp,911.0,911.0
+912,TIPT UR Equity,Tiptree Inc,912.0,912.0
+913,MO UN Equity,Altria Group Inc,913.0,913.0
+914,CTKB UW Equity,Cytek Biosciences Inc,914.0,914.0
+915,AKYA UW Equity,Akoya Biosciences Inc,915.0,915.0
+916,BE UN Equity,Bloom Energy Corp,916.0,916.0
+917,CSL UN Equity,Carlisle Cos Inc,917.0,917.0
+918,MRNS UQ Equity,Marinus Pharmaceuticals Inc,918.0,918.0
+919,PSMT UW Equity,PriceSmart Inc,919.0,919.0
+920,NWBI UW Equity,Northwest Bancshares Inc,920.0,920.0
+921,NVTA UN Equity,Invitae Corp,921.0,921.0
+922,EDIT UW Equity,Editas Medicine Inc,922.0,922.0
+923,BXP UN Equity,Boston Properties Inc,923.0,923.0
+924,CPT UN Equity,Camden Property Trust,924.0,924.0
+925,TROW UW Equity,T Rowe Price Group Inc,925.0,925.0
+926,VBTX UQ Equity,Veritex Holdings Inc,926.0,926.0
+927,JHG UN Equity,Janus Henderson Group PLC,927.0,927.0
+928,CADE UN Equity,Cadence Bank,928.0,928.0
+929,KALV UQ Equity,KalVista Pharmaceuticals Inc,929.0,929.0
+930,LMT UN Equity,Lockheed Martin Corp,930.0,930.0
+931,MSEX UW Equity,Middlesex Water Co,931.0,931.0
+932,CRI UN Equity,Carter's Inc,932.0,932.0
+933,EBC UW Equity,Eastern Bankshares Inc,933.0,933.0
+934,TFIN UW Equity,Triumph Financial Inc,934.0,934.0
+935,REPL UW Equity,Replimune Group Inc,935.0,935.0
+936,SCVL UW Equity,Shoe Carnival Inc,936.0,936.0
+937,AYI UN Equity,Acuity Brands Inc,937.0,937.0
+938,TRTX UN Equity,TPG RE Finance Trust Inc,938.0,938.0
+939,TCBX UW Equity,Third Coast Bancshares Inc,939.0,939.0
+940,CNO UN Equity,CNO Financial Group Inc,940.0,940.0
+941,AMLX UW Equity,Amylyx Pharmaceuticals Inc,941.0,941.0
+942,GPI UN Equity,Group 1 Automotive Inc,942.0,942.0
+943,CHCT UN Equity,Community Healthcare Trust Inc,943.0,943.0
+944,INGR UN Equity,Ingredion Inc,944.0,944.0
+945,PARR UN Equity,Par Pacific Holdings Inc,945.0,945.0
+946,VRTS UN Equity,Virtus Investment Partners Inc,946.0,946.0
+947,KIDS UQ Equity,OrthoPediatrics Corp,947.0,947.0
+948,BRX UN Equity,Brixmor Property Group Inc,948.0,948.0
+949,QGEN UN Equity,QIAGEN NV,949.0,949.0
+950,HFWA UW Equity,Heritage Financial Corp/WA,950.0,950.0
+951,APA UW Equity,APA Corp,951.0,951.0
+952,GTES UN Equity,Gates Industrial Corp PLC,952.0,952.0
+953,NLY UN Equity,Annaly Capital Management Inc,953.0,953.0
+954,GPN UN Equity,Global Payments Inc,954.0,954.0
+955,RITM UN Equity,Rithm Capital Corp,955.0,955.0
+956,BCBP UQ Equity,BCB Bancorp Inc,956.0,956.0
+957,NTST UN Equity,NETSTREIT Corp,957.0,957.0
+958,MYE UN Equity,Myers Industries Inc,958.0,958.0
+959,PRFT UW Equity,Perficient Inc,959.0,959.0
+960,UNIT UW Equity,Uniti Group Inc,960.0,960.0
+961,NTRS UW Equity,Northern Trust Corp,961.0,961.0
+962,CNOB UW Equity,ConnectOne Bancorp Inc,962.0,962.0
+963,WTM UN Equity,White Mountains Insurance Grou,963.0,963.0
+964,PB UN Equity,Prosperity Bancshares Inc,964.0,964.0
+965,HEES UW Equity,H&E Equipment Services Inc,965.0,965.0
+966,TEX UN Equity,Terex Corp,966.0,966.0
+967,TNYA UW Equity,Tenaya Therapeutics Inc,967.0,967.0
+968,CTS UN Equity,CTS Corp,968.0,968.0
+969,ATKR UN Equity,Atkore Inc,969.0,969.0
+970,ESRT UN Equity,Empire State Realty Trust Inc,970.0,970.0
+971,CDW UW Equity,CDW Corp/DE,971.0,971.0
+972,PLL UR Equity,Piedmont Lithium Inc,972.0,972.0
+973,ROG UN Equity,Rogers Corp,973.0,973.0
+974,WSBC UW Equity,WesBanco Inc,974.0,974.0
+975,AZZ UN Equity,AZZ Inc,975.0,975.0
+976,AXTA UN Equity,Axalta Coating Systems Ltd,976.0,976.0
+977,LGND UQ Equity,Ligand Pharmaceuticals Inc,977.0,977.0
+978,HTH UN Equity,Hilltop Holdings Inc,978.0,978.0
+979,POST UN Equity,Post Holdings Inc,979.0,979.0
+980,CPRI UN Equity,Capri Holdings Ltd,980.0,980.0
+981,HP UN Equity,Helmerich & Payne Inc,981.0,981.0
+982,PCG UN Equity,PG&E Corp,982.0,982.0
+983,EMN UN Equity,Eastman Chemical Co,983.0,983.0
+984,TRN UN Equity,Trinity Industries Inc,984.0,984.0
+985,LAND UQ Equity,Gladstone Land Corp,985.0,985.0
+986,RENT UR Equity,Rent the Runway Inc,986.0,986.0
+987,CDE UN Equity,Coeur Mining Inc,987.0,987.0
+988,CCS UN Equity,Century Communities Inc,988.0,988.0
+989,MODG UN Equity,Topgolf Callaway Brands Corp,989.0,989.0
+990,UONE UR Equity,Urban One Inc,990.0,990.0
+991,BSRR UW Equity,Sierra Bancorp,991.0,991.0
+992,TDUP UW Equity,ThredUp Inc,992.0,992.0
+993,FHN UN Equity,First Horizon Corp,993.0,993.0
+994,NEXT UR Equity,NextDecade Corp,994.0,994.0
+995,PINE UN Equity,Alpine Income Property Trust I,995.0,995.0
+996,DAL UN Equity,Delta Air Lines Inc,996.0,996.0
+997,DG UN Equity,Dollar General Corp,997.0,997.0
+998,PTLO UW Equity,Portillo's Inc,998.0,998.0
+999,GMRE UN Equity,Global Medical REIT Inc,999.0,999.0
+1000,TER UW Equity,Teradyne Inc,1000.0,1000.0
+1001,GHC UN Equity,Graham Holdings Co,1001.0,1001.0
+1002,AKR UN Equity,Acadia Realty Trust,1002.0,1002.0
+1003,PLX UA Equity,Protalix BioTherapeutics Inc,1003.0,1003.0
+1004,GWRE UN Equity,Guidewire Software Inc,1004.0,1004.0
+1005,RPD UQ Equity,Rapid7 Inc,1005.0,1005.0
+1006,QSI UQ Equity,Quantum-Si Inc,1006.0,1006.0
+1007,ZI UW Equity,ZoomInfo Technologies Inc,1007.0,1007.0
+1008,NJR UN Equity,New Jersey Resources Corp,1008.0,1008.0
+1009,ALRS UR Equity,Alerus Financial Corp,1009.0,1009.0
+1010,ADEA UW Equity,Adeia Inc,1010.0,1010.0
+1011,FF UN Equity,FutureFuel Corp,1011.0,1011.0
+1012,RNAC UQ Equity,Cartesian Therapeutics Inc,1012.0,1012.0
+1013,FMAO UR Equity,Farmers & Merchants Bancorp In,1013.0,1013.0
+1014,RCKY UW Equity,Rocky Brands Inc,1014.0,1014.0
+1015,VLD UN Equity,Velo3D Inc,1015.0,1015.0
+1016,PVH UN Equity,PVH Corp,1016.0,1016.0
+1017,SON UN Equity,Sonoco Products Co,1017.0,1017.0
+1018,HXL UN Equity,Hexcel Corp,1018.0,1018.0
+1019,CMS UN Equity,CMS Energy Corp,1019.0,1019.0
+1020,MS UN Equity,Morgan Stanley,1020.0,1020.0
+1021,PAYO UQ Equity,Payoneer Global Inc,1021.0,1021.0
+1022,MRO UN Equity,Marathon Oil Corp,1022.0,1022.0
+1023,TRUP UQ Equity,Trupanion Inc,1023.0,1023.0
+1024,SGHC UN Equity,Super Group SGHC Ltd,1024.0,1024.0
+1025,INFU UA Equity,InfuSystem Holdings Inc,1025.0,1025.0
+1026,MRNA UW Equity,Moderna Inc,1026.0,1026.0
+1027,BBSI UW Equity,Barrett Business Services Inc,1027.0,1027.0
+1028,VRRM UR Equity,Verra Mobility Corp,1028.0,1028.0
+1029,AMSF UW Equity,AMERISAFE Inc,1029.0,1029.0
+1030,GBCI UN Equity,Glacier Bancorp Inc,1030.0,1030.0
+1031,BMRC UR Equity,Bank of Marin Bancorp,1031.0,1031.0
+1032,TFC UN Equity,Truist Financial Corp,1032.0,1032.0
+1033,FVCB UR Equity,FVCBankcorp Inc,1033.0,1033.0
+1034,SMP UN Equity,Standard Motor Products Inc,1034.0,1034.0
+1035,OVV UN Equity,Ovintiv Inc,1035.0,1035.0
+1036,MBUU UQ Equity,Malibu Boats Inc,1036.0,1036.0
+1037,GTLS UN Equity,Chart Industries Inc,1037.0,1037.0
+1038,GEF UN Equity,Greif Inc,1038.0,1038.0
+1039,FOLD UQ Equity,Amicus Therapeutics Inc,1039.0,1039.0
+1040,CWK UN Equity,Cushman & Wakefield PLC,1040.0,1040.0
+1041,AFCG UQ Equity,AFC Gamma Inc,1041.0,1041.0
+1042,EXTR UW Equity,Extreme Networks Inc,1042.0,1042.0
+1043,CSV UN Equity,Carriage Services Inc,1043.0,1043.0
+1044,TARS UW Equity,Tarsus Pharmaceuticals Inc,1044.0,1044.0
+1045,GTN UN Equity,Gray Television Inc,1045.0,1045.0
+1046,PRO UN Equity,PROS Holdings Inc,1046.0,1046.0
+1047,COO UW Equity,Cooper Cos Inc/The,1047.0,1047.0
+1048,VST UN Equity,Vistra Corp,1048.0,1048.0
+1049,HAE UN Equity,Haemonetics Corp,1049.0,1049.0
+1050,WOW UN Equity,WideOpenWest Inc,1050.0,1050.0
+1051,SITE UN Equity,SiteOne Landscape Supply Inc,1051.0,1051.0
+1052,BWXT UN Equity,BWX Technologies Inc,1052.0,1052.0
+1053,MKL UN Equity,Markel Group Inc,1053.0,1053.0
+1054,BUSE UW Equity,First Busey Corp,1054.0,1054.0
+1055,NC UN Equity,NACCO Industries Inc,1055.0,1055.0
+1056,SCPH UW Equity,scPharmaceuticals Inc,1056.0,1056.0
+1057,ACEL UN Equity,Accel Entertainment Inc,1057.0,1057.0
+1058,LMND UN Equity,Lemonade Inc,1058.0,1058.0
+1059,CTSH UW Equity,Cognizant Technology Solutions,1059.0,1059.0
+1060,BCML UW Equity,BayCom Corp,1060.0,1060.0
+1061,PRVA UW Equity,Privia Health Group Inc,1061.0,1061.0
+1062,SAM UN Equity,Boston Beer Co Inc/The,1062.0,1062.0
+1063,MCY UN Equity,Mercury General Corp,1063.0,1063.0
+1064,ZETA UN Equity,Zeta Global Holdings Corp,1064.0,1064.0
+1065,UDR UN Equity,UDR Inc,1065.0,1065.0
+1066,ESAB UN Equity,Esab Corp,1066.0,1066.0
+1067,KURA UW Equity,Kura Oncology Inc,1067.0,1067.0
+1068,EVTC UN Equity,EVERTEC Inc,1068.0,1068.0
+1069,WCC UN Equity,WESCO International Inc,1069.0,1069.0
+1070,NSIT UW Equity,Insight Enterprises Inc,1070.0,1070.0
+1071,SLGN UN Equity,Silgan Holdings Inc,1071.0,1071.0
+1072,DGX UN Equity,Quest Diagnostics Inc,1072.0,1072.0
+1073,UVE UN Equity,Universal Insurance Holdings I,1073.0,1073.0
+1074,DUK UN Equity,Duke Energy Corp,1074.0,1074.0
+1075,PATK UW Equity,Patrick Industries Inc,1075.0,1075.0
+1076,STBA UW Equity,S&T Bancorp Inc,1076.0,1076.0
+1077,VC UW Equity,Visteon Corp,1077.0,1077.0
+1078,MDC UN Equity,MDC Holdings Inc,1078.0,1078.0
+1079,SMBK UN Equity,SmartFinancial Inc,1079.0,1079.0
+1080,MGPI UW Equity,MGP Ingredients Inc,1080.0,1080.0
+1081,AVNT UN Equity,Avient Corp,1081.0,1081.0
+1082,LNT UW Equity,Alliant Energy Corp,1082.0,1082.0
+1083,BAH UN Equity,Booz Allen Hamilton Holding Co,1083.0,1083.0
+1084,BV UN Equity,BrightView Holdings Inc,1084.0,1084.0
+1085,AAL UW Equity,American Airlines Group Inc,1085.0,1085.0
+1086,JNPR UN Equity,Juniper Networks Inc,1086.0,1086.0
+1087,CIM UN Equity,Chimera Investment Corp,1087.0,1087.0
+1088,ZYXI UW Equity,Zynex Inc,1088.0,1088.0
+1089,ARE UN Equity,Alexandria Real Estate Equitie,1089.0,1089.0
+1090,HTBK UW Equity,Heritage Commerce Corp,1090.0,1090.0
+1091,MOV UN Equity,Movado Group Inc,1091.0,1091.0
+1092,SPXC UN Equity,SPX Technologies Inc,1092.0,1092.0
+1093,AWK UN Equity,American Water Works Co Inc,1093.0,1093.0
+1094,RDN UN Equity,Radian Group Inc,1094.0,1094.0
+1095,DJCO UR Equity,Daily Journal Corp,1095.0,1095.0
+1096,ACET UQ Equity,Adicet Bio Inc,1096.0,1096.0
+1097,NPK UN Equity,National Presto Industries Inc,1097.0,1097.0
+1098,REI UA Equity,Ring Energy Inc,1098.0,1098.0
+1099,ALNY UW Equity,Alnylam Pharmaceuticals Inc,1099.0,1099.0
+1100,AUB UN Equity,Atlantic Union Bankshares Corp,1100.0,1100.0
+1101,FLO UN Equity,Flowers Foods Inc,1101.0,1101.0
+1102,BOOT UN Equity,Boot Barn Holdings Inc,1102.0,1102.0
+1103,EXFY UW Equity,Expensify Inc,1103.0,1103.0
+1104,EOLS UQ Equity,Evolus Inc,1104.0,1104.0
+1105,TFX UN Equity,Teleflex Inc,1105.0,1105.0
+1106,JBL UN Equity,Jabil Inc,1106.0,1106.0
+1107,XAIR UR Equity,Beyond Air Inc,1107.0,1107.0
+1108,DTE UN Equity,DTE Energy Co,1108.0,1108.0
+1109,III UQ Equity,Information Services Group Inc,1109.0,1109.0
+1110,CLX UN Equity,Clorox Co/The,1110.0,1110.0
+1111,SPHR UN Equity,Sphere Entertainment Co,1111.0,1111.0
+1112,SXT UN Equity,Sensient Technologies Corp,1112.0,1112.0
+1113,WSC UR Equity,WillScot Mobile Mini Holdings,1113.0,1113.0
+1114,ORIC UW Equity,ORIC Pharmaceuticals Inc,1114.0,1114.0
+1115,TRGP UN Equity,Targa Resources Corp,1115.0,1115.0
+1116,CGEM UW Equity,Cullinan Oncology Inc,1116.0,1116.0
+1117,SAIC UN Equity,Science Applications Internati,1117.0,1117.0
+1118,TCBI UW Equity,Texas Capital Bancshares Inc,1118.0,1118.0
+1119,MNSB UR Equity,MainStreet Bancshares Inc,1119.0,1119.0
+1120,AEP UW Equity,American Electric Power Co Inc,1120.0,1120.0
+1121,SRDX UW Equity,Surmodics Inc,1121.0,1121.0
+1122,NTLA UQ Equity,Intellia Therapeutics Inc,1122.0,1122.0
+1123,HL UN Equity,Hecla Mining Co,1123.0,1123.0
+1124,ALHC UW Equity,Alignment Healthcare Inc,1124.0,1124.0
+1125,STKL UW Equity,SunOpta Inc,1125.0,1125.0
+1126,VMEO UW Equity,Vimeo Inc,1126.0,1126.0
+1127,HAYW UN Equity,Hayward Holdings Inc,1127.0,1127.0
+1128,HSIC UW Equity,Henry Schein Inc,1128.0,1128.0
+1129,GCMG UQ Equity,GCM Grosvenor Inc,1129.0,1129.0
+1130,MEC UN Equity,Mayville Engineering Co Inc,1130.0,1130.0
+1131,AHH UN Equity,Armada Hoffler Properties Inc,1131.0,1131.0
+1132,RBBN UW Equity,Ribbon Communications Inc,1132.0,1132.0
+1133,ANAB UW Equity,AnaptysBio Inc,1133.0,1133.0
+1134,TRV UN Equity,Travelers Cos Inc/The,1134.0,1134.0
+1135,PCB UW Equity,PCB Bancorp,1135.0,1135.0
+1136,CMBM UQ Equity,Cambium Networks Corp,1136.0,1136.0
+1137,LYEL UW Equity,Lyell Immunopharma Inc,1137.0,1137.0
+1138,FBRT UN Equity,Franklin BSP Realty Trust Inc,1138.0,1138.0
+1139,DY UN Equity,Dycom Industries Inc,1139.0,1139.0
+1140,LZB UN Equity,La-Z-Boy Inc,1140.0,1140.0
+1141,SAFE UN Equity,Safehold Inc,1141.0,1141.0
+1142,AMCR UN Equity,Amcor PLC,1142.0,1142.0
+1143,ON UW Equity,ON Semiconductor Corp,1143.0,1143.0
+1144,RDFN UW Equity,Redfin Corp,1144.0,1144.0
+1145,VOXX UW Equity,VOXX International Corp,1145.0,1145.0
+1146,YMAB UW Equity,Y-mAbs Therapeutics Inc,1146.0,1146.0
+1147,ALG UN Equity,Alamo Group Inc,1147.0,1147.0
+1148,CI UN Equity,Cigna Group/The,1148.0,1148.0
+1149,ZYME UW Equity,Zymeworks Inc,1149.0,1149.0
+1150,CRMD UQ Equity,CorMedix Inc,1150.0,1150.0
+1151,AGCO UN Equity,AGCO Corp,1151.0,1151.0
+1152,PGC UW Equity,Peapack-Gladstone Financial Co,1152.0,1152.0
+1153,GO UW Equity,Grocery Outlet Holding Corp,1153.0,1153.0
+1154,CTRA UN Equity,Coterra Energy Inc,1154.0,1154.0
+1155,EPM UA Equity,Evolution Petroleum Corp,1155.0,1155.0
+1156,HBNC UW Equity,Horizon Bancorp Inc/IN,1156.0,1156.0
+1157,AHCO UR Equity,AdaptHealth Corp,1157.0,1157.0
+1158,GEHC UW Equity,GE HealthCare Technologies Inc,1158.0,1158.0
+1159,PNC UN Equity,PNC Financial Services Group I,1159.0,1159.0
+1160,IPG UN Equity,Interpublic Group of Cos Inc/T,1160.0,1160.0
+1161,CZNC UR Equity,Citizens & Northern Corp,1161.0,1161.0
+1162,APLE UN Equity,Apple Hospitality REIT Inc,1162.0,1162.0
+1163,OABI UQ Equity,OmniAb Inc,1163.0,1163.0
+1164,ACRV UQ Equity,Acrivon Therapeutics Inc,1164.0,1164.0
+1165,WASH UW Equity,Washington Trust Bancorp Inc,1165.0,1165.0
+1166,ARVN UW Equity,Arvinas Inc,1166.0,1166.0
+1167,MSBI UW Equity,Midland States Bancorp Inc,1167.0,1167.0
+1168,STRS UW Equity,Stratus Properties Inc,1168.0,1168.0
+1169,HUBB UN Equity,Hubbell Inc,1169.0,1169.0
+1170,J UN Equity,Jacobs Solutions Inc,1170.0,1170.0
+1171,CPK UN Equity,Chesapeake Utilities Corp,1171.0,1171.0
+1172,COLL UW Equity,Collegium Pharmaceutical Inc,1172.0,1172.0
+1173,PFIS UW Equity,Peoples Financial Services Cor,1173.0,1173.0
+1174,XOM UN Equity,Exxon Mobil Corp,1174.0,1174.0
+1175,PDSB UR Equity,PDS Biotechnology Corp,1175.0,1175.0
+1176,SNDX UW Equity,Syndax Pharmaceuticals Inc,1176.0,1176.0
+1177,LCII UN Equity,LCI Industries,1177.0,1177.0
+1178,MAT UW Equity,Mattel Inc,1178.0,1178.0
+1179,DOCU UW Equity,DocuSign Inc,1179.0,1179.0
+1180,SLDP UW Equity,Solid Power Inc,1180.0,1180.0
+1181,FDMT UW Equity,4D Molecular Therapeutics Inc,1181.0,1181.0
+1182,ANNX UW Equity,Annexon Inc,1182.0,1182.0
+1183,OKTA UW Equity,Okta Inc,1183.0,1183.0
+1184,AKAM UW Equity,Akamai Technologies Inc,1184.0,1184.0
+1185,WNC UN Equity,Wabash National Corp,1185.0,1185.0
+1186,UCBI UW Equity,United Community Banks Inc/GA,1186.0,1186.0
+1187,EOSE UR Equity,Eos Energy Enterprises Inc,1187.0,1187.0
+1188,MIRM UQ Equity,Mirum Pharmaceuticals Inc,1188.0,1188.0
+1189,MCB UN Equity,Metropolitan Bank Holding Corp,1189.0,1189.0
+1190,AVDX UW Equity,AvidXchange Holdings Inc,1190.0,1190.0
+1191,CAC UW Equity,Camden National Corp,1191.0,1191.0
+1192,HST UW Equity,Host Hotels & Resorts Inc,1192.0,1192.0
+1193,FFBC UW Equity,First Financial Bancorp,1193.0,1193.0
+1194,PHAT UW Equity,Phathom Pharmaceuticals Inc,1194.0,1194.0
+1195,WY UN Equity,Weyerhaeuser Co,1195.0,1195.0
+1196,VGR UN Equity,Vector Group Ltd,1196.0,1196.0
+1197,TTC UN Equity,Toro Co/The,1197.0,1197.0
+1198,HAFC UW Equity,Hanmi Financial Corp,1198.0,1198.0
+1199,LEGH UW Equity,Legacy Housing Corp,1199.0,1199.0
+1200,DCPH UW Equity,Deciphera Pharmaceuticals Inc,1200.0,1200.0
+1201,BRP UW Equity,BRP Group Inc,1201.0,1201.0
+1202,KRTX UQ Equity,Karuna Therapeutics Inc,1202.0,1202.0
+1203,HOG UN Equity,Harley-Davidson Inc,1203.0,1203.0
+1204,SMR UN Equity,NuScale Power Corp,1204.0,1204.0
+1205,CR UN Equity,Crane Co,1205.0,1205.0
+1206,AMRC UN Equity,Ameresco Inc,1206.0,1206.0
+1207,WEYS UW Equity,Weyco Group Inc,1207.0,1207.0
+1208,INDB UW Equity,Independent Bank Corp,1208.0,1208.0
+1209,DENN UR Equity,Denny's Corp,1209.0,1209.0
+1210,EVGO UW Equity,EVgo Inc,1210.0,1210.0
+1211,IPGP UW Equity,IPG Photonics Corp,1211.0,1211.0
+1212,TRST UW Equity,TrustCo Bank Corp NY,1212.0,1212.0
+1213,UVV UN Equity,Universal Corp/VA,1213.0,1213.0
+1214,SAH UN Equity,Sonic Automotive Inc,1214.0,1214.0
+1215,FOX UW Equity,Fox Corp,1215.0,1215.0
+1216,BNL UN Equity,Broadstone Net Lease Inc,1216.0,1216.0
+1217,PTGX UQ Equity,Protagonist Therapeutics Inc,1217.0,1217.0
+1218,SKIN UR Equity,Beauty Health Co/The,1218.0,1218.0
+1219,SHAK UN Equity,Shake Shack Inc,1219.0,1219.0
+1220,FSBW UR Equity,FS Bancorp Inc,1220.0,1220.0
+1221,OMC UN Equity,Omnicom Group Inc,1221.0,1221.0
+1222,CBU UN Equity,Community Bank System Inc,1222.0,1222.0
+1223,O UN Equity,Realty Income Corp,1223.0,1223.0
+1224,NHC UA Equity,National HealthCare Corp,1224.0,1224.0
+1225,NLOP UN Equity,NET Lease Office Properties,1225.0,1225.0
+1226,STT UN Equity,State Street Corp,1226.0,1226.0
+1227,UTMD UW Equity,Utah Medical Products Inc,1227.0,1227.0
+1228,WLFC UQ Equity,Willis Lease Finance Corp,1228.0,1228.0
+1229,ADMA UQ Equity,ADMA Biologics Inc,1229.0,1229.0
+1230,KVUE UN Equity,Kenvue Inc,1230.0,1230.0
+1231,NG UA Equity,Novagold Resources Inc,1231.0,1231.0
+1232,MIR UN Equity,Mirion Technologies Inc,1232.0,1232.0
+1233,EFX UN Equity,Equifax Inc,1233.0,1233.0
+1234,GTY UN Equity,Getty Realty Corp,1234.0,1234.0
+1235,BORR UN Equity,Borr Drilling Ltd,1235.0,1235.0
+1236,PX UN Equity,P10 Inc,1236.0,1236.0
+1237,PEGA UW Equity,Pegasystems Inc,1237.0,1237.0
+1238,SHEN UW Equity,Shenandoah Telecommunications,1238.0,1238.0
+1239,ATO UN Equity,Atmos Energy Corp,1239.0,1239.0
+1240,EQR UN Equity,Equity Residential,1240.0,1240.0
+1241,CAL UN Equity,Caleres Inc,1241.0,1241.0
+1242,BMBL UW Equity,Bumble Inc,1242.0,1242.0
+1243,NRGV UN Equity,Energy Vault Holdings Inc,1243.0,1243.0
+1244,CMCSA UW Equity,Comcast Corp,1244.0,1244.0
+1245,CFLT UW Equity,Confluent Inc,1245.0,1245.0
+1246,EXLS UW Equity,ExlService Holdings Inc,1246.0,1246.0
+1247,USPH UN Equity,US Physical Therapy Inc,1247.0,1247.0
+1248,FULT UW Equity,Fulton Financial Corp,1248.0,1248.0
+1249,FCCO UR Equity,First Community Corp/SC,1249.0,1249.0
+1250,WK UN Equity,Workiva Inc,1250.0,1250.0
+1251,AN UN Equity,AutoNation Inc,1251.0,1251.0
+1252,ADM UN Equity,Archer-Daniels-Midland Co,1252.0,1252.0
+1253,DLR UN Equity,Digital Realty Trust Inc,1253.0,1253.0
+1254,CCNE UW Equity,CNB Financial Corp/PA,1254.0,1254.0
+1255,ENS UN Equity,EnerSys,1255.0,1255.0
+1256,KMB UN Equity,Kimberly-Clark Corp,1256.0,1256.0
+1257,SD UN Equity,SandRidge Energy Inc,1257.0,1257.0
+1258,BOX UN Equity,Box Inc,1258.0,1258.0
+1259,IRWD UW Equity,Ironwood Pharmaceuticals Inc,1259.0,1259.0
+1260,SM UN Equity,SM Energy Co,1260.0,1260.0
+1261,XP UW Equity,XP Inc,1261.0,1261.0
+1262,FRBA UQ Equity,First Bank/Hamilton NJ,1262.0,1262.0
+1263,DCI UN Equity,Donaldson Co Inc,1263.0,1263.0
+1264,BXMT UN Equity,Blackstone Mortgage Trust Inc,1264.0,1264.0
+1265,ITI UR Equity,Iteris Inc,1265.0,1265.0
+1266,MNKD UQ Equity,MannKind Corp,1266.0,1266.0
+1267,GOCO UR Equity,GoHealth Inc,1267.0,1267.0
+1268,LLYVA UW Equity,Liberty Media Corp-Liberty Liv,1268.0,1268.0
+1269,DD UN Equity,DuPont de Nemours Inc,1269.0,1269.0
+1270,NAT UN Equity,Nordic American Tankers Ltd,1270.0,1270.0
+1271,SEIC UW Equity,SEI Investments Co,1271.0,1271.0
+1272,BAC UN Equity,Bank of America Corp,1272.0,1272.0
+1273,JLL UN Equity,Jones Lang LaSalle Inc,1273.0,1273.0
+1274,DGICA UW Equity,Donegal Group Inc,1274.0,1274.0
+1275,HBAN UW Equity,Huntington Bancshares Inc/OH,1275.0,1275.0
+1276,SWBI UW Equity,Smith & Wesson Brands Inc,1276.0,1276.0
+1277,MPB UQ Equity,Mid Penn Bancorp Inc,1277.0,1277.0
+1278,W UN Equity,Wayfair Inc,1278.0,1278.0
+1279,PCYO UR Equity,Pure Cycle Corp,1279.0,1279.0
+1280,MLM UN Equity,Martin Marietta Materials Inc,1280.0,1280.0
+1281,SNCY UW Equity,Sun Country Airlines Holdings,1281.0,1281.0
+1282,ELV UN Equity,Elevance Health Inc,1282.0,1282.0
+1283,VOR UW Equity,Vor BioPharma Inc,1283.0,1283.0
+1284,OBK UN Equity,Origin Bancorp Inc,1284.0,1284.0
+1285,RUN UW Equity,Sunrun Inc,1285.0,1285.0
+1286,WBD UW Equity,Warner Bros Discovery Inc,1286.0,1286.0
+1287,PACB UW Equity,Pacific Biosciences of Califor,1287.0,1287.0
+1288,USB UN Equity,US Bancorp,1288.0,1288.0
+1289,DBI UN Equity,Designer Brands Inc,1289.0,1289.0
+1290,STWD UN Equity,Starwood Property Trust Inc,1290.0,1290.0
+1291,PAX UW Equity,Patria Investments Ltd,1291.0,1291.0
+1292,TRC UN Equity,Tejon Ranch Co,1292.0,1292.0
+1293,SUI UN Equity,Sun Communities Inc,1293.0,1293.0
+1294,LGIH UW Equity,LGI Homes Inc,1294.0,1294.0
+1295,INVA UW Equity,Innoviva Inc,1295.0,1295.0
+1296,NTRA UW Equity,Natera Inc,1296.0,1296.0
+1297,FTI UN Equity,TechnipFMC PLC,1297.0,1297.0
+1298,ONB UW Equity,Old National Bancorp/IN,1298.0,1298.0
+1299,COLB UW Equity,Columbia Banking System Inc,1299.0,1299.0
+1300,CARE UW Equity,Carter Bankshares Inc,1300.0,1300.0
+1301,MRTN UW Equity,Marten Transport Ltd,1301.0,1301.0
+1302,TAST UW Equity,Carrols Restaurant Group Inc,1302.0,1302.0
+1303,PTON UW Equity,Peloton Interactive Inc,1303.0,1303.0
+1304,CIVB UR Equity,Civista Bancshares Inc,1304.0,1304.0
+1305,TWO UN Equity,Two Harbors Investment Corp,1305.0,1305.0
+1306,RKT UN Equity,Rocket Cos Inc,1306.0,1306.0
+1307,ROKU UW Equity,Roku Inc,1307.0,1307.0
+1308,AEE UN Equity,Ameren Corp,1308.0,1308.0
+1309,GLRE UW Equity,Greenlight Capital Re Ltd,1309.0,1309.0
+1310,TYL UN Equity,Tyler Technologies Inc,1310.0,1310.0
+1311,HGV UN Equity,Hilton Grand Vacations Inc,1311.0,1311.0
+1312,AI UN Equity,C3.ai Inc,1312.0,1312.0
+1313,ABUS UW Equity,Arbutus Biopharma Corp,1313.0,1313.0
+1314,SKYT UR Equity,SkyWater Technology Inc,1314.0,1314.0
+1315,OEC UN Equity,Orion SA,1315.0,1315.0
+1316,PSTL UN Equity,Postal Realty Trust Inc,1316.0,1316.0
+1317,AMP UN Equity,Ameriprise Financial Inc,1317.0,1317.0
+1318,AVO UW Equity,Mission Produce Inc,1318.0,1318.0
+1319,STAG UN Equity,STAG Industrial Inc,1319.0,1319.0
+1320,MGNX UW Equity,MacroGenics Inc,1320.0,1320.0
+1321,KMI UN Equity,Kinder Morgan Inc,1321.0,1321.0
+1322,AMED UW Equity,Amedisys Inc,1322.0,1322.0
+1323,DINO UN Equity,HF Sinclair Corp,1323.0,1323.0
+1324,EPRT UN Equity,Essential Properties Realty Tr,1324.0,1324.0
+1325,APLS UW Equity,Apellis Pharmaceuticals Inc,1325.0,1325.0
+1326,EPR UN Equity,EPR Properties,1326.0,1326.0
+1327,WEAV UN Equity,Weave Communications Inc,1327.0,1327.0
+1328,CGNX UW Equity,Cognex Corp,1328.0,1328.0
+1329,BEAM UW Equity,Beam Therapeutics Inc,1329.0,1329.0
+1330,ASPN UN Equity,Aspen Aerogels Inc,1330.0,1330.0
+1331,CVLY UQ Equity,Codorus Valley Bancorp Inc,1331.0,1331.0
+1332,BHRB UR Equity,Burke & Herbert Financial Serv,1332.0,1332.0
+1333,COF UN Equity,Capital One Financial Corp,1333.0,1333.0
+1334,USNA UN Equity,USANA Health Sciences Inc,1334.0,1334.0
+1335,PIII UR Equity,P3 Health Partners Inc,1335.0,1335.0
+1336,TKR UN Equity,Timken Co/The,1336.0,1336.0
+1337,FUL UN Equity,HB Fuller Co,1337.0,1337.0
+1338,FBIN UN Equity,Fortune Brands Innovations Inc,1338.0,1338.0
+1339,VSCO UN Equity,Victoria's Secret & Co,1339.0,1339.0
+1340,CVLT UW Equity,CommVault Systems Inc,1340.0,1340.0
+1341,AROW UW Equity,Arrow Financial Corp,1341.0,1341.0
+1342,NBHC UN Equity,National Bank Holdings Corp,1342.0,1342.0
+1343,DYN UW Equity,Dyne Therapeutics Inc,1343.0,1343.0
+1344,PECO UW Equity,Phillips Edison & Co Inc,1344.0,1344.0
+1345,ETRN UN Equity,Equitrans Midstream Corp,1345.0,1345.0
+1346,MTG UN Equity,MGIC Investment Corp,1346.0,1346.0
+1347,MRK UN Equity,Merck & Co Inc,1347.0,1347.0
+1348,LAW UN Equity,CS Disco Inc,1348.0,1348.0
+1349,KNSA UW Equity,Kiniksa Pharmaceuticals Ltd,1349.0,1349.0
+1350,EPAC UN Equity,Enerpac Tool Group Corp,1350.0,1350.0
+1351,ESSA UW Equity,ESSA Bancorp Inc,1351.0,1351.0
+1352,URBN UW Equity,Urban Outfitters Inc,1352.0,1352.0
+1353,TXN UW Equity,Texas Instruments Inc,1353.0,1353.0
+1354,CMCL UA Equity,Caledonia Mining Corp PLC,1354.0,1354.0
+1355,MATX UN Equity,Matson Inc,1355.0,1355.0
+1356,PAYC UN Equity,Paycom Software Inc,1356.0,1356.0
+1357,VCEL UQ Equity,Vericel Corp,1357.0,1357.0
+1358,TWI UN Equity,Titan International Inc,1358.0,1358.0
+1359,RELY UW Equity,Remitly Global Inc,1359.0,1359.0
+1360,KIM UN Equity,Kimco Realty Corp,1360.0,1360.0
+1361,BEN UN Equity,Franklin Resources Inc,1361.0,1361.0
+1362,OTTR UW Equity,Otter Tail Corp,1362.0,1362.0
+1363,FEAM UW Equity,5E Advanced Materials Inc,1363.0,1363.0
+1364,SEE UN Equity,Sealed Air Corp,1364.0,1364.0
+1365,DNA UN Equity,Ginkgo Bioworks Holdings Inc,1365.0,1365.0
+1366,ASAN UN Equity,Asana Inc,1366.0,1366.0
+1367,JPM UN Equity,JPMorgan Chase & Co,1367.0,1367.0
+1368,DMRC UW Equity,Digimarc Corp,1368.0,1368.0
+1369,ENVA UN Equity,Enova International Inc,1369.0,1369.0
+1370,FHB UW Equity,First Hawaiian Inc,1370.0,1370.0
+1371,SIGI UW Equity,Selective Insurance Group Inc,1371.0,1371.0
+1372,PLAY UW Equity,Dave & Buster's Entertainment,1372.0,1372.0
+1373,MEG UN Equity,Montrose Environmental Group I,1373.0,1373.0
+1374,K UN Equity,Kellanova,1374.0,1374.0
+1375,LYB UN Equity,LyondellBasell Industries NV,1375.0,1375.0
+1376,ABT UN Equity,Abbott Laboratories,1376.0,1376.0
+1377,OHI UN Equity,Omega Healthcare Investors Inc,1377.0,1377.0
+1378,TMO UN Equity,Thermo Fisher Scientific Inc,1378.0,1378.0
+1379,VZ UN Equity,Verizon Communications Inc,1379.0,1379.0
+1380,PIPR UN Equity,Piper Sandler Cos,1380.0,1380.0
+1381,CWH UN Equity,Camping World Holdings Inc,1381.0,1381.0
+1382,ATOM UR Equity,Atomera Inc,1382.0,1382.0
+1383,IMXI UR Equity,International Money Express In,1383.0,1383.0
+1384,BLUE UW Equity,Bluebird Bio Inc,1384.0,1384.0
+1385,GILD UW Equity,Gilead Sciences Inc,1385.0,1385.0
+1386,CINF UW Equity,Cincinnati Financial Corp,1386.0,1386.0
+1387,HTBI UW Equity,HomeTrust Bancshares Inc,1387.0,1387.0
+1388,NEO UR Equity,NeoGenomics Inc,1388.0,1388.0
+1389,RPRX UW Equity,Royalty Pharma PLC,1389.0,1389.0
+1390,CTGO UA Equity,Contango ORE Inc,1390.0,1390.0
+1391,NODK UR Equity,NI Holdings Inc,1391.0,1391.0
+1392,CPF UN Equity,Central Pacific Financial Corp,1392.0,1392.0
+1393,CFFI UW Equity,C&F Financial Corp,1393.0,1393.0
+1394,DNLI UW Equity,Denali Therapeutics Inc,1394.0,1394.0
+1395,OMER UQ Equity,Omeros Corp,1395.0,1395.0
+1396,NYCB UN Equity,New York Community Bancorp Inc,1396.0,1396.0
+1397,CCK UN Equity,Crown Holdings Inc,1397.0,1397.0
+1398,TERN UW Equity,Terns Pharmaceuticals Inc,1398.0,1398.0
+1399,GLW UN Equity,Corning Inc,1399.0,1399.0
+1400,IIPR UN Equity,Innovative Industrial Properti,1400.0,1400.0
+1401,HFFG UR Equity,HF Foods Group Inc,1401.0,1401.0
+1402,PI UW Equity,Impinj Inc,1402.0,1402.0
+1403,APD UN Equity,Air Products and Chemicals Inc,1403.0,1403.0
+1404,BKR UW Equity,Baker Hughes Co,1404.0,1404.0
+1405,MPC UN Equity,Marathon Petroleum Corp,1405.0,1405.0
+1406,HUMA UW Equity,Humacyte Inc,1406.0,1406.0
+1407,STEL UN Equity,Stellar Bancorp Inc,1407.0,1407.0
+1408,LH UN Equity,Laboratory Corp of America Hol,1408.0,1408.0
+1409,MORF UQ Equity,Morphic Holding Inc,1409.0,1409.0
+1410,KNF UN Equity,Knife River Corp,1410.0,1410.0
+1411,NAPA UN Equity,Duckhorn Portfolio Inc/The,1411.0,1411.0
+1412,RBB UW Equity,RBB Bancorp,1412.0,1412.0
+1413,LIND UR Equity,Lindblad Expeditions Holdings,1413.0,1413.0
+1414,NBTB UW Equity,NBT Bancorp Inc,1414.0,1414.0
+1415,BHB UA Equity,Bar Harbor Bankshares,1415.0,1415.0
+1416,AVPT UW Equity,AvePoint Inc,1416.0,1416.0
+1417,RBA UN Equity,RB Global Inc,1417.0,1417.0
+1418,FBMS UQ Equity,First Bancshares Inc/The,1418.0,1418.0
+1419,PNRG UR Equity,PrimeEnergy Resources Corp,1419.0,1419.0
+1420,THR UN Equity,Thermon Group Holdings Inc,1420.0,1420.0
+1421,LAZR UW Equity,Luminar Technologies Inc,1421.0,1421.0
+1422,BWB UR Equity,Bridgewater Bancshares Inc,1422.0,1422.0
+1423,ALLE UN Equity,Allegion plc,1423.0,1423.0
+1424,IIIN UN Equity,Insteel Industries Inc,1424.0,1424.0
+1425,TDY UN Equity,Teledyne Technologies Inc,1425.0,1425.0
+1426,ASC UN Equity,Ardmore Shipping Corp,1426.0,1426.0
+1427,EXP UN Equity,Eagle Materials Inc,1427.0,1427.0
+1428,RDNT UQ Equity,RadNet Inc,1428.0,1428.0
+1429,MGY UN Equity,Magnolia Oil & Gas Corp,1429.0,1429.0
+1430,JNJ UN Equity,Johnson & Johnson,1430.0,1430.0
+1431,SWTX UW Equity,SpringWorks Therapeutics Inc,1431.0,1431.0
+1432,UPWK UW Equity,Upwork Inc,1432.0,1432.0
+1433,DBRG UN Equity,DigitalBridge Group Inc,1433.0,1433.0
+1434,GIS UN Equity,General Mills Inc,1434.0,1434.0
+1435,MTB UN Equity,M&T Bank Corp,1435.0,1435.0
+1436,WTBA UW Equity,West BanCorp Inc,1436.0,1436.0
+1437,JOUT UW Equity,Johnson Outdoors Inc,1437.0,1437.0
+1438,INSM UW Equity,Insmed Inc,1438.0,1438.0
+1439,CVBF UW Equity,CVB Financial Corp,1439.0,1439.0
+1440,EHC UN Equity,Encompass Health Corp,1440.0,1440.0
+1441,MVST UW Equity,Microvast Holdings Inc,1441.0,1441.0
+1442,RGLD UW Equity,Royal Gold Inc,1442.0,1442.0
+1443,FISI UW Equity,Financial Institutions Inc,1443.0,1443.0
+1444,UHT UN Equity,Universal Health Realty Income,1444.0,1444.0
+1445,BJ UN Equity,BJ's Wholesale Club Holdings I,1445.0,1445.0
+1446,KW UN Equity,Kennedy-Wilson Holdings Inc,1446.0,1446.0
+1447,PODD UW Equity,Insulet Corp,1447.0,1447.0
+1448,BL UW Equity,BlackLine Inc,1448.0,1448.0
+1449,STGW UW Equity,Stagwell Inc,1449.0,1449.0
+1450,GERN UW Equity,Geron Corp,1450.0,1450.0
+1451,RF UN Equity,Regions Financial Corp,1451.0,1451.0
+1452,INCY UW Equity,Incyte Corp,1452.0,1452.0
+1453,MPLN UN Equity,Multiplan Corp,1453.0,1453.0
+1454,FFIN UW Equity,First Financial Bankshares Inc,1454.0,1454.0
+1455,ORI UN Equity,Old Republic International Cor,1455.0,1455.0
+1456,EVH UN Equity,Evolent Health Inc,1456.0,1456.0
+1457,MCHP UW Equity,Microchip Technology Inc,1457.0,1457.0
+1458,OLN UN Equity,Olin Corp,1458.0,1458.0
+1459,JMSB UR Equity,John Marshall Bancorp Inc,1459.0,1459.0
+1460,SFL UN Equity,SFL Corp Ltd,1460.0,1460.0
+1461,AGO UN Equity,Assured Guaranty Ltd,1461.0,1461.0
+1462,SLM UW Equity,SLM Corp,1462.0,1462.0
+1463,PEG UN Equity,Public Service Enterprise Grou,1463.0,1463.0
+1464,MLI UN Equity,Mueller Industries Inc,1464.0,1464.0
+1465,ITT UN Equity,ITT Inc,1465.0,1465.0
+1466,HUBG UW Equity,Hub Group Inc,1466.0,1466.0
+1467,LBPH UQ Equity,Longboard Pharmaceuticals Inc,1467.0,1467.0
+1468,ADUS UW Equity,Addus HomeCare Corp,1468.0,1468.0
+1469,RGCO UQ Equity,RGC Resources Inc,1469.0,1469.0
+1470,TRIP UW Equity,TripAdvisor Inc,1470.0,1470.0
+1471,DLTR UW Equity,Dollar Tree Inc,1471.0,1471.0
+1472,LEG UN Equity,Leggett & Platt Inc,1472.0,1472.0
+1473,ZEUS UW Equity,Olympic Steel Inc,1473.0,1473.0
+1474,SHLS UQ Equity,Shoals Technologies Group Inc,1474.0,1474.0
+1475,AZTA UW Equity,Azenta Inc,1475.0,1475.0
+1476,SHBI UW Equity,Shore Bancshares Inc,1476.0,1476.0
+1477,FBP UN Equity,First BanCorp/Puerto Rico,1477.0,1477.0
+1478,XPEL UR Equity,XPEL Inc,1478.0,1478.0
+1479,VRSK UW Equity,Verisk Analytics Inc,1479.0,1479.0
+1480,TSBK UQ Equity,Timberland Bancorp Inc/WA,1480.0,1480.0
+1481,IBEX UQ Equity,IBEX Holdings Ltd,1481.0,1481.0
+1482,NVEE UW Equity,NV5 Global Inc,1482.0,1482.0
+1483,GMED UN Equity,Globus Medical Inc,1483.0,1483.0
+1484,HA UW Equity,Hawaiian Holdings Inc,1484.0,1484.0
+1485,BURL UN Equity,Burlington Stores Inc,1485.0,1485.0
+1486,IDA UN Equity,IDACORP Inc,1486.0,1486.0
+1487,BOC UN Equity,Boston Omaha Corp,1487.0,1487.0
+1488,ZBRA UW Equity,Zebra Technologies Corp,1488.0,1488.0
+1489,STNE UW Equity,StoneCo Ltd,1489.0,1489.0
+1490,LBRDA UW Equity,Liberty Broadband Corp,1490.0,1490.0
+1491,SKY UN Equity,Skyline Champion Corp,1491.0,1491.0
+1492,PLUS UW Equity,ePlus Inc,1492.0,1492.0
+1493,BCRX UW Equity,BioCryst Pharmaceuticals Inc,1493.0,1493.0
+1494,CMPO UQ Equity,CompoSecure Inc,1494.0,1494.0
+1495,CBT UN Equity,Cabot Corp,1495.0,1495.0
+1496,SEB UA Equity,Seaboard Corp,1496.0,1496.0
+1497,DORM UW Equity,Dorman Products Inc,1497.0,1497.0
+1498,CWST UW Equity,Casella Waste Systems Inc,1498.0,1498.0
+1499,REFI UQ Equity,Chicago Atlantic Real Estate F,1499.0,1499.0
+1500,ERII UW Equity,Energy Recovery Inc,1500.0,1500.0
+1501,BR UN Equity,Broadridge Financial Solutions,1501.0,1501.0
+1502,OMF UN Equity,OneMain Holdings Inc,1502.0,1502.0
+1503,GORV UR Equity,Lazydays Holdings Inc,1503.0,1503.0
+1504,NOVT UW Equity,Novanta Inc,1504.0,1504.0
+1505,CHD UN Equity,Church & Dwight Co Inc,1505.0,1505.0
+1506,EQT UN Equity,EQT Corp,1506.0,1506.0
+1507,IAUX UA Equity,i-80 Gold Corp,1507.0,1507.0
+1508,EL UN Equity,Estee Lauder Cos Inc/The,1508.0,1508.0
+1509,HBCP UW Equity,Home Bancorp Inc,1509.0,1509.0
+1510,MASS UQ Equity,908 Devices Inc,1510.0,1510.0
+1511,AVAV UW Equity,AeroVironment Inc,1511.0,1511.0
+1512,DVAX UW Equity,Dynavax Technologies Corp,1512.0,1512.0
+1513,FBK UN Equity,FB Financial Corp,1513.0,1513.0
+1514,CRBU UW Equity,Caribou Biosciences Inc,1514.0,1514.0
+1515,FBIZ UW Equity,First Business Financial Servi,1515.0,1515.0
+1516,POWI UW Equity,Power Integrations Inc,1516.0,1516.0
+1517,OKE UN Equity,ONEOK Inc,1517.0,1517.0
+1518,VIRT UW Equity,Virtu Financial Inc,1518.0,1518.0
+1519,RS UN Equity,Reliance Steel & Aluminum Co,1519.0,1519.0
+1520,DE UN Equity,Deere & Co,1520.0,1520.0
+1521,EYEN UR Equity,Eyenovia Inc,1521.0,1521.0
+1522,JKHY UW Equity,Jack Henry & Associates Inc,1522.0,1522.0
+1523,MXCT UW Equity,MaxCyte Inc,1523.0,1523.0
+1524,CHX UW Equity,ChampionX Corp,1524.0,1524.0
+1525,IMAX UN Equity,IMAX Corp,1525.0,1525.0
+1526,MOFG UW Equity,MidWestOne Financial Group Inc,1526.0,1526.0
+1527,EVA UN Equity,Enviva Inc,1527.0,1527.0
+1528,ALB UN Equity,Albemarle Corp,1528.0,1528.0
+1529,IEX UN Equity,IDEX Corp,1529.0,1529.0
+1530,TGT UN Equity,Target Corp,1530.0,1530.0
+1531,WTW UW Equity,Willis Towers Watson PLC,1531.0,1531.0
+1532,RCUS UN Equity,Arcus Biosciences Inc,1532.0,1532.0
+1533,L UN Equity,Loews Corp,1533.0,1533.0
+1534,ADC UN Equity,Agree Realty Corp,1534.0,1534.0
+1535,BPMC UW Equity,Blueprint Medicines Corp,1535.0,1535.0
+1536,QS UN Equity,QuantumScape Corp,1536.0,1536.0
+1537,SLRN UW Equity,ACELYRIN Inc,1537.0,1537.0
+1538,OPCH UW Equity,Option Care Health Inc,1538.0,1538.0
+1539,CSTR UW Equity,Capstar Financial Holdings Inc,1539.0,1539.0
+1540,CFB UW Equity,CrossFirst Bankshares Inc,1540.0,1540.0
+1541,DVN UN Equity,Devon Energy Corp,1541.0,1541.0
+1542,WWD UW Equity,Woodward Inc,1542.0,1542.0
+1543,ENVX UW Equity,Enovix Corp,1543.0,1543.0
+1544,PFC UW Equity,Premier Financial Corp,1544.0,1544.0
+1545,VICI UN Equity,VICI Properties Inc,1545.0,1545.0
+1546,NIC UN Equity,Nicolet Bankshares Inc,1546.0,1546.0
+1547,CMPX UR Equity,Compass Therapeutics Inc,1547.0,1547.0
+1548,INDI UR Equity,indie Semiconductor Inc,1548.0,1548.0
+1549,FELE UW Equity,Franklin Electric Co Inc,1549.0,1549.0
+1550,SSB UN Equity,SouthState Corp,1550.0,1550.0
+1551,SMTI UR Equity,Sanara Medtech Inc,1551.0,1551.0
+1552,TXG UW Equity,10X Genomics Inc,1552.0,1552.0
+1553,STR UN Equity,Sitio Royalties Corp,1553.0,1553.0
+1554,MET UN Equity,MetLife Inc,1554.0,1554.0
+1555,FLWS UW Equity,1-800-Flowers.com Inc,1555.0,1555.0
+1556,CRAI UW Equity,CRA International Inc,1556.0,1556.0
+1557,LAUR UW Equity,Laureate Education Inc,1557.0,1557.0
+1558,MAA UN Equity,Mid-America Apartment Communit,1558.0,1558.0
+1559,CENX UW Equity,Century Aluminum Co,1559.0,1559.0
+1560,LSCC UW Equity,Lattice Semiconductor Corp,1560.0,1560.0
+1561,PLRX UW Equity,Pliant Therapeutics Inc,1561.0,1561.0
+1562,ICLR UW Equity,ICON PLC,1562.0,1562.0
+1563,EOG UN Equity,EOG Resources Inc,1563.0,1563.0
+1564,NVTS UQ Equity,Navitas Semiconductor Corp,1564.0,1564.0
+1565,MOH UN Equity,Molina Healthcare Inc,1565.0,1565.0
+1566,VVX UN Equity,V2X Inc,1566.0,1566.0
+1567,LMNR UW Equity,Limoneira Co,1567.0,1567.0
+1568,MKC UN Equity,McCormick & Co Inc/MD,1568.0,1568.0
+1569,KBH UN Equity,KB Home,1569.0,1569.0
+1570,WOOF UW Equity,Petco Health & Wellness Co Inc,1570.0,1570.0
+1571,CELC UR Equity,Celcuity Inc,1571.0,1571.0
+1572,BSX UN Equity,Boston Scientific Corp,1572.0,1572.0
+1573,BC UN Equity,Brunswick Corp/DE,1573.0,1573.0
+1574,AMKR UW Equity,Amkor Technology Inc,1574.0,1574.0
+1575,QCRH UQ Equity,QCR Holdings Inc,1575.0,1575.0
+1576,WAB UN Equity,Westinghouse Air Brake Technol,1576.0,1576.0
+1577,WSFS UW Equity,WSFS Financial Corp,1577.0,1577.0
+1578,BY UN Equity,Byline Bancorp Inc,1578.0,1578.0
+1579,MYRG UW Equity,MYR Group Inc,1579.0,1579.0
+1580,HAYN UW Equity,Haynes International Inc,1580.0,1580.0
+1581,TECH UW Equity,Bio-Techne Corp,1581.0,1581.0
+1582,SSBK UW Equity,Southern States Bancshares Inc,1582.0,1582.0
+1583,SDGR UW Equity,Schrodinger Inc/United States,1583.0,1583.0
+1584,VLY UW Equity,Valley National Bancorp,1584.0,1584.0
+1585,BFAM UN Equity,Bright Horizons Family Solutio,1585.0,1585.0
+1586,HURN UW Equity,Huron Consulting Group Inc,1586.0,1586.0
+1587,AWR UN Equity,American States Water Co,1587.0,1587.0
+1588,FTDR UW Equity,Frontdoor Inc,1588.0,1588.0
+1589,ESNT UN Equity,Essent Group Ltd,1589.0,1589.0
+1590,CVLG UW Equity,Covenant Logistics Group Inc,1590.0,1590.0
+1591,LNW UW Equity,Light & Wonder Inc,1591.0,1591.0
+1592,CF UN Equity,CF Industries Holdings Inc,1592.0,1592.0
+1593,MTRN UN Equity,Materion Corp,1593.0,1593.0
+1594,FNLC UW Equity,First Bancorp Inc/The,1594.0,1594.0
+1595,DCOM UW Equity,Dime Community Bancshares Inc,1595.0,1595.0
+1596,HCKT UW Equity,Hackett Group Inc/The,1596.0,1596.0
+1597,FRT UN Equity,Federal Realty Investment Trus,1597.0,1597.0
+1598,PRTA UW Equity,Prothena Corp PLC,1598.0,1598.0
+1599,RVMD UW Equity,REVOLUTION Medicines Inc,1599.0,1599.0
+1600,TPR UN Equity,Tapestry Inc,1600.0,1600.0
+1601,AME UN Equity,AMETEK Inc,1601.0,1601.0
+1602,ELVN UW Equity,Enliven Therapeutics Inc,1602.0,1602.0
+1603,IBM UN Equity,International Business Machine,1603.0,1603.0
+1604,OPK UW Equity,OPKO Health Inc,1604.0,1604.0
+1605,SVRA UW Equity,Savara Inc,1605.0,1605.0
+1606,CARG UW Equity,Cargurus Inc,1606.0,1606.0
+1607,JOBY UN Equity,Joby Aviation Inc,1607.0,1607.0
+1608,PRTH UR Equity,Priority Technology Holdings I,1608.0,1608.0
+1609,WIRE UW Equity,Encore Wire Corp,1609.0,1609.0
+1610,INVH UN Equity,Invitation Homes Inc,1610.0,1610.0
+1611,DFS UN Equity,Discover Financial Services,1611.0,1611.0
+1612,ATEN UN Equity,A10 Networks Inc,1612.0,1612.0
+1613,CASH UW Equity,Pathward Financial Inc,1613.0,1613.0
+1614,NRDS UQ Equity,NerdWallet Inc,1614.0,1614.0
+1615,PSTX UW Equity,Poseida Therapeutics Inc,1615.0,1615.0
+1616,FMBH UQ Equity,First Mid Bancshares Inc,1616.0,1616.0
+1617,WPC UN Equity,WP Carey Inc,1617.0,1617.0
+1618,CALM UW Equity,Cal-Maine Foods Inc,1618.0,1618.0
+1619,FMNB UR Equity,Farmers National Banc Corp,1619.0,1619.0
+1620,FBNC UW Equity,First Bancorp/Southern Pines N,1620.0,1620.0
+1621,AADI UR Equity,Aadi Bioscience Inc,1621.0,1621.0
+1622,HTLF UW Equity,Heartland Financial USA Inc,1622.0,1622.0
+1623,HUBS UN Equity,HubSpot Inc,1623.0,1623.0
+1624,EPAM UN Equity,EPAM Systems Inc,1624.0,1624.0
+1625,PAYS UR Equity,Paysign Inc,1625.0,1625.0
+1626,FRME UW Equity,First Merchants Corp,1626.0,1626.0
+1627,FITB UW Equity,Fifth Third Bancorp,1627.0,1627.0
+1628,AMBC UN Equity,Ambac Financial Group Inc,1628.0,1628.0
+1629,HSTM UW Equity,HealthStream Inc,1629.0,1629.0
+1630,ICE UN Equity,Intercontinental Exchange Inc,1630.0,1630.0
+1631,KEYS UN Equity,Keysight Technologies Inc,1631.0,1631.0
+1632,ROP UW Equity,Roper Technologies Inc,1632.0,1632.0
+1633,ACMR UQ Equity,ACM Research Inc,1633.0,1633.0
+1634,FR UN Equity,First Industrial Realty Trust,1634.0,1634.0
+1635,WW UW Equity,WW International Inc,1635.0,1635.0
+1636,VRNS UW Equity,Varonis Systems Inc,1636.0,1636.0
+1637,NNN UN Equity,NNN REIT Inc,1637.0,1637.0
+1638,LBRT UN Equity,Liberty Energy Inc,1638.0,1638.0
+1639,ATEC UW Equity,Alphatec Holdings Inc,1639.0,1639.0
+1640,HON UW Equity,Honeywell International Inc,1640.0,1640.0
+1641,VERA UQ Equity,Vera Therapeutics Inc,1641.0,1641.0
+1642,STEP UW Equity,StepStone Group Inc,1642.0,1642.0
+1643,APG UN Equity,API Group Corp,1643.0,1643.0
+1644,SLVM UN Equity,Sylvamo Corp,1644.0,1644.0
+1645,SBSI UW Equity,Southside Bancshares Inc,1645.0,1645.0
+1646,XYL UN Equity,Xylem Inc/NY,1646.0,1646.0
+1647,PNR UN Equity,Pentair PLC,1647.0,1647.0
+1648,FCPT UN Equity,Four Corners Property Trust In,1648.0,1648.0
+1649,RDVT UR Equity,Red Violet Inc,1649.0,1649.0
+1650,ALLY UN Equity,Ally Financial Inc,1650.0,1650.0
+1651,WELL UN Equity,Welltower Inc,1651.0,1651.0
+1652,AMGN UW Equity,Amgen Inc,1652.0,1652.0
+1653,LTC UN Equity,LTC Properties Inc,1653.0,1653.0
+1654,VTYX UW Equity,Ventyx Biosciences Inc,1654.0,1654.0
+1655,ARDX UQ Equity,Ardelyx Inc,1655.0,1655.0
+1656,OXM UN Equity,Oxford Industries Inc,1656.0,1656.0
+1657,MTN UN Equity,Vail Resorts Inc,1657.0,1657.0
+1658,HVT UN Equity,Haverty Furniture Cos Inc,1658.0,1658.0
+1659,USFD UN Equity,US Foods Holding Corp,1659.0,1659.0
+1660,AVXL UW Equity,Anavex Life Sciences Corp,1660.0,1660.0
+1661,CW UN Equity,Curtiss-Wright Corp,1661.0,1661.0
+1662,SPWR UW Equity,SunPower Corp,1662.0,1662.0
+1663,PLMR UW Equity,Palomar Holdings Inc,1663.0,1663.0
+1664,NPO UN Equity,Enpro Inc,1664.0,1664.0
+1665,KREF UN Equity,KKR Real Estate Finance Trust,1665.0,1665.0
+1666,SDRL UN Equity,Seadrill Ltd,1666.0,1666.0
+1667,MCK UN Equity,McKesson Corp,1667.0,1667.0
+1668,KTOS UW Equity,Kratos Defense & Security Solu,1668.0,1668.0
+1669,MRVL UW Equity,Marvell Technology Inc,1669.0,1669.0
+1670,HQY UW Equity,HealthEquity Inc,1670.0,1670.0
+1671,NEE UN Equity,NextEra Energy Inc,1671.0,1671.0
+1672,ETD UN Equity,Ethan Allen Interiors Inc,1672.0,1672.0
+1673,NWFL UQ Equity,Norwood Financial Corp,1673.0,1673.0
+1674,HOOD UW Equity,Robinhood Markets Inc,1674.0,1674.0
+1675,COP UN Equity,ConocoPhillips,1675.0,1675.0
+1676,TK UN Equity,Teekay Corp,1676.0,1676.0
+1677,NXST UW Equity,Nexstar Media Group Inc,1677.0,1677.0
+1678,CBSH UW Equity,Commerce Bancshares Inc/MO,1678.0,1678.0
+1679,GPC UN Equity,Genuine Parts Co,1679.0,1679.0
+1680,EG UN Equity,Everest Group Ltd,1680.0,1680.0
+1681,MMSI UW Equity,Merit Medical Systems Inc,1681.0,1681.0
+1682,KDP UW Equity,Keurig Dr Pepper Inc,1682.0,1682.0
+1683,HIBB UW Equity,Hibbett Inc,1683.0,1683.0
+1684,SSTK UN Equity,Shutterstock Inc,1684.0,1684.0
+1685,RXT UW Equity,Rackspace Technology Inc,1685.0,1685.0
+1686,GNTY UN Equity,Guaranty Bancshares Inc/TX,1686.0,1686.0
+1687,MBCN UR Equity,Middlefield Banc Corp,1687.0,1687.0
+1688,FANG UW Equity,Diamondback Energy Inc,1688.0,1688.0
+1689,KRO UN Equity,Kronos Worldwide Inc,1689.0,1689.0
+1690,ALGN UW Equity,Align Technology Inc,1690.0,1690.0
+1691,WFRD UW Equity,Weatherford International PLC,1691.0,1691.0
+1692,SCI UN Equity,Service Corp International/US,1692.0,1692.0
+1693,AOS UN Equity,A O Smith Corp,1693.0,1693.0
+1694,TMP UA Equity,Tompkins Financial Corp,1694.0,1694.0
+1695,SOUN UQ Equity,SoundHound AI Inc,1695.0,1695.0
+1696,CASY UW Equity,Casey's General Stores Inc,1696.0,1696.0
+1697,MSA UN Equity,MSA Safety Inc,1697.0,1697.0
+1698,AFG UN Equity,American Financial Group Inc/O,1698.0,1698.0
+1699,OSW UR Equity,OneSpaWorld Holdings Ltd,1699.0,1699.0
+1700,BALL UN Equity,Ball Corp,1700.0,1700.0
+1701,BGXX UR Equity,Bright Green Corp,1701.0,1701.0
+1702,COCO UW Equity,Vita Coco Co Inc/The,1702.0,1702.0
+1703,MURA UQ Equity,Mural Oncology PLC,1703.0,1703.0
+1704,ZVRA UW Equity,Zevra Therapeutics Inc,1704.0,1704.0
+1705,HTZ UW Equity,Hertz Global Holdings Inc,1705.0,1705.0
+1706,KFRC UW Equity,Kforce Inc,1706.0,1706.0
+1707,GPOR UN Equity,Gulfport Energy Corp,1707.0,1707.0
+1708,EQBK UN Equity,Equity Bancshares Inc,1708.0,1708.0
+1709,EBAY UW Equity,eBay Inc,1709.0,1709.0
+1710,NOC UN Equity,Northrop Grumman Corp,1710.0,1710.0
+1711,GLPI UW Equity,Gaming and Leisure Properties,1711.0,1711.0
+1712,GABC UW Equity,German American Bancorp Inc,1712.0,1712.0
+1713,CATC UR Equity,Cambridge Bancorp,1713.0,1713.0
+1714,ACRE UN Equity,Ares Commercial Real Estate Co,1714.0,1714.0
+1715,PACK UN Equity,Ranpak Holdings Corp,1715.0,1715.0
+1716,FHTX UQ Equity,Foghorn Therapeutics Inc,1716.0,1716.0
+1717,CAT UN Equity,Caterpillar Inc,1717.0,1717.0
+1718,ZM UW Equity,Zoom Video Communications Inc,1718.0,1718.0
+1719,MGEE UW Equity,MGE Energy Inc,1719.0,1719.0
+1720,PRI UN Equity,Primerica Inc,1720.0,1720.0
+1721,SNV UN Equity,Synovus Financial Corp,1721.0,1721.0
+1722,PRLD UW Equity,Prelude Therapeutics Inc,1722.0,1722.0
+1723,GLOB UN Equity,Globant SA,1723.0,1723.0
+1724,MUSA UN Equity,Murphy USA Inc,1724.0,1724.0
+1725,TSBX UQ Equity,Turnstone Biologics Corp,1725.0,1725.0
+1726,CMRE UN Equity,Costamare Inc,1726.0,1726.0
+1727,IRDM UW Equity,Iridium Communications Inc,1727.0,1727.0
+1728,WM UN Equity,Waste Management Inc,1728.0,1728.0
+1729,RC UN Equity,Ready Capital Corp,1729.0,1729.0
+1730,BCPC UW Equity,Balchem Corp,1730.0,1730.0
+1731,ULH UW Equity,Universal Logistics Holdings I,1731.0,1731.0
+1732,JBI UN Equity,Janus International Group Inc,1732.0,1732.0
+1733,ERAS UW Equity,Erasca Inc,1733.0,1733.0
+1734,EXPD UN Equity,Expeditors International of Wa,1734.0,1734.0
+1735,CPB UN Equity,Campbell Soup Co,1735.0,1735.0
+1736,WD UN Equity,Walker & Dunlop Inc,1736.0,1736.0
+1737,LOB UN Equity,Live Oak Bancshares Inc,1737.0,1737.0
+1738,RMR UR Equity,RMR Group Inc/The,1738.0,1738.0
+1739,PPC UW Equity,Pilgrim's Pride Corp,1739.0,1739.0
+1740,KOD UQ Equity,Kodiak Sciences Inc,1740.0,1740.0
+1741,ACI UN Equity,Albertsons Cos Inc,1741.0,1741.0
+1742,ORA UN Equity,Ormat Technologies Inc,1742.0,1742.0
+1743,EXPO UW Equity,Exponent Inc,1743.0,1743.0
+1744,QCOM UW Equity,QUALCOMM Inc,1744.0,1744.0
+1745,SST UN Equity,System1 Inc,1745.0,1745.0
+1746,SQ UN Equity,Block Inc,1746.0,1746.0
+1747,FCF UN Equity,First Commonwealth Financial C,1747.0,1747.0
+1748,MDGL UW Equity,Madrigal Pharmaceuticals Inc,1748.0,1748.0
+1749,FNA UN Equity,Paragon 28 Inc,1749.0,1749.0
+1750,SNX UN Equity,TD SYNNEX Corp,1750.0,1750.0
+1751,PEN UN Equity,Penumbra Inc,1751.0,1751.0
+1752,CTBI UW Equity,Community Trust Bancorp Inc,1752.0,1752.0
+1753,NAUT UW Equity,Nautilus Biotechnology Inc,1753.0,1753.0
+1754,CXT UN Equity,Crane NXT Co,1754.0,1754.0
+1755,ALLO UW Equity,Allogene Therapeutics Inc,1755.0,1755.0
+1756,ROAD UW Equity,Construction Partners Inc,1756.0,1756.0
+1757,GD UN Equity,General Dynamics Corp,1757.0,1757.0
+1758,RIVN UW Equity,Rivian Automotive Inc,1758.0,1758.0
+1759,RHI UN Equity,Robert Half Inc,1759.0,1759.0
+1760,AVY UN Equity,Avery Dennison Corp,1760.0,1760.0
+1761,MTH UN Equity,Meritage Homes Corp,1761.0,1761.0
+1762,VMD UR Equity,Viemed Healthcare Inc,1762.0,1762.0
+1763,GKOS UN Equity,Glaukos Corp,1763.0,1763.0
+1764,HCC UN Equity,Warrior Met Coal Inc,1764.0,1764.0
+1765,DRI UN Equity,Darden Restaurants Inc,1765.0,1765.0
+1766,WAT UN Equity,Waters Corp,1766.0,1766.0
+1767,PCTY UW Equity,Paylocity Holding Corp,1767.0,1767.0
+1768,XPO UN Equity,XPO Inc,1768.0,1768.0
+1769,ASTS UW Equity,AST SpaceMobile Inc,1769.0,1769.0
+1770,CCBG UW Equity,Capital City Bank Group Inc,1770.0,1770.0
+1771,MBWM UW Equity,Mercantile Bank Corp,1771.0,1771.0
+1772,RMD UN Equity,ResMed Inc,1772.0,1772.0
+1773,OFG UN Equity,OFG Bancorp,1773.0,1773.0
+1774,BANR UW Equity,Banner Corp,1774.0,1774.0
+1775,ARCH UN Equity,Arch Resources Inc,1775.0,1775.0
+1776,FSS UN Equity,Federal Signal Corp,1776.0,1776.0
+1777,ORRF UR Equity,Orrstown Financial Services In,1777.0,1777.0
+1778,OVID UW Equity,Ovid therapeutics Inc,1778.0,1778.0
+1779,CNXN UW Equity,PC Connection Inc,1779.0,1779.0
+1780,ACHR UN Equity,Archer Aviation Inc,1780.0,1780.0
+1781,CL UN Equity,Colgate-Palmolive Co,1781.0,1781.0
+1782,EFSC UW Equity,Enterprise Financial Services,1782.0,1782.0
+1783,KRYS UW Equity,Krystal Biotech Inc,1783.0,1783.0
+1784,ARCT UQ Equity,Arcturus Therapeutics Holdings,1784.0,1784.0
+1785,COR UN Equity,Cencora Inc,1785.0,1785.0
+1786,CMI UN Equity,Cummins Inc,1786.0,1786.0
+1787,CLH UN Equity,Clean Harbors Inc,1787.0,1787.0
+1788,JAMF UW Equity,Jamf Holding Corp,1788.0,1788.0
+1789,AMCX UW Equity,AMC Networks Inc,1789.0,1789.0
+1790,AMNB UW Equity,American National Bankshares I,1790.0,1790.0
+1791,GNLX UR Equity,Genelux Corp,1791.0,1791.0
+1792,NTB UN Equity,Bank of NT Butterfield & Son L,1792.0,1792.0
+1793,RMNI UQ Equity,Rimini Street Inc,1793.0,1793.0
+1794,PCOR UN Equity,Procore Technologies Inc,1794.0,1794.0
+1795,AROC UN Equity,Archrock Inc,1795.0,1795.0
+1796,CRDO UW Equity,Credo Technology Group Holding,1796.0,1796.0
+1797,CRCT UW Equity,Cricut Inc,1797.0,1797.0
+1798,IOSP UW Equity,Innospec Inc,1798.0,1798.0
+1799,GES UN Equity,Guess? Inc,1799.0,1799.0
+1800,FRSH UW Equity,Freshworks Inc,1800.0,1800.0
+1801,AVB UN Equity,AvalonBay Communities Inc,1801.0,1801.0
+1802,EME UN Equity,EMCOR Group Inc,1802.0,1802.0
+1803,OSBC UW Equity,Old Second Bancorp Inc,1803.0,1803.0
+1804,IRM UN Equity,Iron Mountain Inc,1804.0,1804.0
+1805,PROK UR Equity,ProKidney Corp,1805.0,1805.0
+1806,AON UN Equity,Aon PLC,1806.0,1806.0
+1807,MDXG UR Equity,MiMedx Group Inc,1807.0,1807.0
+1808,SITM UQ Equity,SiTime Corp,1808.0,1808.0
+1809,DHR UN Equity,Danaher Corp,1809.0,1809.0
+1810,WEC UN Equity,WEC Energy Group Inc,1810.0,1810.0
+1811,ABR UN Equity,Arbor Realty Trust Inc,1811.0,1811.0
+1812,FCX UN Equity,Freeport-McMoRan Inc,1812.0,1812.0
+1813,ADI UW Equity,Analog Devices Inc,1813.0,1813.0
+1814,COGT UW Equity,Cogent Biosciences Inc,1814.0,1814.0
+1815,CBZ UN Equity,CBIZ Inc,1815.0,1815.0
+1816,APH UN Equity,Amphenol Corp,1816.0,1816.0
+1817,CG UW Equity,Carlyle Group Inc/The,1817.0,1817.0
+1818,DASH UW Equity,DoorDash Inc,1818.0,1818.0
+1819,MGTX UW Equity,MeiraGTx Holdings plc,1819.0,1819.0
+1820,RVLV UN Equity,Revolve Group Inc,1820.0,1820.0
+1821,FCN UN Equity,FTI Consulting Inc,1821.0,1821.0
+1822,NSA UN Equity,National Storage Affiliates Tr,1822.0,1822.0
+1823,BFC UR Equity,Bank First Corp,1823.0,1823.0
+1824,AMAT UW Equity,Applied Materials Inc,1824.0,1824.0
+1825,TJX UN Equity,TJX Cos Inc/The,1825.0,1825.0
+1826,JXN UN Equity,Jackson Financial Inc,1826.0,1826.0
+1827,IMRX UQ Equity,Immuneering Corp,1827.0,1827.0
+1828,LWLG UR Equity,Lightwave Logic Inc,1828.0,1828.0
+1829,SCS UN Equity,Steelcase Inc,1829.0,1829.0
+1830,LCTX UA Equity,Lineage Cell Therapeutics Inc,1830.0,1830.0
+1831,IE UA Equity,Ivanhoe Electric Inc / US,1831.0,1831.0
+1832,CCOI UW Equity,Cogent Communications Holdings,1832.0,1832.0
+1833,ADP UW Equity,Automatic Data Processing Inc,1833.0,1833.0
+1834,TTWO UW Equity,Take-Two Interactive Software,1834.0,1834.0
+1835,EVI UA Equity,EVI Industries Inc,1835.0,1835.0
+1836,IVT UN Equity,InvenTrust Properties Corp,1836.0,1836.0
+1837,IQV UN Equity,IQVIA Holdings Inc,1837.0,1837.0
+1838,NMIH UQ Equity,NMI Holdings Inc,1838.0,1838.0
+1839,ALRM UW Equity,Alarm.com Holdings Inc,1839.0,1839.0
+1840,SNDR UN Equity,Schneider National Inc,1840.0,1840.0
+1841,GRNT UN Equity,Granite Ridge Resources Inc,1841.0,1841.0
+1842,HOMB UN Equity,Home BancShares Inc/AR,1842.0,1842.0
+1843,SYBT UW Equity,Stock Yards Bancorp Inc,1843.0,1843.0
+1844,TPG UW Equity,TPG Inc,1844.0,1844.0
+1845,EQIX UW Equity,Equinix Inc,1845.0,1845.0
+1846,SFM UW Equity,Sprouts Farmers Market Inc,1846.0,1846.0
+1847,FIBK UW Equity,First Interstate BancSystem In,1847.0,1847.0
+1848,JJSF UW Equity,J & J Snack Foods Corp,1848.0,1848.0
+1849,AURA UQ Equity,Aura Biosciences Inc,1849.0,1849.0
+1850,SPLK UW Equity,Splunk Inc,1850.0,1850.0
+1851,ACN UN Equity,Accenture PLC,1851.0,1851.0
+1852,ZG UW Equity,Zillow Group Inc,1852.0,1852.0
+1853,SPFI UW Equity,South Plains Financial Inc,1853.0,1853.0
+1854,LPRO UQ Equity,Open Lending Corp,1854.0,1854.0
+1855,CCI UN Equity,Crown Castle Inc,1855.0,1855.0
+1856,MP UN Equity,MP Materials Corp,1856.0,1856.0
+1857,GNTX UW Equity,Gentex Corp,1857.0,1857.0
+1858,PEBO UW Equity,Peoples Bancorp Inc/OH,1858.0,1858.0
+1859,LAMR UW Equity,Lamar Advertising Co,1859.0,1859.0
+1860,LNG UA Equity,Cheniere Energy Inc,1860.0,1860.0
+1861,GTLB UW Equity,Gitlab Inc,1861.0,1861.0
+1862,MOND UQ Equity,Mondee Holdings Inc,1862.0,1862.0
+1863,CSCO UW Equity,Cisco Systems Inc,1863.0,1863.0
+1864,OLP UN Equity,One Liberty Properties Inc,1864.0,1864.0
+1865,ODC UN Equity,Oil-Dri Corp of America,1865.0,1865.0
+1866,CSGP UW Equity,CoStar Group Inc,1866.0,1866.0
+1867,LOVE UQ Equity,Lovesac Co/The,1867.0,1867.0
+1868,PH UN Equity,Parker-Hannifin Corp,1868.0,1868.0
+1869,U UN Equity,Unity Software Inc,1869.0,1869.0
+1870,ROK UN Equity,Rockwell Automation Inc,1870.0,1870.0
+1871,CERT UW Equity,Certara Inc,1871.0,1871.0
+1872,DAWN UW Equity,Day One Biopharmaceuticals Inc,1872.0,1872.0
+1873,HWM UN Equity,Howmet Aerospace Inc,1873.0,1873.0
+1874,MTD UN Equity,Mettler-Toledo International I,1874.0,1874.0
+1875,GRPH UQ Equity,Graphite Bio Inc,1875.0,1875.0
+1876,GL UN Equity,Globe Life Inc,1876.0,1876.0
+1877,IBOC UW Equity,International Bancshares Corp,1877.0,1877.0
+1878,PBFS UR Equity,Pioneer Bancorp Inc/NY,1878.0,1878.0
+1879,SXI UN Equity,Standex International Corp,1879.0,1879.0
+1880,GSBC UW Equity,Great Southern Bancorp Inc,1880.0,1880.0
+1881,RLI UN Equity,RLI Corp,1881.0,1881.0
+1882,HWC UW Equity,Hancock Whitney Corp,1882.0,1882.0
+1883,HIFS UQ Equity,Hingham Institution For Saving,1883.0,1883.0
+1884,ENSG UW Equity,Ensign Group Inc/The,1884.0,1884.0
+1885,DOCN UN Equity,DigitalOcean Holdings Inc,1885.0,1885.0
+1886,WMB UN Equity,Williams Cos Inc/The,1886.0,1886.0
+1887,FDS UN Equity,FactSet Research Systems Inc,1887.0,1887.0
+1888,ACAD UW Equity,ACADIA Pharmaceuticals Inc,1888.0,1888.0
+1889,LYV UN Equity,Live Nation Entertainment Inc,1889.0,1889.0
+1890,BELFB UW Equity,Bel Fuse Inc,1890.0,1890.0
+1891,APPF UQ Equity,Appfolio Inc,1891.0,1891.0
+1892,ORGO UR Equity,Organogenesis Holdings Inc,1892.0,1892.0
+1893,MMC UN Equity,Marsh & McLennan Cos Inc,1893.0,1893.0
+1894,WBS UN Equity,Webster Financial Corp,1894.0,1894.0
+1895,UPST UW Equity,Upstart Holdings Inc,1895.0,1895.0
+1896,OXY UN Equity,Occidental Petroleum Corp,1896.0,1896.0
+1897,BBCP UR Equity,Concrete Pumping Holdings Inc,1897.0,1897.0
+1898,LBC UW Equity,Luther Burbank Corp,1898.0,1898.0
+1899,XOMA UQ Equity,XOMA Corp,1899.0,1899.0
+1900,TCBK UW Equity,TriCo Bancshares,1900.0,1900.0
+1901,LRMR UQ Equity,Larimar Therapeutics Inc,1901.0,1901.0
+1902,PNFP UW Equity,Pinnacle Financial Partners In,1902.0,1902.0
+1903,ITIC UW Equity,Investors Title Co,1903.0,1903.0
+1904,BWMN UQ Equity,Bowman Consulting Group Ltd,1904.0,1904.0
+1905,BBUC UN Equity,Brookfield Business Corp,1905.0,1905.0
+1906,TSCO UW Equity,Tractor Supply Co,1906.0,1906.0
+1907,PGR UN Equity,Progressive Corp/The,1907.0,1907.0
+1908,MCBC UW Equity,Macatawa Bank Corp,1908.0,1908.0
+1909,MLKN UW Equity,MillerKnoll Inc,1909.0,1909.0
+1910,JBSS UW Equity,John B Sanfilippo & Son Inc,1910.0,1910.0
+1911,BWFG UQ Equity,Bankwell Financial Group Inc,1911.0,1911.0
+1912,SMBC UQ Equity,Southern Missouri Bancorp Inc,1912.0,1912.0
+1913,FWONA UW Equity,Liberty Media Corp-Liberty For,1913.0,1913.0
+1914,NECB UR Equity,Northeast Community Bancorp In,1914.0,1914.0
+1915,SPNS UW Equity,Sapiens International Corp NV,1915.0,1915.0
+1916,MHO UN Equity,M/I Homes Inc,1916.0,1916.0
+1917,CVCY UR Equity,Central Valley Community Banco,1917.0,1917.0
+1918,HLLY UN Equity,Holley Inc,1918.0,1918.0
+1919,CNM UN Equity,Core & Main Inc,1919.0,1919.0
+1920,TRDA UQ Equity,Entrada Therapeutics Inc,1920.0,1920.0
+1921,EVLV UR Equity,Evolv Technologies Holdings In,1921.0,1921.0
+1922,NRIM UW Equity,Northrim BanCorp Inc,1922.0,1922.0
+1923,WST UN Equity,West Pharmaceutical Services I,1923.0,1923.0
+1924,FWRG UW Equity,First Watch Restaurant Group I,1924.0,1924.0
+1925,IBKR UW Equity,Interactive Brokers Group Inc,1925.0,1925.0
+1926,CB UN Equity,Chubb Ltd,1926.0,1926.0
+1927,MVIS UQ Equity,MicroVision Inc,1927.0,1927.0
+1928,PPG UN Equity,PPG Industries Inc,1928.0,1928.0
+1929,CABA UW Equity,Cabaletta Bio Inc,1929.0,1929.0
+1930,FCBC UW Equity,First Community Bankshares Inc,1930.0,1930.0
+1931,TXRH UW Equity,Texas Roadhouse Inc,1931.0,1931.0
+1932,HALO UW Equity,Halozyme Therapeutics Inc,1932.0,1932.0
+1933,BASE UW Equity,Couchbase Inc,1933.0,1933.0
+1934,TEAM UW Equity,Atlassian Corp,1934.0,1934.0
+1935,WRBY UN Equity,Warby Parker Inc,1935.0,1935.0
+1936,LW UN Equity,Lamb Weston Holdings Inc,1936.0,1936.0
+1937,AMD UW Equity,Advanced Micro Devices Inc,1937.0,1937.0
+1938,FERG UN Equity,Ferguson PLC,1938.0,1938.0
+1939,MCRI UW Equity,Monarch Casino & Resort Inc,1939.0,1939.0
+1940,IR UN Equity,Ingersoll Rand Inc,1940.0,1940.0
+1941,PMT UN Equity,PennyMac Mortgage Investment T,1941.0,1941.0
+1942,SQSP UN Equity,Squarespace Inc,1942.0,1942.0
+1943,H UN Equity,Hyatt Hotels Corp,1943.0,1943.0
+1944,UPS UN Equity,United Parcel Service Inc,1944.0,1944.0
+1945,SFBS UN Equity,ServisFirst Bancshares Inc,1945.0,1945.0
+1946,PRCT UQ Equity,PROCEPT BioRobotics Corp,1946.0,1946.0
+1947,EA UW Equity,Electronic Arts Inc,1947.0,1947.0
+1948,COFS UR Equity,ChoiceOne Financial Services I,1948.0,1948.0
+1949,RHP UN Equity,Ryman Hospitality Properties I,1949.0,1949.0
+1950,VVV UN Equity,Valvoline Inc,1950.0,1950.0
+1951,HNI UN Equity,HNI Corp,1951.0,1951.0
+1952,HRL UN Equity,Hormel Foods Corp,1952.0,1952.0
+1953,EW UN Equity,Edwards Lifesciences Corp,1953.0,1953.0
+1954,PANL UR Equity,Pangaea Logistics Solutions Lt,1954.0,1954.0
+1955,GWRS UQ Equity,Global Water Resources Inc,1955.0,1955.0
+1956,SOFI UW Equity,SoFi Technologies Inc,1956.0,1956.0
+1957,WAL UN Equity,Western Alliance Bancorp,1957.0,1957.0
+1958,AEO UN Equity,American Eagle Outfitters Inc,1958.0,1958.0
+1959,TNK UN Equity,Teekay Tankers Ltd,1959.0,1959.0
+1960,HSY UN Equity,Hershey Co/The,1960.0,1960.0
+1961,HASI UN Equity,Hannon Armstrong Sustainable I,1961.0,1961.0
+1962,TKO UN Equity,TKO Group Holdings Inc,1962.0,1962.0
+1963,RICK UQ Equity,RCI Hospitality Holdings Inc,1963.0,1963.0
+1964,NOG UN Equity,Northern Oil and Gas Inc,1964.0,1964.0
+1965,STRA UW Equity,Strategic Education Inc,1965.0,1965.0
+1966,CLMB UQ Equity,Climb Global Solutions Inc,1966.0,1966.0
+1967,LOW UN Equity,Lowe's Cos Inc,1967.0,1967.0
+1968,MDB UQ Equity,MongoDB Inc,1968.0,1968.0
+1969,ANSS UW Equity,ANSYS Inc,1969.0,1969.0
+1970,VCTR UW Equity,Victory Capital Holdings Inc,1970.0,1970.0
+1971,SNA UN Equity,Snap-on Inc,1971.0,1971.0
+1972,UTZ UN Equity,Utz Brands Inc,1972.0,1972.0
+1973,THFF UW Equity,First Financial Corp/IN,1973.0,1973.0
+1974,ETN UN Equity,Eaton Corp PLC,1974.0,1974.0
+1975,PTSI UQ Equity,PAM Transportation Services In,1975.0,1975.0
+1976,LKFN UW Equity,Lakeland Financial Corp,1976.0,1976.0
+1977,MDLZ UW Equity,Mondelez International Inc,1977.0,1977.0
+1978,EWTX UW Equity,Edgewise Therapeutics Inc,1978.0,1978.0
+1979,BECN UW Equity,Beacon Roofing Supply Inc,1979.0,1979.0
+1980,WRB UN Equity,W R Berkley Corp,1980.0,1980.0
+1981,WTFC UW Equity,Wintrust Financial Corp,1981.0,1981.0
+1982,BPRN UW Equity,Princeton Bancorp Inc,1982.0,1982.0
+1983,LE UR Equity,Lands' End Inc,1983.0,1983.0
+1984,ACNB UR Equity,ACNB Corp,1984.0,1984.0
+1985,UMBF UW Equity,UMB Financial Corp,1985.0,1985.0
+1986,AIT UN Equity,Applied Industrial Technologie,1986.0,1986.0
+1987,ATLC UW Equity,Atlanticus Holdings Corp,1987.0,1987.0
+1988,SPNT UN Equity,SiriusPoint Ltd,1988.0,1988.0
+1989,DPZ UN Equity,Domino's Pizza Inc,1989.0,1989.0
+1990,SMPL UR Equity,Simply Good Foods Co/The,1990.0,1990.0
+1991,ESS UN Equity,Essex Property Trust Inc,1991.0,1991.0
+1992,ULCC UW Equity,Frontier Group Holdings Inc,1992.0,1992.0
+1993,CATY UW Equity,Cathay General Bancorp,1993.0,1993.0
+1994,PRK UA Equity,Park National Corp,1994.0,1994.0
+1995,S UN Equity,SentinelOne Inc,1995.0,1995.0
+1996,UTHR UW Equity,United Therapeutics Corp,1996.0,1996.0
+1997,XMTR UW Equity,Xometry Inc,1997.0,1997.0
+1998,FPI UN Equity,Farmland Partners Inc,1998.0,1998.0
+1999,HES UN Equity,Hess Corp,1999.0,1999.0
+2000,CUBE UN Equity,CubeSmart,2000.0,2000.0
+2001,YORW UW Equity,York Water Co/The,2001.0,2001.0
+2002,CMA UN Equity,Comerica Inc,2002.0,2002.0
+2003,VITL UQ Equity,Vital Farms Inc,2003.0,2003.0
+2004,NVEC UR Equity,NVE Corp,2004.0,2004.0
+2005,SPT UR Equity,Sprout Social Inc,2005.0,2005.0
+2006,MLYS UW Equity,Mineralys Therapeutics Inc,2006.0,2006.0
+2007,TRNO UN Equity,Terreno Realty Corp,2007.0,2007.0
+2008,CSWI UW Equity,CSW Industrials Inc,2008.0,2008.0
+2009,REX UN Equity,REX American Resources Corp,2009.0,2009.0
+2010,APAM UN Equity,Artisan Partners Asset Managem,2010.0,2010.0
+2011,CSX UW Equity,CSX Corp,2011.0,2011.0
+2012,SKT UN Equity,Tanger Inc,2012.0,2012.0
+2013,OSG UN Equity,Overseas Shipholding Group Inc,2013.0,2013.0
+2014,SLB UN Equity,Schlumberger NV,2014.0,2014.0
+2015,SWIM UW Equity,Latham Group Inc,2015.0,2015.0
+2016,IOVA UQ Equity,Iovance Biotherapeutics Inc,2016.0,2016.0
+2017,SO UN Equity,Southern Co/The,2017.0,2017.0
+2018,CMPR UW Equity,Cimpress PLC,2018.0,2018.0
+2019,CWEN UN Equity,Clearway Energy Inc,2019.0,2019.0
+2020,RRR UW Equity,Red Rock Resorts Inc,2020.0,2020.0
+2021,TOWN UW Equity,Towne Bank/Portsmouth VA,2021.0,2021.0
+2022,SWAV UW Equity,Shockwave Medical Inc,2022.0,2022.0
+2023,MAS UN Equity,Masco Corp,2023.0,2023.0
+2024,GLUE UW Equity,Monte Rosa Therapeutics Inc,2024.0,2024.0
+2025,MSM UN Equity,MSC Industrial Direct Co Inc,2025.0,2025.0
+2026,ZION UW Equity,Zions Bancorp NA,2026.0,2026.0
+2027,LRCX UW Equity,Lam Research Corp,2027.0,2027.0
+2028,ESQ UR Equity,Esquire Financial Holdings Inc,2028.0,2028.0
+2029,MCBS UW Equity,Metrocity Bankshares Inc,2029.0,2029.0
+2030,NKSH UR Equity,National Bankshares Inc,2030.0,2030.0
+2031,AFL UN Equity,Aflac Inc,2031.0,2031.0
+2032,OLLI UQ Equity,Ollie's Bargain Outlet Holding,2032.0,2032.0
+2033,DUOL UW Equity,Duolingo Inc,2033.0,2033.0
+2034,VZIO UN Equity,Vizio Holding Corp,2034.0,2034.0
+2035,LNTH UQ Equity,Lantheus Holdings Inc,2035.0,2035.0
+2036,REG UW Equity,Regency Centers Corp,2036.0,2036.0
+2037,PINS UN Equity,Pinterest Inc,2037.0,2037.0
+2038,IONQ UN Equity,IonQ Inc,2038.0,2038.0
+2039,SKX UN Equity,Skechers USA Inc,2039.0,2039.0
+2040,ONEW UQ Equity,OneWater Marine Inc,2040.0,2040.0
+2041,PSTG UN Equity,Pure Storage Inc,2041.0,2041.0
+2042,CRD/A UN Equity,Crawford & Co,2042.0,2042.0
+2043,UHG UQ Equity,United Homes Group Inc,2043.0,2043.0
+2044,DC UA Equity,Dakota Gold Corp,2044.0,2044.0
+2045,NVR UN Equity,NVR Inc,2045.0,2045.0
+2046,VABK UR Equity,Virginia National Bankshares C,2046.0,2046.0
+2047,HLVX UW Equity,HilleVax Inc,2047.0,2047.0
+2048,ESTC UN Equity,Elastic NV,2048.0,2048.0
+2049,BMRN UW Equity,BioMarin Pharmaceutical Inc,2049.0,2049.0
+2050,COOP UR Equity,Mr Cooper Group Inc,2050.0,2050.0
+2051,WS UN Equity,Worthington Steel Inc,2051.0,2051.0
+2052,LSEA UR Equity,Landsea Homes Corp,2052.0,2052.0
+2053,PLNT UN Equity,Planet Fitness Inc,2053.0,2053.0
+2054,CMTG UN Equity,Claros Mortgage Trust Inc,2054.0,2054.0
+2055,REXR UN Equity,Rexford Industrial Realty Inc,2055.0,2055.0
+2056,ACLS UW Equity,Axcelis Technologies Inc,2056.0,2056.0
+2057,NKE UN Equity,NIKE Inc,2057.0,2057.0
+2058,NHI UN Equity,National Health Investors Inc,2058.0,2058.0
+2059,SKWD UW Equity,Skyward Specialty Insurance Gr,2059.0,2059.0
+2060,HY UN Equity,Hyster-Yale Materials Handling,2060.0,2060.0
+2061,EGP UN Equity,EastGroup Properties Inc,2061.0,2061.0
+2062,ABBV UN Equity,AbbVie Inc,2062.0,2062.0
+2063,WABC UW Equity,Westamerica BanCorp,2063.0,2063.0
+2064,CVCO UW Equity,Cavco Industries Inc,2064.0,2064.0
+2065,BA UN Equity,Boeing Co/The,2065.0,2065.0
+2066,UTI UN Equity,Universal Technical Institute,2066.0,2066.0
+2067,TPX UN Equity,Tempur Sealy International Inc,2067.0,2067.0
+2068,FCFS UW Equity,FirstCash Holdings Inc,2068.0,2068.0
+2069,ROCK UW Equity,Gibraltar Industries Inc,2069.0,2069.0
+2070,LMAT UQ Equity,LeMaitre Vascular Inc,2070.0,2070.0
+2071,SNFCA UQ Equity,Security National Financial Co,2071.0,2071.0
+2072,PPTA UR Equity,Perpetua Resources Corp,2072.0,2072.0
+2073,BTAI UR Equity,Bioxcel Therapeutics Inc,2073.0,2073.0
+2074,WHD UN Equity,Cactus Inc,2074.0,2074.0
+2075,AR UN Equity,Antero Resources Corp,2075.0,2075.0
+2076,CFR UN Equity,Cullen/Frost Bankers Inc,2076.0,2076.0
+2077,DTC UN Equity,Solo Brands Inc,2077.0,2077.0
+2078,SRE UN Equity,Sempra,2078.0,2078.0
+2079,SMMF UW Equity,Summit Financial Group Inc,2079.0,2079.0
+2080,FTNT UW Equity,Fortinet Inc,2080.0,2080.0
+2081,LNZA UR Equity,LanzaTech Global Inc,2081.0,2081.0
+2082,NVCT UR Equity,Nuvectis Pharma Inc,2082.0,2082.0
+2083,AMT UN Equity,American Tower Corp,2083.0,2083.0
+2084,BPOP UW Equity,Popular Inc,2084.0,2084.0
+2085,LSTR UW Equity,Landstar System Inc,2085.0,2085.0
+2086,OWL UN Equity,Blue Owl Capital Inc,2086.0,2086.0
+2087,BFST UW Equity,Business First Bancshares Inc,2087.0,2087.0
+2088,NBIX UW Equity,Neurocrine Biosciences Inc,2088.0,2088.0
+2089,GEN UW Equity,Gen Digital Inc,2089.0,2089.0
+2090,CRSR UW Equity,Corsair Gaming Inc,2090.0,2090.0
+2091,CRL UN Equity,Charles River Laboratories Int,2091.0,2091.0
+2092,OTIS UN Equity,Otis Worldwide Corp,2092.0,2092.0
+2093,FOUR UN Equity,Shift4 Payments Inc,2093.0,2093.0
+2094,ATGE UN Equity,Adtalem Global Education Inc,2094.0,2094.0
+2095,MLP UN Equity,Maui Land & Pineapple Co Inc,2095.0,2095.0
+2096,ASLE UR Equity,AerSale Corp,2096.0,2096.0
+2097,BRZE UW Equity,Braze Inc,2097.0,2097.0
+2098,BRKR UW Equity,Bruker Corp,2098.0,2098.0
+2099,NSP UN Equity,Insperity Inc,2099.0,2099.0
+2100,UWMC UN Equity,UWM Holdings Corp,2100.0,2100.0
+2101,ONTO UN Equity,Onto Innovation Inc,2101.0,2101.0
+2102,NL UN Equity,NL Industries Inc,2102.0,2102.0
+2103,YUM UN Equity,Yum! Brands Inc,2103.0,2103.0
+2104,AGR UN Equity,Avangrid Inc,2104.0,2104.0
+2105,FOA UN Equity,Finance Of America Cos Inc,2105.0,2105.0
+2106,GGG UN Equity,Graco Inc,2106.0,2106.0
+2107,SANA UW Equity,Sana Biotechnology Inc,2107.0,2107.0
+2108,FTAI UW Equity,FTAI Aviation Ltd,2108.0,2108.0
+2109,AMZN UW Equity,Amazon.com Inc,2109.0,2109.0
+2110,CECO UW Equity,CECO Environmental Corp,2110.0,2110.0
+2111,POOL UW Equity,Pool Corp,2111.0,2111.0
+2112,UDMY UW Equity,Udemy Inc,2112.0,2112.0
+2113,ACDC UW Equity,ProFrac Holding Corp,2113.0,2113.0
+2114,CAH UN Equity,Cardinal Health Inc,2114.0,2114.0
+2115,SEAT UW Equity,Vivid Seats Inc,2115.0,2115.0
+2116,IRON UQ Equity,Disc Medicine Inc,2116.0,2116.0
+2117,NSC UN Equity,Norfolk Southern Corp,2117.0,2117.0
+2118,KHC UW Equity,Kraft Heinz Co/The,2118.0,2118.0
+2119,RBC UN Equity,RBC Bearings Inc,2119.0,2119.0
+2120,FDBC UQ Equity,Fidelity D&D Bancorp Inc,2120.0,2120.0
+2121,PKG UN Equity,Packaging Corp of America,2121.0,2121.0
+2122,RH UN Equity,RH,2122.0,2122.0
+2123,BMI UN Equity,Badger Meter Inc,2123.0,2123.0
+2124,ARES UN Equity,Ares Management Corp,2124.0,2124.0
+2125,LTH UN Equity,Life Time Group Holdings Inc,2125.0,2125.0
+2126,HIMS UN Equity,Hims & Hers Health Inc,2126.0,2126.0
+2127,ATI UN Equity,ATI Inc,2127.0,2127.0
+2128,SGRY UW Equity,Surgery Partners Inc,2128.0,2128.0
+2129,KAI UN Equity,Kadant Inc,2129.0,2129.0
+2130,TOL UN Equity,Toll Brothers Inc,2130.0,2130.0
+2131,RNR UN Equity,RenaissanceRe Holdings Ltd,2131.0,2131.0
+2132,CTRE UN Equity,CareTrust REIT Inc,2132.0,2132.0
+2133,COTY UN Equity,Coty Inc,2133.0,2133.0
+2134,UNTY UQ Equity,Unity Bancorp Inc,2134.0,2134.0
+2135,QRTEB UW Equity,Qurate Retail Inc,2135.0,2135.0
+2136,CCB UW Equity,Coastal Financial Corp/WA,2136.0,2136.0
+2137,PLBC UR Equity,Plumas Bancorp,2137.0,2137.0
+2138,RBOT UN Equity,Vicarious Surgical Inc,2138.0,2138.0
+2139,CMT UA Equity,Core Molding Technologies Inc,2139.0,2139.0
+2140,GDYN UR Equity,Grid Dynamics Holdings Inc,2140.0,2140.0
+2141,GOGL UW Equity,Golden Ocean Group Ltd,2141.0,2141.0
+2142,CDRE UN Equity,Cadre Holdings Inc,2142.0,2142.0
+2143,NNI UN Equity,Nelnet Inc,2143.0,2143.0
+2144,OZK UW Equity,Bank OZK,2144.0,2144.0
+2145,VHI UN Equity,Valhi Inc,2145.0,2145.0
+2146,FND UN Equity,Floor & Decor Holdings Inc,2146.0,2146.0
+2147,ATR UN Equity,AptarGroup Inc,2147.0,2147.0
+2148,OLMA UW Equity,Olema Pharmaceuticals Inc,2148.0,2148.0
+2149,DOCS UN Equity,Doximity Inc,2149.0,2149.0
+2150,SGHT UW Equity,Sight Sciences Inc,2150.0,2150.0
+2151,FN UN Equity,Fabrinet,2151.0,2151.0
+2152,STLD UW Equity,Steel Dynamics Inc,2152.0,2152.0
+2153,ZIP UN Equity,ZipRecruiter Inc,2153.0,2153.0
+2154,CUBI UN Equity,Customers Bancorp Inc,2154.0,2154.0
+2155,EVR UN Equity,Evercore Inc,2155.0,2155.0
+2156,SYK UN Equity,Stryker Corp,2156.0,2156.0
+2157,VERV UW Equity,Verve Therapeutics Inc,2157.0,2157.0
+2158,DRVN UW Equity,Driven Brands Holdings Inc,2158.0,2158.0
+2159,STNG UN Equity,Scorpio Tankers Inc,2159.0,2159.0
+2160,CRS UN Equity,Carpenter Technology Corp,2160.0,2160.0
+2161,CHE UN Equity,Chemed Corp,2161.0,2161.0
+2162,PXD UN Equity,Pioneer Natural Resources Co,2162.0,2162.0
+2163,KTB UN Equity,Kontoor Brands Inc,2163.0,2163.0
+2164,ARCB UW Equity,ArcBest Corp,2164.0,2164.0
+2165,VRDN UR Equity,Viridian Therapeutics Inc,2165.0,2165.0
+2166,TT UN Equity,Trane Technologies PLC,2166.0,2166.0
+2167,AZEK UN Equity,AZEK Co Inc/The,2167.0,2167.0
+2168,PRST UQ Equity,Presto Automation Inc,2168.0,2168.0
+2169,SYY UN Equity,Sysco Corp,2169.0,2169.0
+2170,SB UN Equity,Safe Bulkers Inc,2170.0,2170.0
+2171,SLP UW Equity,Simulations Plus Inc,2171.0,2171.0
+2172,CE UN Equity,Celanese Corp,2172.0,2172.0
+2173,HAL UN Equity,Halliburton Co,2173.0,2173.0
+2174,CDZI UQ Equity,Cadiz Inc,2174.0,2174.0
+2175,MSI UN Equity,Motorola Solutions Inc,2175.0,2175.0
+2176,OLED UW Equity,Universal Display Corp,2176.0,2176.0
+2177,KYMR UQ Equity,Kymera Therapeutics Inc,2177.0,2177.0
+2178,SWKH UQ Equity,SWK Holdings Corp,2178.0,2178.0
+2179,BLDR UN Equity,Builders FirstSource Inc,2179.0,2179.0
+2180,VRCA UQ Equity,Verrica Pharmaceuticals Inc,2180.0,2180.0
+2181,NMRK UW Equity,Newmark Group Inc,2181.0,2181.0
+2182,BLD UN Equity,TopBuild Corp,2182.0,2182.0
+2183,DBX UW Equity,Dropbox Inc,2183.0,2183.0
+2184,TWST UW Equity,Twist Bioscience Corp,2184.0,2184.0
+2185,TMDX UQ Equity,TransMedics Group Inc,2185.0,2185.0
+2186,RYAN UN Equity,Ryan Specialty Holdings Inc,2186.0,2186.0
+2187,FFIV UW Equity,F5 Inc,2187.0,2187.0
+2188,NTAP UW Equity,NetApp Inc,2188.0,2188.0
+2189,GBTG UN Equity,Global Business Travel Group I,2189.0,2189.0
+2190,CXM UN Equity,Sprinklr Inc,2190.0,2190.0
+2191,URI UN Equity,United Rentals Inc,2191.0,2191.0
+2192,SEMR UN Equity,SEMrush Holdings Inc,2192.0,2192.0
+2193,DX UN Equity,Dynex Capital Inc,2193.0,2193.0
+2194,FAST UW Equity,Fastenal Co,2194.0,2194.0
+2195,SPGI UN Equity,S&P Global Inc,2195.0,2195.0
+2196,SNPO UW Equity,Snap One Holdings Corp,2196.0,2196.0
+2197,DHT UN Equity,DHT Holdings Inc,2197.0,2197.0
+2198,LCID UW Equity,Lucid Group Inc,2198.0,2198.0
+2199,TBBK UW Equity,Bancorp Inc/The,2199.0,2199.0
+2200,MTSI UW Equity,MACOM Technology Solutions Hol,2200.0,2200.0
+2201,ZTS UN Equity,Zoetis Inc,2201.0,2201.0
+2202,RCL UN Equity,Royal Caribbean Cruises Ltd,2202.0,2202.0
+2203,TREX UN Equity,Trex Co Inc,2203.0,2203.0
+2204,WVE UQ Equity,WaVe Life Sciences Ltd,2204.0,2204.0
+2205,DV UN Equity,DoubleVerify Holdings Inc,2205.0,2205.0
+2206,SNOW UN Equity,Snowflake Inc,2206.0,2206.0
+2207,FSLR UW Equity,First Solar Inc,2207.0,2207.0
+2208,CHDN UW Equity,Churchill Downs Inc,2208.0,2208.0
+2209,NUE UN Equity,Nucor Corp,2209.0,2209.0
+2210,AAON UW Equity,AAON Inc,2210.0,2210.0
+2211,NABL UN Equity,N-able Inc,2211.0,2211.0
+2212,ADSK UW Equity,Autodesk Inc,2212.0,2212.0
+2213,LSXMA UW Equity,Liberty Media Corp-Liberty Sir,2213.0,2213.0
+2214,TWKS UW Equity,Thoughtworks Holding Inc,2214.0,2214.0
+2215,NRC UW Equity,National Research Corp,2215.0,2215.0
+2216,NDSN UW Equity,Nordson Corp,2216.0,2216.0
+2217,PFBC UW Equity,Preferred Bank/Los Angeles CA,2217.0,2217.0
+2218,WDAY UW Equity,Workday Inc,2218.0,2218.0
+2219,TUSK UW Equity,Mammoth Energy Services Inc,2219.0,2219.0
+2220,MTDR UN Equity,Matador Resources Co,2220.0,2220.0
+2221,ACGL UW Equity,Arch Capital Group Ltd,2221.0,2221.0
+2222,MCD UN Equity,McDonald's Corp,2222.0,2222.0
+2223,GWH UN Equity,ESS Tech Inc,2223.0,2223.0
+2224,BOH UN Equity,Bank of Hawaii Corp,2224.0,2224.0
+2225,AJG UN Equity,Arthur J Gallagher & Co,2225.0,2225.0
+2226,YETI UN Equity,YETI Holdings Inc,2226.0,2226.0
+2227,PWR UN Equity,Quanta Services Inc,2227.0,2227.0
+2228,PG UN Equity,Procter & Gamble Co/The,2228.0,2228.0
+2229,NOVA UN Equity,Sunnova Energy International I,2229.0,2229.0
+2230,DSKE UR Equity,Daseke Inc,2230.0,2230.0
+2231,AESI UN Equity,Atlas Energy Solutions Inc,2231.0,2231.0
+2232,HLI UN Equity,Houlihan Lokey Inc,2232.0,2232.0
+2233,ELS UN Equity,Equity LifeStyle Properties In,2233.0,2233.0
+2234,CBOE UF Equity,Cboe Global Markets Inc,2234.0,2234.0
+2235,CHCO UW Equity,City Holding Co,2235.0,2235.0
+2236,FRPT UQ Equity,Freshpet Inc,2236.0,2236.0
+2237,UNH UN Equity,UnitedHealth Group Inc,2237.0,2237.0
+2238,WMS UN Equity,Advanced Drainage Systems Inc,2238.0,2238.0
+2239,DSGN UW Equity,Design Therapeutics Inc,2239.0,2239.0
+2240,FRGE UN Equity,Forge Global Holdings Inc,2240.0,2240.0
+2241,CWCO UW Equity,Consolidated Water Co Ltd,2241.0,2241.0
+2242,FRPH UW Equity,FRP Holdings Inc,2242.0,2242.0
+2243,FIHL UN Equity,Fidelis Insurance Holdings Ltd,2243.0,2243.0
+2244,SIGA UQ Equity,SIGA Technologies Inc,2244.0,2244.0
+2245,CROX UW Equity,Crocs Inc,2245.0,2245.0
+2246,ZWS UN Equity,Zurn Elkay Water Solutions Cor,2246.0,2246.0
+2247,HNRG UR Equity,Hallador Energy Co,2247.0,2247.0
+2248,HCA UN Equity,HCA Healthcare Inc,2248.0,2248.0
+2249,NBN UQ Equity,Northeast Bank,2249.0,2249.0
+2250,SHOO UW Equity,Steven Madden Ltd,2250.0,2250.0
+2251,NXT UW Equity,NEXTracker Inc,2251.0,2251.0
+2252,UFPI UW Equity,UFP Industries Inc,2252.0,2252.0
+2253,CPRX UR Equity,Catalyst Pharmaceuticals Inc,2253.0,2253.0
+2254,PFSI UN Equity,PennyMac Financial Services In,2254.0,2254.0
+2255,KO UN Equity,Coca-Cola Co/The,2255.0,2255.0
+2256,MKTX UW Equity,MarketAxess Holdings Inc,2256.0,2256.0
+2257,CPRT UW Equity,Copart Inc,2257.0,2257.0
+2258,HSHP UN Equity,Himalaya Shipping Ltd,2258.0,2258.0
+2259,RLYB UW Equity,Rallybio Corp,2259.0,2259.0
+2260,LRN UN Equity,Stride Inc,2260.0,2260.0
+2261,LANC UW Equity,Lancaster Colony Corp,2261.0,2261.0
+2262,UHAL UN Equity,U-Haul Holding Co,2262.0,2262.0
+2263,UUUU UA Equity,Energy Fuels Inc/Canada,2263.0,2263.0
+2264,ITW UN Equity,Illinois Tool Works Inc,2264.0,2264.0
+2265,MORN UW Equity,Morningstar Inc,2265.0,2265.0
+2266,RGEN UW Equity,Repligen Corp,2266.0,2266.0
+2267,RCKT UQ Equity,Rocket Pharmaceuticals Inc,2267.0,2267.0
+2268,CBNK UW Equity,Capital Bancorp Inc,2268.0,2268.0
+2269,TTEK UW Equity,Tetra Tech Inc,2269.0,2269.0
+2270,PCVX UW Equity,Vaxcyte Inc,2270.0,2270.0
+2271,RUSHB UW Equity,Rush Enterprises Inc,2271.0,2271.0
+2272,FIVE UW Equity,Five Below Inc,2272.0,2272.0
+2273,PGTI UN Equity,PGT Innovations Inc,2273.0,2273.0
+2274,FLNC UW Equity,Fluence Energy Inc,2274.0,2274.0
+2275,KLAC UW Equity,KLA Corp,2275.0,2275.0
+2276,SKYX UR Equity,SKYX Platforms Corp,2276.0,2276.0
+2277,VRTX UW Equity,Vertex Pharmaceuticals Inc,2277.0,2277.0
+2278,PAYX UW Equity,Paychex Inc,2278.0,2278.0
+2279,COUR UN Equity,Coursera Inc,2279.0,2279.0
+2280,DXCM UW Equity,Dexcom Inc,2280.0,2280.0
+2281,JBHT UW Equity,JB Hunt Transport Services Inc,2281.0,2281.0
+2282,WTS UN Equity,Watts Water Technologies Inc,2282.0,2282.0
+2283,ADV UW Equity,Advantage Solutions Inc,2283.0,2283.0
+2284,IDXX UW Equity,IDEXX Laboratories Inc,2284.0,2284.0
+2285,WALD UR Equity,Waldencast plc,2285.0,2285.0
+2286,BHVN UN Equity,Biohaven Ltd,2286.0,2286.0
+2287,DNUT UW Equity,Krispy Kreme Inc,2287.0,2287.0
+2288,EWCZ UW Equity,European Wax Center Inc,2288.0,2288.0
+2289,JOE UN Equity,St Joe Co/The,2289.0,2289.0
+2290,MKTW UQ Equity,MarketWise Inc,2290.0,2290.0
+2291,CRNX UW Equity,Crinetics Pharmaceuticals Inc,2291.0,2291.0
+2292,SSD UN Equity,Simpson Manufacturing Co Inc,2292.0,2292.0
+2293,CRK UN Equity,Comstock Resources Inc,2293.0,2293.0
+2294,SWI UN Equity,SolarWinds Corp,2294.0,2294.0
+2295,CARR UN Equity,Carrier Global Corp,2295.0,2295.0
+2296,PCAR UW Equity,PACCAR Inc,2296.0,2296.0
+2297,BIPC UN Equity,Brookfield Infrastructure Corp,2297.0,2297.0
+2298,IGMS UW Equity,IGM Biosciences Inc,2298.0,2298.0
+2299,KWR UN Equity,Quaker Chemical Corp,2299.0,2299.0
+2300,RBLX UN Equity,ROBLOX Corp,2300.0,2300.0
+2301,PARAA UW Equity,Paramount Global,2301.0,2301.0
+2302,BOKF UW Equity,BOK Financial Corp,2302.0,2302.0
+2303,HD UN Equity,Home Depot Inc/The,2303.0,2303.0
+2304,DVA UN Equity,DaVita Inc,2304.0,2304.0
+2305,AMH UN Equity,American Homes 4 Rent,2305.0,2305.0
+2306,NE UN Equity,Noble Corp PLC,2306.0,2306.0
+2307,DLB UN Equity,Dolby Laboratories Inc,2307.0,2307.0
+2308,NDAQ UW Equity,Nasdaq Inc,2308.0,2308.0
+2309,BMEA UW Equity,Biomea Fusion Inc,2309.0,2309.0
+2310,ADT UN Equity,ADT Inc,2310.0,2310.0
+2311,VIGL UW Equity,Vigil Neuroscience Inc,2311.0,2311.0
+2312,SOVO UW Equity,Sovos Brands Inc,2312.0,2312.0
+2313,BLK UN Equity,BlackRock Inc,2313.0,2313.0
+2314,LVS UN Equity,Las Vegas Sands Corp,2314.0,2314.0
+2315,NN UR Equity,NextNav Inc,2315.0,2315.0
+2316,AXP UN Equity,American Express Co,2316.0,2316.0
+2317,PTC UW Equity,PTC Inc,2317.0,2317.0
+2318,LZ UW Equity,Legalzoom.com Inc,2318.0,2318.0
+2319,ECL UN Equity,Ecolab Inc,2319.0,2319.0
+2320,KNSL UN Equity,Kinsale Capital Group Inc,2320.0,2320.0
+2321,TGH UN Equity,Textainer Group Holdings Ltd,2321.0,2321.0
+2322,NAVI UW Equity,Navient Corp,2322.0,2322.0
+2323,PRME UQ Equity,Prime Medicine Inc,2323.0,2323.0
+2324,LECO UW Equity,Lincoln Electric Holdings Inc,2324.0,2324.0
+2325,DKNG UW Equity,DraftKings Inc,2325.0,2325.0
+2326,XPOF UN Equity,Xponential Fitness Inc,2326.0,2326.0
+2327,RCM UW Equity,R1 RCM Inc,2327.0,2327.0
+2328,SES UN Equity,SES AI Corp,2328.0,2328.0
+2329,CHTR UW Equity,Charter Communications Inc,2329.0,2329.0
+2330,IDT UN Equity,IDT Corp,2330.0,2330.0
+2331,GFF UN Equity,Griffon Corp,2331.0,2331.0
+2332,LIN UW Equity,Linde PLC,2332.0,2332.0
+2333,IAS UW Equity,Integral Ad Science Holding Co,2333.0,2333.0
+2334,SCHW UN Equity,Charles Schwab Corp/The,2334.0,2334.0
+2335,WRLD UW Equity,World Acceptance Corp,2335.0,2335.0
+2336,OPFI UN Equity,OppFi Inc,2336.0,2336.0
+2337,ULTA UW Equity,Ulta Beauty Inc,2337.0,2337.0
+2338,CTOS UN Equity,Custom Truck One Source Inc,2338.0,2338.0
+2339,ROST UW Equity,Ross Stores Inc,2339.0,2339.0
+2340,RES UN Equity,RPC Inc,2340.0,2340.0
+2341,ALTR UW Equity,Altair Engineering Inc,2341.0,2341.0
+2342,UBER UN Equity,Uber Technologies Inc,2342.0,2342.0
+2343,ALVR UW Equity,Allovir Inc,2343.0,2343.0
+2344,EBTC UW Equity,Enterprise Bancorp Inc/MA,2344.0,2344.0
+2345,INTA UW Equity,Intapp Inc,2345.0,2345.0
+2346,POWL UW Equity,Powell Industries Inc,2346.0,2346.0
+2347,RXST UQ Equity,RxSight Inc,2347.0,2347.0
+2348,IDCC UW Equity,InterDigital Inc,2348.0,2348.0
+2349,PTVE UW Equity,Pactiv Evergreen Inc,2349.0,2349.0
+2350,HBT UW Equity,HBT Financial Inc,2350.0,2350.0
+2351,GSHD UW Equity,Goosehead Insurance Inc,2351.0,2351.0
+2352,X UN Equity,United States Steel Corp,2352.0,2352.0
+2353,DFIN UN Equity,Donnelley Financial Solutions,2353.0,2353.0
+2354,LXRX UW Equity,Lexicon Pharmaceuticals Inc,2354.0,2354.0
+2355,EWBC UW Equity,East West Bancorp Inc,2355.0,2355.0
+2356,NEU UN Equity,NewMarket Corp,2356.0,2356.0
+2357,LOPE UW Equity,Grand Canyon Education Inc,2357.0,2357.0
+2358,SSTI UR Equity,SoundThinking Inc,2358.0,2358.0
+2359,TTD UQ Equity,Trade Desk Inc/The,2359.0,2359.0
+2360,ODFL UW Equity,Old Dominion Freight Line Inc,2360.0,2360.0
+2361,BCC UN Equity,Boise Cascade Co,2361.0,2361.0
+2362,RDW UN Equity,Redwire Corp,2362.0,2362.0
+2363,BRT UN Equity,BRT Apartments Corp,2363.0,2363.0
+2364,REVG UN Equity,REV Group Inc,2364.0,2364.0
+2365,VEEV UN Equity,Veeva Systems Inc,2365.0,2365.0
+2366,AX UN Equity,Axos Financial Inc,2366.0,2366.0
+2367,PYCR UW Equity,Paycor HCM Inc,2367.0,2367.0
+2368,CACC UW Equity,Credit Acceptance Corp,2368.0,2368.0
+2369,LII UN Equity,Lennox International Inc,2369.0,2369.0
+2370,KRUS UQ Equity,Kura Sushi USA Inc,2370.0,2370.0
+2371,CHMG UW Equity,Chemung Financial Corp,2371.0,2371.0
+2372,HRB UN Equity,H&R Block Inc,2372.0,2372.0
+2373,PGNY UW Equity,Progyny Inc,2373.0,2373.0
+2374,DDOG UW Equity,Datadog Inc,2374.0,2374.0
+2375,GRMN UN Equity,Garmin Ltd,2375.0,2375.0
+2376,INBX UQ Equity,Inhibrx Inc,2376.0,2376.0
+2377,DHI UN Equity,DR Horton Inc,2377.0,2377.0
+2378,EXPI UQ Equity,eXp World Holdings Inc,2378.0,2378.0
+2379,VKTX UR Equity,Viking Therapeutics Inc,2379.0,2379.0
+2380,CPNG UN Equity,Coupang Inc,2380.0,2380.0
+2381,TGAN UR Equity,Transphorm Inc,2381.0,2381.0
+2382,RL UN Equity,Ralph Lauren Corp,2382.0,2382.0
+2383,DKS UN Equity,Dick's Sporting Goods Inc,2383.0,2383.0
+2384,NU UN Equity,NU Holdings Ltd/Cayman Islands,2384.0,2384.0
+2385,PR UN Equity,Permian Resources Corp,2385.0,2385.0
+2386,INTU UW Equity,Intuit Inc,2386.0,2386.0
+2387,MAX UN Equity,MediaAlpha Inc,2387.0,2387.0
+2388,ZURA UR Equity,Zura Bio Ltd,2388.0,2388.0
+2389,RRBI UW Equity,Red River Bancshares Inc,2389.0,2389.0
+2390,COLM UW Equity,Columbia Sportswear Co,2390.0,2390.0
+2391,CAVA UN Equity,Cava Group Inc,2391.0,2391.0
+2392,NSSC UW Equity,Napco Security Technologies In,2392.0,2392.0
+2393,RKLB UR Equity,Rocket Lab USA Inc,2393.0,2393.0
+2394,RYTM UQ Equity,Rhythm Pharmaceuticals Inc,2394.0,2394.0
+2395,KRT UW Equity,Karat Packaging Inc,2395.0,2395.0
+2396,GIII UW Equity,G-III Apparel Group Ltd,2396.0,2396.0
+2397,GWW UN Equity,WW Grainger Inc,2397.0,2397.0
+2398,TW UW Equity,Tradeweb Markets Inc,2398.0,2398.0
+2399,KROS UQ Equity,Keros Therapeutics Inc,2399.0,2399.0
+2400,BRO UN Equity,Brown & Brown Inc,2400.0,2400.0
+2401,PSA UN Equity,Public Storage,2401.0,2401.0
+2402,INNV UW Equity,Innovage Holding Corp,2402.0,2402.0
+2403,AMRX UW Equity,Amneal Pharmaceuticals Inc,2403.0,2403.0
+2404,MANH UW Equity,Manhattan Associates Inc,2404.0,2404.0
+2405,PATH UN Equity,UiPath Inc,2405.0,2405.0
+2406,BRBR UN Equity,BellRing Brands Inc,2406.0,2406.0
+2407,TDG UN Equity,TransDigm Group Inc,2407.0,2407.0
+2408,CLBK UW Equity,Columbia Financial Inc,2408.0,2408.0
+2409,CRBG UN Equity,Corebridge Financial Inc,2409.0,2409.0
+2410,DSGR UW Equity,Distribution Solutions Group I,2410.0,2410.0
+2411,AMEH UR Equity,Apollo Medical Holdings Inc,2411.0,2411.0
+2412,REYN UW Equity,Reynolds Consumer Products Inc,2412.0,2412.0
+2413,IRMD UR Equity,iRadimed Corp,2413.0,2413.0
+2414,EU UR Equity,Encore Energy Corp,2414.0,2414.0
+2415,PSN UN Equity,Parsons Corp,2415.0,2415.0
+2416,ORCL UN Equity,Oracle Corp,2416.0,2416.0
+2417,ESGR UW Equity,Enstar Group Ltd,2417.0,2417.0
+2418,PGEN UW Equity,Precigen Inc,2418.0,2418.0
+2419,KKR UN Equity,KKR & Co Inc,2419.0,2419.0
+2420,STRL UW Equity,Sterling Infrastructure Inc,2420.0,2420.0
+2421,HWKN UW Equity,Hawkins Inc,2421.0,2421.0
+2422,NOW UN Equity,ServiceNow Inc,2422.0,2422.0
+2423,USCB UQ Equity,USCB Financial Holdings Inc,2423.0,2423.0
+2424,STER UW Equity,Sterling Check Corp,2424.0,2424.0
+2425,ESCA UQ Equity,Escalade Inc,2425.0,2425.0
+2426,SMMT UQ Equity,Summit Therapeutics Inc,2426.0,2426.0
+2427,BX UN Equity,Blackstone Inc,2427.0,2427.0
+2428,SEAS UN Equity,SeaWorld Entertainment Inc,2428.0,2428.0
+2429,SBAC UW Equity,SBA Communications Corp,2429.0,2429.0
+2430,ISRG UW Equity,Intuitive Surgical Inc,2430.0,2430.0
+2431,GOOGL UW Equity,Alphabet Inc,2431.0,2431.0
+2432,FENC UR Equity,Fennec Pharmaceuticals Inc,2432.0,2432.0
+2433,NET UN Equity,Cloudflare Inc,2433.0,2433.0
+2434,CART UW Equity,Maplebear Inc,2434.0,2434.0
+2435,RXRX UW Equity,Recursion Pharmaceuticals Inc,2435.0,2435.0
+2436,NGVC UN Equity,Natural Grocers by Vitamin Cot,2436.0,2436.0
+2437,MSFT UW Equity,Microsoft Corp,2437.0,2437.0
+2438,HLT UN Equity,Hilton Worldwide Holdings Inc,2438.0,2438.0
+2439,MSCI UN Equity,MSCI Inc,2439.0,2439.0
+2440,CVI UN Equity,CVR Energy Inc,2440.0,2440.0
+2441,SPRY UQ Equity,ARS Pharmaceuticals Inc,2441.0,2441.0
+2442,NFLX UW Equity,Netflix Inc,2442.0,2442.0
+2443,CMG UN Equity,Chipotle Mexican Grill Inc,2443.0,2443.0
+2444,NWLI UW Equity,National Western Life Group In,2444.0,2444.0
+2445,PLSE UR Equity,Pulse Biosciences Inc,2445.0,2445.0
+2446,WDFC UW Equity,WD-40 Co,2446.0,2446.0
+2447,PJT UN Equity,PJT Partners Inc,2447.0,2447.0
+2448,AZO UN Equity,AutoZone Inc,2448.0,2448.0
+2449,SHC UW Equity,Sotera Health Co,2449.0,2449.0
+2450,ORLY UW Equity,O'Reilly Automotive Inc,2450.0,2450.0
+2451,BSVN UW Equity,Bank7 Corp,2451.0,2451.0
+2452,HCI UN Equity,HCI Group Inc,2452.0,2452.0
+2453,V UN Equity,Visa Inc,2453.0,2453.0
+2454,VICR UW Equity,Vicor Corp,2454.0,2454.0
+2455,SHW UN Equity,Sherwin-Williams Co/The,2455.0,2455.0
+2456,SAIA UW Equity,Saia Inc,2456.0,2456.0
+2457,HLNE UW Equity,Hamilton Lane Inc,2457.0,2457.0
+2458,DFH UN Equity,Dream Finders Homes Inc,2458.0,2458.0
+2459,REGN UW Equity,Regeneron Pharmaceuticals Inc,2459.0,2459.0
+2460,NCNO UW Equity,nCino Inc,2460.0,2460.0
+2461,JANX UQ Equity,Janux Therapeutics Inc,2461.0,2461.0
+2462,DRS UW Equity,Leonardo DRS Inc,2462.0,2462.0
+2463,APO UN Equity,Apollo Global Management Inc,2463.0,2463.0
+2464,PLD UN Equity,Prologis Inc,2464.0,2464.0
+2465,VAXX UQ Equity,Vaxxinity Inc,2465.0,2465.0
+2466,ALCO UW Equity,Alico Inc,2466.0,2466.0
+2467,OVLY UR Equity,Oak Valley Bancorp,2467.0,2467.0
+2468,WMT UN Equity,Walmart Inc,2468.0,2468.0
+2469,CDNS UW Equity,Cadence Design Systems Inc,2469.0,2469.0
+2470,ELA UA Equity,Envela Corp,2470.0,2470.0
+2471,APGE UQ Equity,Apogee Therapeutics Inc,2471.0,2471.0
+2472,ROIV UW Equity,Roivant Sciences Ltd,2472.0,2472.0
+2473,GAMB UQ Equity,Gambling.com Group Ltd,2473.0,2473.0
+2474,COOK UN Equity,Traeger Inc,2474.0,2474.0
+2475,TTSH UR Equity,Tile Shop Holdings Inc,2475.0,2475.0
+2476,NUVL UW Equity,Nuvalent Inc,2476.0,2476.0
+2477,DT UN Equity,Dynatrace Inc,2477.0,2477.0
+2478,IPSC UW Equity,Century Therapeutics Inc,2478.0,2478.0
+2479,FSBC UW Equity,Five Star Bancorp,2479.0,2479.0
+2480,NYT UN Equity,New York Times Co/The,2480.0,2480.0
+2481,FIX UN Equity,Comfort Systems USA Inc,2481.0,2481.0
+2482,WULF UR Equity,Terawulf Inc,2482.0,2482.0
+2483,CHH UN Equity,Choice Hotels International In,2483.0,2483.0
+2484,NFE UW Equity,New Fortress Energy Inc,2484.0,2484.0
+2485,SPG UN Equity,Simon Property Group Inc,2485.0,2485.0
+2486,OBT UR Equity,Orange County Bancorp Inc,2486.0,2486.0
+2487,GRBK UN Equity,Green Brick Partners Inc,2487.0,2487.0
+2488,AFRI UR Equity,Forafric Global PLC,2488.0,2488.0
+2489,BBWI UN Equity,Bath & Body Works Inc,2489.0,2489.0
+2490,WING UW Equity,Wingstop Inc,2490.0,2490.0
+2491,IBP UN Equity,Installed Building Products In,2491.0,2491.0
+2492,CTAS UW Equity,Cintas Corp,2492.0,2492.0
+2493,HRMY UQ Equity,Harmony Biosciences Holdings I,2493.0,2493.0
+2494,ACLX UW Equity,Arcellx Inc,2494.0,2494.0
+2495,AMK UN Equity,AssetMark Financial Holdings I,2495.0,2495.0
+2496,AUR UW Equity,Aurora Innovation Inc,2496.0,2496.0
+2497,BLBD UQ Equity,Blue Bird Corp,2497.0,2497.0
+2498,ATEX UR Equity,Anterix Inc,2498.0,2498.0
+2499,MC UN Equity,Moelis & Co,2499.0,2499.0
+2500,IDYA UW Equity,Ideaya Biosciences Inc,2500.0,2500.0
+2501,LQDT UW Equity,Liquidity Services Inc,2501.0,2501.0
+2502,BKNG UW Equity,Booking Holdings Inc,2502.0,2502.0
+2503,CNS UN Equity,Cohen & Steers Inc,2503.0,2503.0
+2504,ALTI UR Equity,AlTi Global Inc,2504.0,2504.0
+2505,EVCM UW Equity,EverCommerce Inc,2505.0,2505.0
+2506,MNTK UR Equity,Montauk Renewables Inc,2506.0,2506.0
+2507,RBCAA UW Equity,Republic Bancorp Inc/KY,2507.0,2507.0
+2508,VGAS UR Equity,Verde Clean Fuels Inc,2508.0,2508.0
+2509,AMRK UW Equity,A-Mark Precious Metals Inc,2509.0,2509.0
+2510,BBAI UN Equity,BigBear.ai Holdings Inc,2510.0,2510.0
+2511,FICO UN Equity,Fair Isaac Corp,2511.0,2511.0
+2512,IPAR UW Equity,Inter Parfums Inc,2512.0,2512.0
+2513,LULU UW Equity,Lululemon Athletica Inc,2513.0,2513.0
+2514,BEPC UN Equity,Brookfield Renewable Corp,2514.0,2514.0
+2515,UI UN Equity,Ubiquiti Inc,2515.0,2515.0
+2516,AMPH UW Equity,Amphastar Pharmaceuticals Inc,2516.0,2516.0
+2517,BOWL UN Equity,Bowlero Corp,2517.0,2517.0
+2518,TDW UN Equity,Tidewater Inc,2518.0,2518.0
+2519,GNE UN Equity,Genie Energy Ltd,2519.0,2519.0
+2520,ICVX UW Equity,Icosavax Inc,2520.0,2520.0
+2521,AVTE UQ Equity,Aerovate Therapeutics Inc,2521.0,2521.0
+2522,SIG UN Equity,Signet Jewelers Ltd,2522.0,2522.0
+2523,CCCS UW Equity,CCC Intelligent Solutions Hold,2523.0,2523.0
+2524,ALX UN Equity,Alexander's Inc,2524.0,2524.0
+2525,VRT UN Equity,Vertiv Holdings Co,2525.0,2525.0
+2526,WSO UN Equity,Watsco Inc,2526.0,2526.0
+2527,CME UW Equity,CME Group Inc,2527.0,2527.0
+2528,SCWO UR Equity,374Water Inc,2528.0,2528.0
+2529,EXR UN Equity,Extra Space Storage Inc,2529.0,2529.0
+2530,AGTI UN Equity,Agiliti Inc,2530.0,2530.0
+2531,WSM UN Equity,Williams-Sonoma Inc,2531.0,2531.0
+2532,FIGS UN Equity,Figs Inc,2532.0,2532.0
+2533,QLYS UW Equity,Qualys Inc,2533.0,2533.0
+2534,BIVI UR Equity,BioVie Inc,2534.0,2534.0
+2535,HEI UN Equity,HEICO Corp,2535.0,2535.0
+2536,BFS UN Equity,Saul Centers Inc,2536.0,2536.0
+2537,AM UN Equity,Antero Midstream Corp,2537.0,2537.0
+2538,EVEX UN Equity,Eve Holding Inc,2538.0,2538.0
+2539,SMG UN Equity,Scotts Miracle-Gro Co/The,2539.0,2539.0
+2540,OBIO UQ Equity,Orchestra BioMed Holdings Inc,2540.0,2540.0
+2541,DH UW Equity,Definitive Healthcare Corp,2541.0,2541.0
+2542,ALKT UW Equity,Alkami Technology Inc,2542.0,2542.0
+2543,PWSC UN Equity,PowerSchool Holdings Inc,2543.0,2543.0
+2544,TYRA UW Equity,Tyra Biosciences Inc,2544.0,2544.0
+2545,MPX UN Equity,Marine Products Corp,2545.0,2545.0
+2546,BSY UW Equity,Bentley Systems Inc,2546.0,2546.0
+2547,OCEA UR Equity,Ocean Biomedical Inc,2547.0,2547.0
+2548,IT UN Equity,Gartner Inc,2548.0,2548.0
+2549,MCW UN Equity,Mister Car Wash Inc,2549.0,2549.0
+2550,FA UW Equity,First Advantage Corp,2550.0,2550.0
+2551,RSG UN Equity,Republic Services Inc,2551.0,2551.0
+2552,MA UN Equity,Mastercard Inc,2552.0,2552.0
+2553,COST UW Equity,Costco Wholesale Corp,2553.0,2553.0
+2554,HPK UQ Equity,HighPeak Energy Inc,2554.0,2554.0
+2555,AOMR UN Equity,Angel Oak Mortgage REIT Inc,2555.0,2555.0
+2556,MAR UW Equity,Marriott International Inc/MD,2556.0,2556.0
+2557,ETSY UW Equity,Etsy Inc,2557.0,2557.0
+2558,AGM UN Equity,Federal Agricultural Mortgage,2558.0,2558.0
+2559,NATH UW Equity,Nathan's Famous Inc,2559.0,2559.0
+2560,SNPS UW Equity,Synopsys Inc,2560.0,2560.0
+2561,PEPG UW Equity,PepGen Inc,2561.0,2561.0
+2562,AMAL UQ Equity,Amalgamated Financial Corp,2562.0,2562.0
+2563,RRC UN Equity,Range Resources Corp,2563.0,2563.0
+2564,WINA UQ Equity,Winmark Corp,2564.0,2564.0
+2565,ALGM UW Equity,Allegro MicroSystems Inc,2565.0,2565.0
+2566,SVV UN Equity,Savers Value Village Inc,2566.0,2566.0
+2567,CAR UW Equity,Avis Budget Group Inc,2567.0,2567.0
+2568,OMGA UW Equity,Omega Therapeutics Inc,2568.0,2568.0
+2569,GFS UW Equity,GLOBALFOUNDRIES Inc,2569.0,2569.0
+2570,CORT UR Equity,Corcept Therapeutics Inc,2570.0,2570.0
+2571,CVNA UN Equity,Carvana Co,2571.0,2571.0
+2572,CPSS UQ Equity,Consumer Portfolio Services In,2572.0,2572.0
+2573,TCI UN Equity,Transcontinental Realty Invest,2573.0,2573.0
+2574,COIN UW Equity,Coinbase Global Inc,2574.0,2574.0
+2575,AAPL UW Equity,Apple Inc,2575.0,2575.0
+2576,AXON UW Equity,Axon Enterprise Inc,2576.0,2576.0
+2577,KGS UN Equity,Kodiak Gas Services Inc,2577.0,2577.0
+2578,AIRS UQ Equity,AirSculpt Technologies Inc,2578.0,2578.0
+2579,HOV UN Equity,Hovnanian Enterprises Inc,2579.0,2579.0
+2580,FIZZ UW Equity,National Beverage Corp,2580.0,2580.0
+2581,MBI UN Equity,MBIA Inc,2581.0,2581.0
+2582,ASO UW Equity,Academy Sports & Outdoors Inc,2582.0,2582.0
+2583,MPWR UW Equity,Monolithic Power Systems Inc,2583.0,2583.0
+2584,TMUS UW Equity,T-Mobile US Inc,2584.0,2584.0
+2585,LPG UN Equity,Dorian LPG Ltd,2585.0,2585.0
+2586,SRCE UW Equity,1st Source Corp,2586.0,2586.0
+2587,AZPN UW Equity,Aspen Technology Inc,2587.0,2587.0
+2588,ARL UN Equity,American Realty Investors Inc,2588.0,2588.0
+2589,PLPC UW Equity,Preformed Line Products Co,2589.0,2589.0
+2590,WOR UN Equity,Worthington Enterprises Inc,2590.0,2590.0
+2591,PANW UW Equity,Palo Alto Networks Inc,2591.0,2591.0
+2592,LLY UN Equity,Eli Lilly & Co,2592.0,2592.0
+2593,TH UR Equity,Target Hospitality Corp,2593.0,2593.0
+2594,GCBC UR Equity,Greene County Bancorp Inc,2594.0,2594.0
+2595,MHLD UR Equity,Maiden Holdings Ltd,2595.0,2595.0
+2596,MNST UW Equity,Monster Beverage Corp,2596.0,2596.0
+2597,APP UW Equity,AppLovin Corp,2597.0,2597.0
+2598,LFST UW Equity,LifeStance Health Group Inc,2598.0,2598.0
+2599,FCNCA UW Equity,First Citizens BancShares Inc/,2599.0,2599.0
+2600,TNGX UQ Equity,Tango Therapeutics Inc,2600.0,2600.0
+2601,ENFN UN Equity,Enfusion Inc,2601.0,2601.0
+2602,AMBP UN Equity,Ardagh Metal Packaging SA,2602.0,2602.0
+2603,IESC UQ Equity,IES Holdings Inc,2603.0,2603.0
+2604,OLPX UW Equity,Olaplex Holdings Inc,2604.0,2604.0
+2605,GIC UN Equity,Global Industrial Co,2605.0,2605.0
+2606,DECK UN Equity,Deckers Outdoor Corp,2606.0,2606.0
+2607,PLTK UW Equity,Playtika Holding Corp,2607.0,2607.0
+2608,MLNK UN Equity,MeridianLink Inc,2608.0,2608.0
+2609,EEX UN Equity,Emerald Holding Inc,2609.0,2609.0
+2610,FLNG UN Equity,FLEX LNG Ltd,2610.0,2610.0
+2611,NARI UW Equity,Inari Medical Inc,2611.0,2611.0
+2612,OFLX UQ Equity,Omega Flex Inc,2612.0,2612.0
+2613,BANF UW Equity,BancFirst Corp,2613.0,2613.0
+2614,AVGO UW Equity,Broadcom Inc,2614.0,2614.0
+2615,AFRM UW Equity,Affirm Holdings Inc,2615.0,2615.0
+2616,ATMU UN Equity,Atmus Filtration Technologies,2616.0,2616.0
+2617,BKE UN Equity,Buckle Inc/The,2617.0,2617.0
+2618,THRD UQ Equity,Third Harmonic Bio Inc,2618.0,2618.0
+2619,TNET UN Equity,TriNet Group Inc,2619.0,2619.0
+2620,CNA UN Equity,CNA Financial Corp,2620.0,2620.0
+2621,NREF UN Equity,Nexpoint Real Estate Finance I,2621.0,2621.0
+2622,CIX UA Equity,CompX International Inc,2622.0,2622.0
+2623,ISPR UR Equity,Ispire Technology Inc,2623.0,2623.0
+2624,MOD UN Equity,Modine Manufacturing Co,2624.0,2624.0
+2625,USLM UW Equity,United States Lime & Minerals,2625.0,2625.0
+2626,HQI UR Equity,HireQuest Inc,2626.0,2626.0
+2627,ALXO UW Equity,ALX Oncology Holdings Inc,2627.0,2627.0
+2628,MMI UN Equity,Marcus & Millichap Inc,2628.0,2628.0
+2629,JILL UN Equity,J Jill Inc,2629.0,2629.0
+2630,INOD UQ Equity,Innodata Inc,2630.0,2630.0
+2631,CHRD UW Equity,Chord Energy Corp,2631.0,2631.0
+2632,INST UN Equity,Instructure Holdings Inc,2632.0,2632.0
+2633,PLTR UN Equity,Palantir Technologies Inc,2633.0,2633.0
+2634,AMPX UN Equity,Amprius Technologies Inc,2634.0,2634.0
+2635,SRRK UW Equity,Scholar Rock Holding Corp,2635.0,2635.0
+2636,HRT UN Equity,HireRight Holdings Corp,2636.0,2636.0
+2637,SGMT UQ Equity,Sagimet Biosciences Inc,2637.0,2637.0
+2638,WLK UN Equity,Westlake Corp,2638.0,2638.0
+2639,PAG UN Equity,Penske Automotive Group Inc,2639.0,2639.0
+2640,KFS UN Equity,Kingsway Financial Services In,2640.0,2640.0
+2641,NKTX UW Equity,Nkarta Inc,2641.0,2641.0
+2642,BIRK UN Equity,Birkenstock Holding Plc,2642.0,2642.0
+2643,ZS UW Equity,Zscaler Inc,2643.0,2643.0
+2644,ELF UN Equity,elf Beauty Inc,2644.0,2644.0
+2645,KNTK UN Equity,Kinetik Holdings Inc,2645.0,2645.0
+2646,AVAH UW Equity,Aveanna Healthcare Holdings In,2646.0,2646.0
+2647,NMRA UW Equity,Neumora Therapeutics Inc,2647.0,2647.0
+2648,BF/A UN Equity,Brown-Forman Corp,2648.0,2648.0
+2649,ACT UW Equity,Enact Holdings Inc,2649.0,2649.0
+2650,CRVL UW Equity,CorVel Corp,2650.0,2650.0
+2651,AMPS UN Equity,Altus Power Inc,2651.0,2651.0
+2652,GPS UN Equity,Gap Inc/The,2652.0,2652.0
+2653,VEL UN Equity,Velocity Financial Inc,2653.0,2653.0
+2654,CVRX UW Equity,CVRx Inc,2654.0,2654.0
+2655,ROL UN Equity,Rollins Inc,2655.0,2655.0
+2656,MBIN UR Equity,Merchants Bancorp/IN,2656.0,2656.0
+2657,MEDP UW Equity,Medpace Holdings Inc,2657.0,2657.0
+2658,IMVT UW Equity,Immunovant Inc,2658.0,2658.0
+2659,FG UN Equity,F&G Annuities & Life Inc,2659.0,2659.0
+2660,CERE UR Equity,Cerevel Therapeutics Holdings,2660.0,2660.0
+2661,INFA UN Equity,Informatica Inc,2661.0,2661.0
+2662,CLSK UR Equity,Cleanspark Inc,2662.0,2662.0
+2663,ANF UN Equity,Abercrombie & Fitch Co,2663.0,2663.0
+2664,COKE UW Equity,Coca-Cola Consolidated Inc,2664.0,2664.0
+2665,TFSL UW Equity,TFS Financial Corp,2665.0,2665.0
+2666,OTLK UR Equity,Outlook Therapeutics Inc,2666.0,2666.0
+2667,REPX UA Equity,Riley Exploration Permian Inc,2667.0,2667.0
+2668,GOLF UN Equity,Acushnet Holdings Corp,2668.0,2668.0
+2669,AEHR UR Equity,Aehr Test Systems,2669.0,2669.0
+2670,BBIO UW Equity,Bridgebio Pharma Inc,2670.0,2670.0
+2671,ALPN UQ Equity,Alpine Immune Sciences Inc,2671.0,2671.0
+2672,LVWR UN Equity,Livewire Group Inc,2672.0,2672.0
+2673,MSTR UW Equity,MicroStrategy Inc,2673.0,2673.0
+2674,ABNB UW Equity,Airbnb Inc,2674.0,2674.0
+2675,GRND UN Equity,Grindr Inc,2675.0,2675.0
+2676,UEC UA Equity,Uranium Energy Corp,2676.0,2676.0
+2677,ROVR UQ Equity,Rover Group Inc,2677.0,2677.0
+2678,CRWD UW Equity,Crowdstrike Holdings Inc,2678.0,2678.0
+2679,NVDA UW Equity,NVIDIA Corp,2679.0,2679.0
+2680,ARR UN Equity,ARMOUR Residential REIT Inc,2680.0,2680.0
+2681,HDSN UR Equity,Hudson Technologies Inc,2681.0,2681.0
+2682,GME UN Equity,GameStop Corp,2682.0,2682.0
+2683,ANET UN Equity,Arista Networks Inc,2683.0,2683.0
+2684,IMGN UW Equity,ImmunoGen Inc,2684.0,2684.0
+2685,ALT UQ Equity,Altimmune Inc,2685.0,2685.0
+2686,SIRI UW Equity,Sirius XM Holdings Inc,2686.0,2686.0
+2687,EYPT UQ Equity,EyePoint Pharmaceuticals Inc,2687.0,2687.0
+2688,IGT UN Equity,International Game Technology,2688.0,2688.0
+2689,CYTK UW Equity,Cytokinetics Inc,2689.0,2689.0
+2690,METC UW Equity,Ramaco Resources Inc,2690.0,2690.0
+2691,CIFR UW Equity,Cipher Mining Inc,2691.0,2691.0
+2692,SCCO UN Equity,Southern Copper Corp,2692.0,2692.0
+2693,CURV UN Equity,Torrid Holdings Inc,2693.0,2693.0
+2694,DDS UN Equity,Dillard's Inc,2694.0,2694.0
+2695,RIOT UR Equity,Riot Platforms Inc,2695.0,2695.0
+2696,VALU UR Equity,Value Line Inc,2696.0,2696.0
+2697,IBRX UW Equity,ImmunityBio Inc,2697.0,2697.0
+2698,RYZB UQ Equity,RayzeBio Inc,2698.0,2698.0
+2699,EP UA Equity,Empire Petroleum Corp,2699.0,2699.0
+2700,CBAY UW Equity,Cymabay Therapeutics Inc,2700.0,2700.0
+2701,CLDX UR Equity,Celldex Therapeutics Inc,2701.0,2701.0
+2702,BTBT UR Equity,Bit Digital Inc,2702.0,2702.0
+2703,MRVI UW Equity,Maravai LifeSciences Holdings,2703.0,2703.0
+2704,PSFE UN Equity,Paysafe Ltd,2704.0,2704.0
+2705,TSLA UW Equity,Tesla Inc,2705.0,2705.0
+2706,CELH UR Equity,Celsius Holdings Inc,2706.0,2706.0
+2707,PMTS UQ Equity,CPI Card Group Inc,2707.0,2707.0
+2708,MARA UR Equity,Marathon Digital Holdings Inc,2708.0,2708.0
+2709,AMR UN Equity,Alpha Metallurgical Resources,2709.0,2709.0
+2710,BRK/B UN Equity,Berkshire Hathaway Inc,2710.0,2710.0
+2711,APLD UW Equity,Applied Digital Corp,2711.0,2711.0
